@@ -1,0 +1,71 @@
+
+id              int     %9.0g                 Firm id
+wid_07          byte    %9.0g                 Worker id
+eq1_07          byte    %9.0g      eq1_07     Province
+eqd2_07         byte    %19.0g     eqd2_07    Job Characteristic/Function
+eqd3_07         byte    %19.0g     eqd3_07    Relationship to Owner
+eqd4_07         byte    %9.0g      eqd4_07    Gender of Worker
+eqd5_07         int     %9.0g                 Year of birth
+eqd6_07         byte    %9.0g      q5_07      Permanent full-time employee
+eqd7_07         int     %9.0g                 Worker start year
+eqd8_07         byte    %9.0g      q5_07      Residence in the same city/province as work
+eqd9_07         byte    %9.0g      q5_07      Born in same city as permanent residence
+eqd10_07        byte    %9.0g      eqd10_07   Come from rural/urban
+eqd11_07        byte    %11.0g     eqd11_07   Marital status
+eqe1_07         byte    %39.0g     q8_07      Highest level of education
+eqe2_07         int     %9.0g                 Subject of education
+eqe3_07         int     %9.0g                 Finishing year of education
+eqe4_07         byte    %9.0g      q5_07      Generel/on-the-job training during current
+eqe5_07         byte    %39.0g     q8_07      Father's education
+eqe7_07         byte    %39.0g     q8_07      Mother's education
+eqe8_07         byte    %30.0g     q10_07     Mother's work area
+eqf1a_07        byte    %41.0g     eqf1a_07   Professional function before present job
+eqf1b_07        byte    %12.0g     eqf1b_07   Ownership of former workplace
+eqf1c_07        byte    %30.0g     q10_07     Sector of former workplace
+eqf2_07         byte    %20.0g     eqf2_07    Level of experience prior to current job
+eqf3_07         byte    %31.0g     eqf3_07    Reason for choice of job
+eqg1_07         byte    %16.0g     eqg1_07    Current Payment
+eqg2a_07        float   %9.0g                 Workdays/week
+eqg2b_07        float   %9.0g                 Workhours/day
+eqg3a_07        byte    %9.0g      eqg3a_07   Wage time unit
+eqg3b_07        int     %9.0g                 Wage/salary after tax in 1000 VND
+eqg4_07         byte    %9.0g      eqg4_07    Wage compared to last year
+eqg5_07         byte    %9.0g      eqg5_07    Tet bonus/gift last year
+eqg6_07         int     %9.0g                 Value of Tet bonus in 1.000 VND
+eqg7_07         byte    %9.0g      q5_07      Loan from employer over past two years
+eqg8a_07        byte    %9.0g      q5_07      Employer pays for sick leave
+eqg8b_07        byte    %9.0g      q5_07      Employer pays for maternity leave
+eqg8c_07        byte    %9.0g      q5_07      Employer pays for annual leave
+eqg8d_07        byte    %9.0g      q5_07      Employer pays for health insurance
+eqg9_07         byte    %9.0g      q5_07      Training in occupational health and safety at workplace
+eqg10_07        byte    %9.0g      q5_07      Health and safety equipment provided at workplace
+eqg11_07        byte    %9.0g      q5_07      Use of health and safety equipment
+eqh1_07         byte    %35.0g     eqh1_07    How job was found
+eqh2_07         byte    %51.0g     eqh2_07    Job application test
+eqi1_07         byte    %9.0g      q5_07      Member of a Trade Union
+eqi2_07         int     %9.0g                 Year when become a member
+eqi3_07         byte    %9.0g      q5_07      Payment to union or not
+eqi4_07         int     %9.0g                 Size of monthly Union fee in 1000 VND
+eqi5_07         byte    %47.0g     eqi5_07    Benefit from being Union member
+eqi6_07         byte    %9.0g      q5_07      Contacted Union about related issues
+eqj1a_07        byte    %21.0g     q25_07     Work cond: Air quality
+eqj1b_07        byte    %21.0g     q25_07     Work cond: Fire Hazards
+eqj1c_07        byte    %21.0g     q25_07     Work cond: Heat
+eqj1d_07        byte    %21.0g     q25_07     Work cond: Lighting
+eqj1e_07        byte    %21.0g     q25_07     Work cond: Noise
+eqj1f_07        byte    %21.0g     q25_07     Work cond: Waste disposal
+eqj1g_07        byte    %21.0g     q25_07     Work cond: Water pollution
+eqj2_07         byte    %9.0g      q5_07      Restrictions on recruitment of people w HIV/AIDS
+eqj3_07         byte    %9.0g      q5_07      Participation in HIV/AIDS preventing activities
+eqj4_07         byte    %24.0g     eqj4_07    If employee contracted HIV/AIDS
+eqk1a_07        byte    %9.0g      q5_07      Own DVD player
+eqk1b_07        byte    %9.0g      q5_07      Own TV
+eqk1c_07        byte    %9.0g      q5_07      Own cellular phone
+eqk1d_07        byte    %9.0g      q5_07      Own computer
+eqk1e_07        byte    %9.0g      q5_07      Own motorbike
+eqk2a_07        byte    %9.0g      q5_07      Ownership of house
+eqk2b_07        byte    %30.0g     eqk2b_07   Type of dwelling
+eqk2c_07        int     %9.0g                 Space of dwelling (sqm)
+eqk2d_07        byte    %9.0g                 Years in current dwelling
+eqk2e_07        int     %9.0g                 Building year of dwelling
+eqk2f_07        int     %9.0g                 Last major house repair (year)

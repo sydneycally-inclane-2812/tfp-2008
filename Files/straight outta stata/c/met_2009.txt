@@ -1,0 +1,551 @@
+EAq1a07         double  %10.0g     KT2        Revenue from sales in 2007
+EAq1b07         double  %10.0g     KT2        Value of production/manufactured in 2007
+EAq1c07         long    %10.0g     KT2        Value of additional income in 2007
+EAq1d07         long    %10.0g     KT2        Total inderect costs in 2007
+EAq1e07         long    %10.0g     KT2        Value of raw materials in 2007
+EAq1f07         long    %10.0g     KT2        Total value added in 2007
+EAq1g07         long    %10.0g     KT2        Total wage bill, incluiding allowance in 2007
+EAq1h07         long    %10.0g     KT2        Other labour costs (social and health insurance, training, recruitment, etc.) in
+EAq1ha07        long    %10.0g     KT2        Social insurance costs in 2007
+EAq1hb07        long    %10.0g     KT2        Health insurance costs in 2007
+EAq1hc07        long    %10.0g     KT2        Training, recruitment and other costs in 2007
+EAq1i07         long    %10.0g     KT2        Total gross profit in 2007
+EAq1j07         long    %10.0g     KT2        Value of your allowable depreciation in 2007
+EAq1k07         long    %10.0g     KT2        Total interest payments (only formal) in 2007
+EAq1l07         long    %10.0g     KT2        Total fees and taxes (only formal) in 2007
+EAq1m07         long    %10.0g     KT2        Inventories of finished goods beginning-year in 2007
+EAq1n07         long    %10.0g     KT2        Inventories of finished goods end-year in 2007
+EAq1o07         long    %10.0g     KT2        Inventories of raw materials and unfinished products beginning-year in 2007
+EAq1p07         long    %10.0g     KT2        Inventories of raw materials and unfinished products end-year in 2007
+EAq1q07         long    %10.0g     KT2        Total physical assets end-year (market price) in 2007
+EAq1r07         long    %10.0g     KT2        Land value end-year (market price) in 2007
+EAq1s07         long    %10.0g     KT2        Buildings end-year (market price) in 2007
+EAq1t07         long    %10.0g     KT2        Machinery/Equipment end-year (market price) in 2007
+EAq1u07         long    %10.0g     KT2        Total financial assets end-year (market price) in 2007
+EAq1v07         long    %10.0g     KT2        Total outstanding debt end-year in 2007
+EAq1x07         int     %10.0g     KT2        Total number of full-time workers in firm end-year in 2007
+EAq1y07         long    %10.0g     KT2        Value of Import of Raw Materials in 2007
+EAq1z07         long    %10.0g     KT2        Value of export of final product of enterprise in 2007
+EAq1a08         double  %10.0g     KT3        Revenue from sales in 2008
+EAq1b08         double  %10.0g     KT3        Value of production/manufactured in 2008
+EAq1c08         long    %10.0g     KT3        Value of additional income in 2008
+EAq1d08         long    %10.0g     KT3        Total inderect costs in 2008
+EAq1e08         long    %10.0g     KT3        Value of raw materials in 2008
+EAq1f08         long    %10.0g     KT3        Total value added in 2008
+EAq1g08         long    %10.0g     KT3        Total wage bill, incluiding allowance in 2008
+EAq1h08         long    %10.0g     KT3        Other labour costs (social and health insurance, training, recruitment, etc.) in
+EAq1ha08        long    %10.0g     KT3        Social insurance costs in 2008
+EAq1hb08        long    %10.0g     KT3        Health insurance costs in 2008
+EAq1hc08        long    %10.0g     KT3        Training, recruitment and other costs in 2008
+EAq1i08         long    %10.0g     KT3        Total gross profit in 2008
+EAq1j08         long    %10.0g     KT3        Value of your allowable depreciation in 2008
+EAq1k08         long    %10.0g     KT3        Total interest payments (only formal) in 2008
+EAq1l08         long    %10.0g     KT3        Total fees and taxes (only formal) in 2008
+EAq1m08         long    %10.0g     KT3        Inventories of finished goods beginning-year in 2008
+EAq1n08         long    %10.0g     KT3        Inventories of finished goods end-year in 2008
+EAq1o08         long    %10.0g     KT3        Inventories of raw materials and unfinished products beginning-year in 2008
+EAq1p08         long    %10.0g     KT3        Inventories of raw materials and unfinished products end-year in 2008
+EAq1q08         long    %10.0g     KT3        Total physical assets end-year (market price) in 2008
+EAq1r08         long    %10.0g     KT3        Land value end-year (market price) in 2008
+EAq1s08         long    %10.0g     KT3        Buildings end-year (market price) in 2008
+EAq1t08         long    %10.0g     KT3        Machinery/Equipment end-year (market price) in 2008
+EAq1u08         long    %10.0g     KT3        Total financial assets end-year (market price) in 2008
+EAq1v08         long    %10.0g     KT3        Total outstanding debt end-year in 2008
+EAq1x08         int     %10.0g     KT3        Total number of full-time workers in firm end-year in 2008
+EAq1y08         long    %10.0g     KT3        Value of Import of Raw Materials in 2008
+EAq1z08         long    %10.0g     KT3        Value of export of final product of enterprise in 2008
+EAq1a09         byte    %8.0g      KT4        Revenue from sales in 2009
+EAq1b09         byte    %8.0g      KT4        Value of production/manufactured in 2009
+EAq1c09         byte    %8.0g      KT4        Value of additional income in 2009
+EAq1d09         byte    %8.0g      KT4        Total inderect costs in 2009
+EAq1e09         byte    %8.0g      KT4        Value of raw materials in 2009
+EAq1f09         byte    %8.0g      KT4        Total value added in 2009
+EAq1g09         byte    %8.0g      KT4        Total wage bill, incluiding allowance in 2009
+EAq1h09         byte    %8.0g      KT4        Other labour costs (social and health insurance, training, recruitment, etc.) in
+EAq1ha09        byte    %8.0g      KT4        Social insurance costs in 2009
+EAq1hb09        byte    %8.0g      KT4        Health insurance costs in 2009
+EAq1hc09        byte    %8.0g      KT4        Training, recruitment and other costs in 2009
+EAq1i09         byte    %8.0g      KT4        Total gross profit in 2009
+EAq1j09         byte    %8.0g      KT4        Value of your allowable depreciation in 2009
+EAq1k09         byte    %8.0g      KT4        Total interest payments (only formal) in 2009
+EAq1l09         byte    %8.0g      KT4        Total fees and taxes (only formal) in 2009
+EAq1m09         byte    %8.0g      KT4        Inventories of finished goods beginning-year in 2009
+EAq1n09         byte    %8.0g      KT4        Inventories of finished goods end-year in 2009
+EAq1o09         byte    %8.0g      KT4        Inventories of raw materials and unfinished products beginning-year in 2009
+EAq1p09         byte    %8.0g      KT4        Inventories of raw materials and unfinished products end-year in 2009
+EAq1q09         byte    %8.0g      KT4        Total physical assets end-year (market price) in 2009
+EAq1r09         byte    %8.0g      KT4        Land value end-year (market price) in 2009
+EAq1s09         byte    %8.0g      KT4        Buildings end-year (market price) in 2009
+EAq1t09         byte    %8.0g      KT4        Machinery/Equipment end-year (market price) in 2009
+EAq1u09         byte    %8.0g      KT4        Total financial assets end-year (market price) in 2009
+EAq1v09         byte    %8.0g      KT4        Total outstanding debt end-year in 2009
+EAq1x09         byte    %8.0g      KT4        Total number of full-time workers in firm end-year in 2009
+EAq1y09         byte    %8.0g      KT4        Value of Import of Raw Materials in 2009
+EAq1z09         byte    %8.0g      KT4        Value of export of final product of enterprise in 2009
+q1_09           float   %9.0g                 Firm id
+q2b_09          byte    %9.0g      r1_09      Position of respondent
+q2c_09          byte    %9.0g      r2_09      Gender of respondent
+q2d_09          int     %9.0g                 Age of respondent
+q3bd_09         int     %9.0g                 District
+q3be_09         byte    %9.0g      r4_09      Province
+q3d_09          byte    %9.0g      r5_09      Internet access
+q3e_09          byte    %9.0g      r6_09      Email
+q3f_09          byte    %9.0g      r7_09      Website
+q4_09           byte    %9.0g      r8         Firm merger (take-over)
+q5_09           byte    %13.0g     r9_09      Production zone
+q6a_09          int     %9.0g                 Year of establishment
+q6b_09          int     %9.0g                 Year of take over (current owners)
+q7a_09          byte    %9.0g      r10_09     Tax code
+q8_09           byte    %23.0g     r11_09     Type of firm
+q9a_09          byte    %9.0g      r12_09     Changed owner
+q9b_09          byte    %13.0g     r13_09     Reason for changing owner
+q10a_09         byte    %9.0g      r14_09     Temporary closure, but operating now
+q10a1_09        byte    %44.0g     r15_09     Reason for temporary closure
+q10b_09         byte    %9.0g      r16_09     Changed legal status
+q11a_09         byte    %9.0g      r17_09     Changed location
+q11b_09         byte    %48.0g     r18_09     Reason for changing location
+q12a_09         byte    %34.0g     r19_09     Legal status
+q12b_09         byte    %49.0g     r20_09     HH formal/informal
+q13_09          byte    %9.0g      r21_09     Manufacturing main production sector
+q14a_09         byte    %9.0g      r22_09     Main road
+q14b_09         byte    %9.0g      r23_09     Easy access to rail
+q14c_09         byte    %9.0g      r24_09     Easy access to port
+q15_09          byte    %35.0g     r25_09     Premises mainly used for
+q16a_09         byte    %32.0g     r26_09     Certificate of Land Use Rights
+q16aa_09        byte    %14.0g     r27_09     Time to obtain CLUR
+q16ab_09        byte    %22.0g     r28_09     Cost of obtaining a CLUR
+q16b_09         byte    %22.0g     r29_09     Cost of informal land agreement or rent
+q17_n           byte    %9.0g                 Number of goods/services produced
+q17_09          byte    %9.0g      r30_09     Diversification
+q17a_09         byte    %73.0g     r31_09     Sector
+q17a_4ds_09     int     %9.0g                 Sector 4-digit VSIC
+q18_09          byte    %12.0g     r32_09     Previous experience
+q19_09          byte    %54.0g     r33_09     Main reason for starting business
+q20_09          byte    %9.0g                 Startup difficulty index - 0 (none) to 13 (severe)
+q21a_09         byte    %12.0g     r34_09     Assistance from government officials
+q21b_09         byte    %12.0g     r34_09     Assistance from state owned commercial bank
+q21c_09         byte    %12.0g     r34_09     Assistance from state owned enterprise
+q21d_09         byte    %12.0g     r34_09     Assistance from donor agencies/foriegn NGOs
+q21e_09         byte    %12.0g     r34_09     Assistance from mass organizations
+q21f_09         byte    %12.0g     r34_09     Assistance from private firms or banks
+q21g_09         byte    %12.0g     r34_09     Assistance from friends and relatives/family
+q21h_09         byte    %12.0g     r34_09     Assistance from business association
+q21i_09         byte    %12.0g     r34_09     Assistance from 'Other'
+q22a_09         byte    %9.0g                 Number of HH members
+q22aa_09        float   %9.0g                 Share of women in HH
+q22ba_09        float   %9.0g                 Share of children in HH
+q22bb_09        float   %9.0g                 Share of adults between 15-60 in HH
+q22bc_09        float   %9.0g                 Share of adults over 60 in HH
+q23_09          float   %9.0g                 Number of full time jobs as share of adults between 15-60 in HH (99 = no adults
+q24a_09         byte    %9.0g                 Number of income generating jobs
+q24b_09         byte    %9.0g      r35_09     Firm profit/income main source of HH income
+q25_09          byte    %16.0g     r36_09     HH income change since 2007
+q26a_09         byte    %12.0g     r38_09     Respondent ethnicity
+q26b_09         byte    %24.0g     r39_09     Respondent basic education
+q26c_09         byte    %56.0g     r40_09     Respondent professional education
+q26d_09         byte    %37.0g     r41_09     Previous work status
+q26e_09         byte    %35.0g     r42_09     Owner previous education
+q26fa_09        byte    %9.0g      r43_09     Respondent hold a local cadre position
+q26fb_09        byte    %9.0g      r43_09     Respondent is war veteran
+q26g_09         byte    %9.0g      r43_09     Respondent is a Communist Party member
+q27a_09         byte    %12.0g     r44_09     Before establishing current firm, did the owner have another enterprise?
+q27b_09         byte    %12.0g     r44_09     Does the owner currently own other enterprises?
+q27c_09         byte    %47.0g     r45_09     Why several enterprises?
+q28_09          byte    %38.0g     r46_09     Does the enterprise use:
+q29a_09         float   %9.0g                 Share of equipment/machinery under 3 years old
+q29b_09         float   %9.0g                 Share of equipment/machinery 3 to 5 years old
+q29c_09         float   %9.0g                 Share of equipment/machinery 6 to 10 years old
+q29d_09         float   %9.0g                 Share of equipment/machinery 11 to 20 years old
+q29e_09         float   %9.0g                 Share of equipment/machinery over 20 years old
+q30aa_09        float   %9.0g                 Share of equipment/machinery new
+q30ab_09        float   %9.0g                 Share of equipment/machinery used
+q30ac_09        float   %9.0g                 Share of equipment/machinery self-constructed
+q30ba_09        float   %9.0g                 Share of equipment/machinery purchased locally (same district)
+q30bb_09        float   %9.0g                 Share of equipment/machinery purchased other district same province
+q30bc_09        float   %9.0g                 Share of equipment/machinery purchased other province
+q30bd_09        float   %9.0g                 Share of equipment/machinery purchased through direct import
+q30be_09        float   %9.0g                 Share of equipment/machinery purchased through indirect import
+q31_09          byte    %9.0g      r47_09     Own equipment/machinery
+q31a_09         byte    %14.0g     r48_09     How was owned machinery/equipment financed
+q32_09          byte    %18.0g     r49_09     Main source of supply of equipment/machinery
+q33_09          byte    %31.0g     r50_09     Capacity Utilization
+q34a_09         byte    %9.0g                 Number of PCs
+q34b_09         byte    %9.0g      r51_09     Sell via e-trading
+q34c_09         byte    %9.0g      r52_09     Buy inputs via e-trading
+q35a_09         byte    %9.0g      r53_09     Oursource
+q35ad_09        byte    %41.0g     r54_09     Reason for oursourcing
+q35b_09         byte    %9.0g      r55_09     Subcontractor
+q36e_09         float   %9.0g                 Average sales price of one unit of main output (in 1,000 VND)
+q36f_09         float   %9.0g                 Average cost of producing one unit of main output (in 1,000 VND)
+q36ef_09        float   %9.0g                 Price-to-cost ratio of selling/producing one unit of main output
+q36a1_09        str20   %20s                  Name of product 1
+q36a2_09        str20   %20s                  Name of product 2
+q36a3_09        str20   %20s                  Name of product 3
+q36aa1_09       int     %9.0g                 4-digit VSIC Code of product 1
+q36aa2_09       int     %9.0g                 4-digit VSIC Code of product 2
+q36aa3_09       int     %9.0g                 4-digit VSIC Code of product 3
+q36b1_09        str10   %10s                  Units product 1
+q36b2_09        str10   %10s                  Units product 2
+q36b3_09        str10   %10s                  Units product 3
+q36c1_09        float   %9.0g                 Quantity produced product 1
+q36c2_09        float   %9.0g                 Quantity produced product 2
+q36c3_09        float   %9.0g                 Quantity produced product 3
+q36d1_09        float   %9.0g                 Quantity sold product 1
+q36d2_09        float   %9.0g                 Quantity sold product 2
+q36d3_09        float   %9.0g                 Quantity sold product 3
+q36e1_09        float   %9.0g                 Average sales price of one unit of output (1,000 VND) product 1
+q36e2_09        float   %9.0g                 Average sales price of one unit of output (1,000 VND)product 2
+q36e3_09        float   %9.0g                 Average sales price of one unit of output (1,000 VND) product 3
+q36f1_09        float   %9.0g                 Average cost of producing one unit of output (1,000 VND) product 1
+q36f2_09        float   %9.0g                 Average cost of producing one unit of output (1,000 VND)product 2
+q36f3_09        float   %9.0g                 Average cost of producing one unit of output (1,000 VND) product 3
+q37a_09         float   %9.0g                 Share of production used for final consumption
+q37b_09         float   %9.0g                 Share of production used for inputs in agriculture
+q37c_09         float   %9.0g                 Share of production used for inputs in manufacturing
+q37d_09         float   %9.0g                 Share of production used for inputs in services
+q37e_09         float   %9.0g                 Share of production for which final origin is unknown
+q38_09          byte    %56.0g     r56_09     How do you set prices?
+q39_09          byte    %13.0g     r57_09     Produce on advance order
+q40_09          byte    %9.0g      r58_09     Advertise
+q40ba_09        byte    %9.0g      r59_09     Street posters
+q40bb_09        byte    %9.0g      r59_09     Door-to-door info material
+q40bc_09        byte    %9.0g      r59_09     Newspapers/Yellow pages
+q40bd_09        byte    %9.0g      r59_09     Radio
+q40be_09        byte    %9.0g      r59_09     TV
+q40bf_09        byte    %9.0g      r59_09     Internet
+q40bg_09        byte    %9.0g      r59_09     Trade fair
+q40bh_09        byte    %9.0g      r59_09     Other form of advertisement
+q41_09          byte    %17.0g     r60_09     Number of customers
+q42a_09         float   %9.0g                 Share of customers in same commune
+q42b_09         float   %9.0g                 Share of customers in other commune within district
+q42c_09         float   %9.0g                 Share of customers in other district within province
+q42d_09         float   %9.0g                 Share of customers in neighbouring province
+q42e_09         float   %9.0g                 Share of customers in other province (non-neighbouring)
+q42f_09         float   %9.0g                 Share of customers in other country (export)
+q43a_09         float   %9.0g                 Share of customers individual local people
+q43b_09         float   %9.0g                 Share of customers tourists
+q43c_09         float   %9.0g                 Share of customers non-commercial government authorities
+q43d_09         float   %9.0g                 Share of customers domestic non-state firms
+q43e_09         float   %9.0g                 Share of customers state enterprises
+q43f_09         float   %9.0g                 Share of customers foreign invested companies
+q43g_09         float   %9.0g                 Share of customers in foreign country (export)
+q44_09          byte    %9.0g      r61_09     Export
+q44a_09         byte    %9.0g      r61_09     Direct export
+q44a2_09        byte    %43.0g     r44a2_09   Types of export
+q45_09          int     %9.0g                 Direct export start year
+q46_09          byte    %9.0g                 Number of direct export customers
+q47_09          float   %9.0g                 Percent of total sales directly exported in 2008
+q47a_09         byte    %9.0g      r61_09     Firm exports to China
+q47b_09         byte    %9.0g      r61_09     Firm exports to Japan
+q47c_09         byte    %9.0g      r61_09     Firm exports to ASEAN
+q47d_09         byte    %9.0g      r61_09     Firm exports to other Asian countries
+q47e_09         byte    %9.0g      r61_09     Firm exports to US
+q47f_09         byte    %9.0g      r61_09     Firm exports to EU
+q47g_09         byte    %9.0g      r61_09     Firm exports to Russia
+q47h_09         byte    %9.0g      r61_09     Firm exports to other (non-Asian) countries
+q48a_09         byte    %10.0g     r62_09     Days for customs clearance in Vietnam
+q48b_09         byte    %12.0g     r63_09     Time to export
+q48c1_09        byte    %9.0g                 Vietnamese customs a constraining factor for quick export delivery
+q48c2_09        byte    %9.0g                 Transport (outside Vietnam) a constraining factor for quick export delivery
+q48c3_09        byte    %9.0g                 Foreign customs a constraining factor for quick export delivery
+q49_09          byte    %9.0g      r64_09     Receives orders for direct export
+q49a_09         byte    %9.0g      r64_09     Receive product specification, designs, materials
+q50_09          byte    %9.0g      r64_09     Long-term relationship with foreign customers
+q51_09          byte    %9.0g      r64_09     Legal advice for direct export contracts
+q52_09          byte    %9.0g      r64_09     Certificate for direct export contracts
+q53_09          byte    %14.0g     r65_09     Assessment of direct export cooperation
+q54_09          byte    %9.0g      r64_09     Foreign cooperation provided technology otherwise not obtained
+q55a_09         float   %9.0g                 Electricity share of total indirect costs
+q55b_09         float   %9.0g                 Fuel and gas share of total indirect costs
+q55c_09         float   %9.0g                 Water share of total indirect costs
+q55d_09         float   %9.0g                 Rental costs share of total indirect costs
+q55e_09         float   %9.0g                 Stationary and office supplies share of total indirect costs
+q55f_09         float   %9.0g                 Telephone/Internet share of total indirect costs
+q55g_09         float   %9.0g                 Transport share of total indirect costs
+q55h_09         float   %9.0g                 Insurence share of total indirect costs
+q55i_09         float   %9.0g                 Marketing share of total indirect costs
+q55j_09         float   %9.0g                 Maintenance share of total indirect costs
+q55k_09         float   %9.0g                 Other indirect costs share of total indirect costs
+q56_09          byte    %12.0g     r66_09     Days of inventory of most important input
+q57a_09         float   %9.0g                 Road share of total transport
+q57b_09         float   %9.0g                 Rail share of total transport
+q57c_09         float   %9.0g                 Shipping share of total transport
+q57d_09         float   %9.0g                 Air share of total transport
+q58a_09         float   %9.0g                 Share of transport handled by the firm itself
+q58b_09         float   %9.0g                 Share of transport under a contract with a company
+q58c_09         float   %9.0g                 Share of transport under a collective agreement with other firms
+q58ca_09        byte    %31.0g     r67_09     Why does the firm consolidate cargo with other enterprises?
+q59a_09         float   %9.0g                 Share of raw materials procured from households
+q59b_09         float   %9.0g                 Share of raw materials procured from other non-state enterprises
+q59c_09         float   %9.0g                 Share of raw materials procured from state enterprises
+q59d_09         float   %9.0g                 Share of raw materials procured from state agencies
+q59e_09         float   %9.0g                 Share of raw materials procured from imported
+q59f_09         float   %9.0g                 Share of raw materials procured from other
+q60a_09         float   %9.0g                 Share of raw materials procured from same commune in 2006
+q60b_09         float   %9.0g                 Share of raw materials procured from other commune within district in 2006
+q60c_09         float   %9.0g                 Share of raw materials procured from other district within province in 2006
+q60d_09         float   %9.0g                 Share of raw materials procured from neighbouring province in 2006
+q60e_09         float   %9.0g                 Share of raw materials procured from other province in 2006
+q60f_09         float   %9.0g                 Share of raw materials procured from import (directly) in 2006
+q61a_09         byte    %9.0g      r68_09     Import raw materials from China
+q61b_09         byte    %9.0g      r68_09     Import raw materials from Japan
+q61c_09         byte    %9.0g      r68_09     Import raw materials from ASEAN countries
+q61d_09         byte    %9.0g      r68_09     Import raw materials from other Asian countries
+q61e_09         byte    %9.0g      r68_09     Import raw materials from US
+q61f_09         byte    %9.0g      r68_09     Import raw materials from EU
+q61g_09         byte    %9.0g      r68_09     Import raw materials from Russia
+q61h_09         byte    %9.0g      r68_09     Import raw materials from other countries
+q62a_09         byte    %12.0g     r69_09     Time to import
+q62b_09         byte    %9.0g      r70_09     Cargo lost in transit in Vietnam
+q63_09          byte    %9.0g      r71_09     Can the firm select suppliers freely
+q64a_09         byte    %29.0g     r72_09     How does the firm identify suppliers
+q64b_09         byte    %37.0g     r73_09     Main criteria for selecting suppliers
+q65_09          byte    %9.0g      r74_09     Do firms use business services purchased outside the firm
+q65a_09         byte    %46.0g     r75_09     Most important bizz service
+q65b_09         float   %9.0g                 Average expenditure (as percent of total costs) on business services
+q66_09          byte    %28.0g     r76_09     Most important source of bizz services
+q67_09          byte    %9.0g      r77_09     Does the firm keep formal accounting books in accordance with regulations
+q67a_09         byte    %9.0g      r77_09     Are accounts audited
+q67b_09         byte    %9.0g      r77_09     Submit financial accounts
+q68aa_09        float   %9.0g                 Corporate income tax (as share of total taxes)
+q68ab_09        float   %9.0g                 VAT (as share of total taxes)
+q68ac_09        float   %9.0g                 Business registration tax (as share of total taxes)
+q68ad_09        float   %9.0g                 Import/export taxes (as share of total taxes)
+q68ae_09        float   %9.0g                 Special consumption tax (as share of total taxes)
+q68af_09        float   %9.0g                 Property/Enterprise tax (as share of total taxes)
+q68ag_09        float   %9.0g                 Other taxes (as share of total taxes)
+q68b_09         byte    %22.0g     r78_09     Have efforts to ease the tax burden on SMEs helped the performance of the firm i
+q69_09          float   %9.0g                 Percentage of management's working time spent each month dealing with government
+q70_09          byte    %9.0g      r79_09     Does the firm provide informal payments
+q70a_09         byte    %18.0g     r80_09     Bribe frequency
+q70b_09         float   %9.0g                 Bribe amount (as share of firm revenue)
+q70c_09         byte    %35.0g     r81_09     Bribe purpose
+q71_09          byte    %12.0g     r82_09     Will bribe payments increase in the future
+q71a_09         byte    %59.0g     r83_09     Why do you think informal payments level will increase
+q72_09          int     %9.0g                 Number of full-time employees at the time of establishment
+q73_09          int     %9.0g                 Firm size (Total labour force)
+q73a_09         float   %9.0g                 Share unpaid labour force
+q73b_09         float   %9.0g                 Share regular labour force
+q73b1_09        float   %9.0g                 Share regular full-time labour force
+q73c_09         float   %9.0g                 Share casual labour force
+q73d_09         float   %9.0g                 Percentage of regular full-time labour force with formal labour contract
+q73e_09         float   %9.0g                 Percentage of regular full-time labour force with a contract duration of more th
+q74a_09         float   %9.0g                 Manager share of total workforce
+q74b_09         float   %9.0g                 Professionals share of total workforce
+q74c_09         float   %9.0g                 Office workers share of total workforce
+q74d_09         float   %9.0g                 Sales personnel share of total workforce
+q74e_09         float   %9.0g                 Service workers share of total workforce
+q74f_09         float   %9.0g                 Production worker share of total workforce
+q74fa_09        float   %9.0g                 Share unskilled production workers
+q74g_09         float   %9.0g                 Apprentice share of total workforce
+q74w_09         float   %9.0g                 Share of total workforce which are women
+q75a08_09       int     %9.0g                 Number of new employees hired in 2008
+q75a09f_09      int     %9.0g                 Number of new employees hired in the first half of 2009
+q75b08_09       int     %9.0g                 Number of employees left the firm in 2008
+q75b09f_09      byte    %9.0g                 Number of employees left the firm in the first half of 2009
+q75bb08_09      float   %9.0g                 Share of left employees who got fired in 2008
+q75bb09f_09     float   %9.0g                 Share of left employees who got fired in the first half of 2009
+q75e08_09       byte    %9.0g      r84_09     Restructure to avoid lay-offs in 2008
+q75e09f_09      byte    %9.0g      r84_09     Restructure to avoid lay-offs in 2009 (first half)
+q76_09          byte    %12.0g     r85_09     Firm provides training for new workers
+q77_09          byte    %12.0g     r85_09     Firm provides training for existing workers
+q78_09          byte    %12.0g     r85_09     Job rotation
+q79_09          byte    %49.0g     r86_09     How does the firm mainly hire workers?
+q80_09          byte    %15.0g     r87_09     Difficulties with recruitment due to lack of worker skill
+q80a_09         byte    %36.0g     r88_09     Reason for recruitment difficulties
+q81a08_09       byte    %14.0g     rnew1_09   Wage reductions in 2008
+q81a09f_09      byte    %14.0g     rnew1_09   Wage reductions in first half of 2009
+q81a09s_09      byte    %14.0g     rnew1_09   Wage reductions in second half of 2009
+q82a_09         byte    %47.0g     r89_09     Main wage determinant
+q82b_09         byte    %12.0g     r90_09     Wage premium for hazardous work conditions
+q82c_09         float   %9.0g                 Wage premium size (percent above normal wage)
+q83a_09         byte    %12.0g     r91_09     Enterprise has own regulation on severance pay
+q83b_09         byte    %12.0g     r91_09     Severance pay provided to laid off workers (due to incompetence)
+q83c_09         byte    %12.0g     r91_09     Severance pay provided to laid off workers (due to general cutback)
+q84a_09         byte    %12.0g     r92_09     Does the enterprise have a local level trade union
+q84aa_09        int     %9.0g                 Year of establishment of local trade union
+q84ab_09        float   %9.0g                 Share of workforce that are members of the local trade union
+q84ac_09        byte    %28.0g     r93_09     Who is chairman of this local trade union
+q84ad_09        byte    %12.0g     r92_09     Does the enterprise have a Collective Labour Agreement
+q84b_09         byte    %12.0g     r92_09     Has the enterprise had any labour dispute the past two years
+q85a_09         byte    %12.0g     r94_09     Firm pays social insurance contribution
+q85b_09         byte    %12.0g     r94_09     Firm pays health insurance contribution
+q85c_09         byte    %12.0g     r94_09     Firm compensates workforce directly for accidents or professional illness
+q86a_09         byte    %12.0g     r95_09     Firm pays sick leave
+q86b_09         byte    %12.0g     r95_09     Firm provides paid maternity leave
+q86c_09         byte    %12.0g     r95_09     Firm provides unpaid maternity leave
+q86d_09         byte    %12.0g     r95_09     Firm provides annual leave with pay
+q86e_09         byte    %12.0g     r95_09     Firm provides a retirement lump-sum
+q86f_09         byte    %12.0g     r95_09     Firm provides Survival Benefits
+q87_09          byte    %9.0g      r96_09     Is HIV having a notable effect on the performance of your business
+q88a_09         byte    %12.0g     r97_09     Recruit HIV inflicted job candidates
+q88b_09         byte    %12.0g     r97_09     Discrimination against HIV inflicted employees
+q88c_09         byte    %12.0g     r97_09     Confidentiality for HIV inflicted employees
+q89a_09         byte    %9.0g      r98_09     Firm has addressed HIV/AIDS among managers and workers
+q90_09          byte    %9.0g      r99_09     New investment made the last 2 years
+q90a_09         float   %9.0g                 New investment as a share of total revenue
+q90aa_09        float   %9.0g                 Share of new investment in land
+q90ab_09        float   %9.0g                 Share of new investment in buildings
+q90ac_09        float   %9.0g                 Share of new investment in equipment/machinery
+q90ad_09        float   %9.0g                 Share of new investment in R&D
+q90ae_09        float   %9.0g                 Share of new investment in human capital upgrading
+q90af_09        float   %9.0g                 Share of new investment in patents
+q90ag_09        float   %9.0g                 Share of new investment in other enterprises
+q90ah_09        float   %9.0g                 Share of new investment in other categories
+q91a_09         float   %9.0g                 Share of new investment financed by retained earnings
+q91b_09         float   %9.0g                 Share of new investment financed by bank loans
+q91c_09         float   %9.0g                 Share of new investment financed by other sources (with interest)
+q91d_09         float   %9.0g                 Share of new investment financed by friends/family (without interest)
+q91e_09         float   %9.0g                 Share of new investment financed by other sources (without interest)
+q91f_09         float   %9.0g                 Share of new investment financed by issuing new stocks
+q91g_09         float   %9.0g                 Share of new investment financed by other means
+q92_09          byte    %25.0g     r100_09    Main purpose of new investment
+q93a_09         float   %9.0g                 Physical assets share of total assets
+q93b_09         float   %9.0g                 Financial assets share of total assets
+q93aa_09        float   %9.0g                 Land assets share of total physical assets
+q93ab_09        float   %9.0g                 Building assets share of total physical assets
+q93ac_09        float   %9.0g                 Equipment/Machinery assets share of total physical assets
+q93ad_09        float   %9.0g                 Transport assets share of total physical assets
+q93ae_09        float   %9.0g                 Raw material/input inventory share of total physical assets
+q93af_09        float   %9.0g                 Finished goods inventory share of total physical assets
+q94_09          byte    %9.0g      r101_09    Sold assets in 2008
+q95_09          byte    %9.0g      r102_09    Firm has debt
+q95a_09         float   %9.0g                 Formal short term debt as a share of total debt
+q95b_09         float   %9.0g                 Informal short term debt as a share of total debt
+q95c_09         float   %9.0g                 Formal long term debt as a share of total debt
+q95d_09         float   %9.0g                 Informal long term debt as a share of total debt
+q96_09          float   %9.0g                 Interest payments as a share of total assets
+q96a_09         float   %9.0g                 Share of interest payments formal
+q97_09          byte    %12.0g     r103_09    Did the firm fail to service debt in 2008
+q98a_09         byte    %9.0g      r104_09    Firm has a outstanding balance owed to suppliers
+q98b_09         byte    %9.0g      r104_09    Firm has an amount due from customers
+q99_09          byte    %9.0g      r105_09    Has your firm applied for bank loans or other formal credit the last two years?
+q100_09         byte    %9.0g      r106_09    Did your firm experience any problems getting the loan?
+q100a_09        byte    %72.0g     r107_09    Why loan problems?
+q101a_09        byte    %9.0g                 Number of short term loans
+q101b_09        byte    %9.0g                 Number of long term loans
+q102_09         byte    %34.0g     r108_09    Which bank/formal credit institution do you primarily use?
+q103a_09        byte    %9.0g                 Number of short term loans denied
+q103b_09        byte    %9.0g                 Number of long term loans denied
+q104a_09        byte    %34.0g     r109_09    Source of loan
+q104e_09        float   %9.0g                 Monthly interest rate (percent)
+q104f_09        byte    %9.0g      r110_09    Collateral provided
+q104fa_09       byte    %19.0g     r111_09    What kind of collateral provided
+q104g_09        byte    %9.0g      r110_09    Guarantor for loan
+q105_09         byte    %9.0g      r112_09    Do you still think that you are in need of a loan?
+q105a_09        byte    %22.0g     r113_09    Need loan reason
+q106_09         byte    %24.0g     r114_09    Why has the firm not applied for a loan?
+q107_09         byte    %9.0g      r115_09    Have you borrowed from informal sources the last 2 years
+q107a_09        byte    %26.0g     r116_09    Reason for obtaining informal loan
+q108a_09        byte    %41.0g     r117_09    Source of informal loan
+q108e_09        float   %9.0g                 Monthly interest rate (percent)
+q108f_09        byte    %9.0g      r118_09    Collateral provided
+q108g_09        byte    %9.0g      r118_09    Guarantor for loan
+q109_09         byte    %13.0g     r119_09    Which source of loan do you consider most important for the operation of your fi
+q110_09         byte    %12.0g     r120_09    Distance to the most important creditor
+q111_09         byte    %46.0g     r121_09    Where is the creditor located?
+q112_09         byte    %12.0g     r122_09    Did your enterprise ever extend a loan to the main creditor
+q113_09         byte    %12.0g     r123_09    Borrowed from the main creditor before
+q114_09         byte    %12.0g     r124_09    Firm has environmental certificate
+q114a_09        byte    %12.0g     r124_09    Firm has difficulties fulfilling environmental regulations
+q114b_09        byte    %12.0g     r124_09    Firm treats environmental waste
+q115a_09        byte    %26.0g     r125_09    Most difficult environmental requirement to meet
+q115b_09        byte    %26.0g     r125_09    Most costly environmental requirement to meet
+q116a_09        byte    %12.0g     r126_09    Firm obtain water from public tap
+q116b_09        byte    %12.0g     r126_09    Firm obtain water from private tap
+q116c_09        byte    %12.0g     r126_09    Firm obtain water from groundwater
+q116d_09        byte    %12.0g     r126_09    Firm obtain water from surface water
+q116e_09        byte    %12.0g     r126_09    Firm obtain water from other sources
+q117_09         byte    %9.0g      r127_09    Treat water before use in production
+q118_09         byte    %27.0g     r128_09    Where does the enterprise use most quantity of water for production?
+q119a_09        byte    %9.0g      r129_09    Investments made in order to save water?
+q119b_09        byte    %9.0g      r129_09    Other measures taken in order to save water?
+q120a_09        byte    %20.0g     r130_09    Where does the firm discharge most of its waste water?
+q120b_09        byte    %9.0g      r131_09    Has the discharged waste water been measured in the past?
+q120c_09        byte    %9.0g      r131_09    Does the enterprise or responsible environmental agency measure the quantity of
+q120d_09        byte    %10.0g     r132_09    Does the enterprise or responsible environmental agency measure pollution concen
+q121_09         byte    %12.0g     r133_09    Does the enterprise treat waste water before discharge?
+q122_09         byte    %9.0g      r134_09    Record the reduction in emissions of pollutants?
+q123a1_09       byte    %20.0g     r135_09    Network size: Business people within same sector
+q123a2_09       byte    %20.0g     r135_09    Network size: Business people in other sectors
+q123a3_09       byte    %19.0g     r136_09    Network size: Bank officials
+q123a4_09       byte    %19.0g     r136_09    Network size: Politicians and civil servants
+q124a_09        float   %9.0g                 Percent of network which are suppliers to the firm
+q124b_09        float   %9.0g                 Percent of network which are customers to the firm
+q124c_09        float   %9.0g                 Percent of network which are debtors to the firm
+q124d_09        float   %9.0g                 Percent of network which are creditors to the firm
+q124e_09        float   %9.0g                 Percent of network which are women
+q125_09         byte    %9.0g      r137_09    Member of a business association
+q125a_09        byte    %9.0g                 Number of business association memberships
+q125b2_09       byte    %12.0g     r138_09    Pay membership fees
+q125b4_09       byte    %12.0g     r138_09    Received advocacy support
+q125b5_09       byte    %50.0g     r139_09    Type of received advocacy support
+q125b6_09       byte    %18.0g     r140_09    Quality of received advocacy support
+q125b7_09       byte    %50.0g     r141_09    Most needed advocacy support
+q126a_09        byte    %9.0g      r142_09    Do you face competition in your field of activity?
+q126aa_09       byte    %14.0g     r143_09    Competition from state enterprises
+q126ab_09       byte    %14.0g     r143_09    Competition from other private firms
+q126ac_09       byte    %14.0g     r143_09    Competition from legal imports
+q126ad_09       byte    %14.0g     r143_09    Competition from smuggling
+q126ae_09       byte    %14.0g     r143_09    Competition from other sources
+q126b_09        byte    %9.0g      r144_09    How has the level of competition level changed since last survey
+q127_09         byte    %9.0g      r145_09    Do you have accumulated goods, which are difficult to sell?
+q127a_09        byte    %43.0g     r146_09    Most important reason
+q128_09         byte    %9.0g      r147_09    Do you plan to start up new projects/product lines in the near future?
+q128a_09        byte    %54.0g     r148_09    Most important problem in starting up new product lines
+q129_09         byte    %9.0g      r149_09    Has the firm introduced new products the last 2 years?
+q130_09         byte    %9.0g      r150_09    Has the firm improved existing products the last 2 years?
+q131_09         byte    %9.0g      r151_09    Has the firm introduced new production processes/technology the last 2 years?
+q132a_09        byte    %9.0g      r152_09    Firm has business registration license
+q132b_09        byte    %9.0g      r152_09    Firm has social insurance registration certificate
+q132c_09        byte    %9.0g      r152_09    Firm has investment certificate
+q132d_09        byte    %9.0g      r152_09    Firm has environmental standards certificate
+q132e_09        byte    %9.0g      r152_09    Firm has fire prevention certificate
+q132f_09        byte    %9.0g      r152_09    Firm has technology transfer certificate
+q132g_09        byte    %9.0g      r152_09    Firm has remittances transfer permit
+q132h_09        byte    %9.0g      r152_09    Firm has license to operate overseas accounts
+q132a2_09       byte    %12.0g     r153_09    Did it take less than 15 days to receive the business registration license
+q133_09         byte    %9.0g      r154_09    Does the firm face any major constraints to growth?
+q133a_09        byte    %54.0g     r155_09    Most important constraint
+q133b_09        byte    %9.0g      r156_09    Has the recent international crisis affected your business
+q133ba_09       byte    %10.0g     r157_09    Will the effects be temporary or permanent
+q133c_09        byte    %9.0g      r156_09    Has the international crisis brought any positive things
+q133ca_09       byte    %30.0g     r158_09    Most important positive effect
+q134_09         byte    %9.0g      r159_09    Received some sort of government assistance in 2008
+q134a_09        byte    %9.0g      r159_09    Did you have to provide an informal payment in order to obtain the assistance?
+q135_09         byte    %9.0g      r160_09    Received support (training) from foreign donors
+q136a_09        byte    %13.0g     r161_09    Number of policy compliance inspections
+q136b_09        byte    %13.0g     r161_09    Number of technical compliance inspections
+q136c_09        byte    %13.0g     r161_09    Number of other inspections
+q137_09         byte    %33.0g     r162_09    Most important assistance
+q138a_09        byte    %31.0g     r163_09    Knowledge about Enterprise Law
+q138b_09        byte    %31.0g     r163_09    Knowledge about Cooperative Law
+q138c_09        byte    %31.0g     r163_09    Knowledge about Labour Code
+q138d_09        byte    %31.0g     r163_09    Knowledge about Customs Law
+q138e_09        byte    %31.0g     r163_09    Knowledge about Insurance Law
+q138f_09        byte    %31.0g     r163_09    Knowledge about Tax Law
+q138g_09        byte    %31.0g     r163_09    Knowledge about Environmental Law
+q138h_09        byte    %31.0g     r163_09    Knowledge about Land Law
+q138i_09        byte    %31.0g     r163_09    Knowledge about Investment Law
+q138j_09        byte    %31.0g     r163_09    Knowledge about Social Insurance Law
+q138k_09        byte    %31.0g     r163_09    Knowledge about Government HIV/AIDS Regulation
+q138l_09        byte    %31.0g     r163_09    Knowledge about Gender Equality Law
+q139a_09        byte    %11.0g     r164_09    WTO membership will lead to faster economic growth
+q139b_09        byte    %11.0g     r164_09    WTO membership will lead to an improved business environment
+q139c_09        byte    %11.0g     r164_09    WTO membership will lead to greater demand for firm products
+q139d_09        byte    %11.0g     r164_09    WTO membership will lead to higher social payments
+q139e_09        byte    %11.0g     r164_09    WTO membership will lead to more competition to SMEs
+q140a_09        byte    %11.0g     r165_09    Increase firm exports
+q140b_09        byte    %11.0g     r165_09    Make access to modern technoly easier
+q140c_09        byte    %11.0g     r165_09    Make access to credit and capital easier
+q140d_09        byte    %11.0g     r165_09    Increase competition due to increased imports
+q140e_09        byte    %11.0g     r165_09    Increase labour costs due to higher labour standards
+q141a_09        byte    %9.0g      r166_09    Reducing production costs (inputs, raw materials)
+q141b_09        byte    %9.0g      r166_09    Introducing new technology
+q141c_09        byte    %9.0g      r166_09    Upgrading capacity of labour force
+q141d_09        byte    %9.0g      r166_09    Reducing labour force
+q141e_09        byte    %9.0g      r166_09    Recruiting new high skilled labour
+q141f_09        byte    %9.0g      r166_09    Identifying new market outlets
+q141g_09        byte    %9.0g      r166_09    Creating new or improving existing products
+q141h_09        byte    %9.0g      r166_09    Taking other steps to face increasing international competition
+q142_09         byte    %9.0g      r167_09    Do you know about the ASMED Business Portal (SME Information Portal)

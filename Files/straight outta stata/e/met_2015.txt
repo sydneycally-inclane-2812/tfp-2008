@@ -1,0 +1,114 @@
+
+id              int     %9.0g                 Firm id
+wid_15          byte    %9.0g                 Worker id
+wid_in_13       byte    %9.0g                 Worker code 2013 (9 if surveyed for the first time in 2015)
+eq2_15          byte    %9.0g      eq2_15     Province
+eqd1a_15        byte    %9.0g                 Employee code in 2013 (9 if surveyed for the first time in 2015)
+eqd2_15         byte    %19.0g     eqd2_15    Job Characteristic/Function
+eqd3_15         byte    %48.0g     eqd3_15    Relationship to owner
+eqd4_15         byte    %9.0g      eqd4_15    Gender of Worker
+eqd5_15         int     %9.0g                 Year of birth
+eqd6_15         byte    %9.0g      eqd6_15    Permanent full-time employee
+eqd7_15         byte    %9.0g      eqd7_15    Formal labour contract
+eqd8_15         int     %9.0g      eqd8_15    Worker start year
+eqd9_15         byte    %9.0g      eqd9_15    Residence in the same city/province as work
+eqd10_15        byte    %9.0g      eqd10_15   Permanent address rural/urban
+eqd11_15        byte    %9.0g      eqd11_15   Born in same city as permanent residence
+eqd12_15        byte    %11.0g     eqd12_15   Marital status
+eqd13_15        byte    %9.0g                 Number of children
+eqd14_15        byte    %9.0g      eqd14_15   Ethnicity
+eqe1_15         byte    %35.0g     eqe1_15    Highest level of education
+eqe2_15         int     %9.0g                 Subject of education
+eqe3_15         int     %9.0g                 Finishing year of education
+eqe4_15         byte    %9.0g      eqe4_15    Father's education
+eqe5_15         byte    %30.0g     eqe5_15    Father's work area
+eqe6_15         byte    %30.0g     eqe6_15    Mother's education
+eqe7_15         byte    %30.0g     eqe7_15    Mother's work area
+eqe8_15         byte    %9.0g                 How many times received on-the-job training
+eqe8a_15        int     %9.0g                 Duration of on-the-job training
+eqe9_15         byte    %9.0g                 How many times received off-the-job training
+eqe9a_15        int     %9.0g                 Duration of off-the-job training
+eqe10_15        byte    %9.0g                 How many times received informal training
+eqe10a_15       int     %9.0g                 Duration of the informal training
+eqe11_15        byte    %53.0g     eqe11_15   Increase in wage after the training
+eqe12_15        byte    %9.0g      eqe12_15   Received training by previous employer
+eqe13_15        byte    %9.0g      eqe13_15   Was the training by previous employer useful
+eqf1a_15        byte    %41.0g     eqf1a_15   Professional function before present job
+eqf1b_15        byte    %12.0g     eqf1b_15   Ownership of former workplace
+eqf1c_15        byte    %30.0g     eqf1c_15   Sector of former workplace
+eqf2_15         byte    %9.0g                 Years of experience prior to current job
+eqf3_15         byte    %20.0g     eqf3_15    Level of experience prior to current job
+eqf4_15         byte    %31.0g     eqf4_15    Reason for choice of job
+eqg1a_15        byte    %16.0g     eqg1a_15   Current Payment
+eqg1b_15        byte    %9.0g      eqg1b_15   Form of Payment
+eqg2a_15        float   %9.0g                 Workdays/week
+eqg2b_15        float   %9.0g                 Workhours/day
+eqg3a1_15       byte    %11.0g     eqg3a1_15
+                                              Wage time unit
+eqg3a2_15       float   %9.0g                 Wage/salary in 1000 VND
+eqg3b1_15       byte    %11.0g     eqg3b1_15
+                                              Wage time unit
+eqg3b2_15       int     %9.0g                 Starting wage/salary in 1000 VND
+eqg3c1_15       byte    %11.0g     eqg3c1_15
+                                              Wage time unit
+eqg3c2_15       int     %9.0g                 Wage/salary in 1000 VND
+eqg4_15         byte    %9.0g      eqg4_15    Pay for overtime work
+eqg5a_15        byte    %9.0g      eqg5a_15   Wage compared to last year
+eqg5b_15        byte    %9.0g      eqg5b_15   Wage adjusted in last two years
+eqg6_15         byte    %9.0g      eqg6_15    Tet bonus/gift last year
+eqg7_15         int     %9.0g                 Value of Tet bonus in 1.000 VND
+eqg8_15         byte    %9.0g      eqg8_15    Loan from employer over past two years
+eqg9a_15        byte    %9.0g      eqg9a_15   Employer pays for sick leave
+eqg9b_15        byte    %9.0g      eqg9b_15   Employer pays for maternity leave
+eqg9c_15        byte    %9.0g      eqg9c_15   Payment when stop working/retires
+eqg9d_15        byte    %9.0g      eqg9d_15   Severance pay
+eqg9e_15        byte    %9.0g      eqg9e_15   Compensation for accident/illness
+eqg9f_15        byte    %9.0g      eqg9f_15   Survival benefit
+eqg9g_15        byte    %9.0g      eqg9g_15   Employer pays for health insurance
+eqg9h_15        byte    %9.0g      eqg9h_15   Employer pays for annual leave
+eqg9i_15        byte    %9.0g      eqg9i_15   Employer pays for unemployment insurance
+eqg10a_15       byte    %9.0g      eqg10a_15
+                                              Voluntary pension fund
+eqg10b_15       byte    %9.0g      eqg10b_15
+                                              Voluntary health insurance scheme
+eqg11_15        byte    %27.0g     eqg11_15   Reason for no voluntary insurance
+eqg12_15        byte    %9.0g      eqg12_15   Training in occupational health and safety at workplace
+eqg13_15        byte    %9.0g      eqg13_15   Health and safety equipment provided at workplace
+eqg14_15        byte    %9.0g      eqg14_15   Use of health and safety equipment
+eqh1_15         byte    %35.0g     eqh1_15    How job was found
+eqh2_15         byte    %51.0g     eqh2_15    Job application test
+eqi1_15         byte    %9.0g      eqi1_15    Member of a trade union
+eqi2_15         int     %9.0g                 When did you become a union member
+eqi3_15         byte    %9.0g      eqi3_15    Payment to union or not
+eqi4_15         int     %9.0g                 Size of monthly union fee in 1000 VND
+eqi5_15         byte    %47.0g     eqi5_15    Benefit from being union member
+eqi6_15         byte    %9.0g      eqi6_15    Contacted union about job-related issues
+eqi7_15         byte    %9.0g      eqi7_15    Participated in a strike at current firm
+eqi8_15         byte    %21.0g     eqi8_15    Reason for strike
+eqj1a_15        byte    %9.0g      eqj1a_15   Premium paid for working in hazardous conditions
+eqj1ba_15       byte    %21.0g     eqj1ba_15
+                                              Work cond: Air quality
+eqj1bb_15       byte    %21.0g     eqj1bb_15
+                                              Work cond: Fire Hazards
+eqj1bc_15       byte    %21.0g     eqj1bc_15
+                                              Work cond: Heat
+eqj1bd_15       byte    %21.0g     eqj1bd_15
+                                              Work cond: Lighting
+eqj1be_15       byte    %21.0g     eqj1be_15
+                                              Work cond: Noise
+eqj1bf_15       byte    %21.0g     eqj1bf_15
+                                              Work cond: Waste disposal
+eqj1bg_15       byte    %21.0g     eqj1bg_15
+                                              Work cond: Water pollution
+eqk1a_15        byte    %9.0g      eqk1a_15   Owns DVD player
+eqk1b_15        byte    %9.0g      eqk1b_15   Owns TV
+eqk1c_15        byte    %9.0g      eqk1c_15   Owns cellular phone
+eqk1d_15        byte    %9.0g      eqk1d_15   Owns computer
+eqk1f_15        byte    %9.0g      eqk1f_15   Owns bank account
+eqk1e_15        byte    %9.0g      eqk1e_15   Owns motorbike
+eqk2a_15        byte    %9.0g      eqk2a_15   Ownership of house
+eqk2b_15        byte    %30.0g     eqk2b_15   Type of dwelling
+eqk2c_15        float   %9.0g                 Space of dwelling (sqm)
+eqk2d_15        byte    %9.0g                 Years in current dwelling
+eqk2e_15        int     %9.0g                 Building year of dwelling
+eqk2f_15        int     %9.0g                 Last major house repair (year)

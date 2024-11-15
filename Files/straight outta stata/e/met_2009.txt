@@ -1,0 +1,87 @@
+
+id              int     %9.0g                 Firm id
+wid_09          byte    %9.0g                 Worker id
+wid07           byte    %9.0g                 Worker code 2007
+eq1_09          byte    %9.0g      eq1_09     Province
+eqd2_09         byte    %19.0g     eqd2_09    Job Characteristic/Function
+eqd4_09         byte    %9.0g      eqd4_09    Gender of worker
+eqd5_09         int     %9.0g                 Age of worker
+eqd6_09         byte    %9.0g      q5_09      Permanent full-time employee
+eqd7_09         byte    %9.0g      q5_09      Formal labour contract
+eqd8_09         int     %9.0g                 Worker start year
+eqd9_09         byte    %9.0g      q5_09      Residence in the same city/province as work
+eqd10_09        byte    %9.0g      eqd10_09   Permanent address rural/urban
+eqd11_09        byte    %9.0g      q5_09      Born in same city as permanent residence
+eqd12_09        byte    %11.0g     eqd12_09   Marital status
+eqe1_09         byte    %9.0g      q8_09      Highest level of education
+eqe2_09         int     %9.0g                 Subject of education
+eqe3_09         int     %9.0g                 Finishing year of education
+eqe4_09         byte    %9.0g      q5_09      Generel/on-the-job training during current
+eqe5_09         byte    %9.0g      q8_09      Father's education
+eqe6_09         byte    %30.0g     q10_09     Father's work area
+eqe7_09         byte    %9.0g      q8_09      Mother's education
+eqe8_09         byte    %30.0g     q10_09     Mother's work area
+eqf1a_09        byte    %41.0g     eqf1a_09   Professional function before present job
+eqf1b_09        byte    %12.0g     eqf1b_09   Ownership of former workplace
+eqf1c_09        byte    %30.0g     q10_09     Sector of former workplace
+eqf2_09         byte    %9.0g                 Years of experience prior to current job
+eqf3_09         byte    %20.0g     eqf3_09    Level of experience prior to current job
+eqf4_09         byte    %31.0g     eqf4_09    Reason for choice of job
+eqg1a_09        byte    %16.0g     eqg1a_09   Current Payment
+eqg1b_09        byte    %9.0g      eqg1b_09   Form of Payment
+eqg2a_09        float   %9.0g                 Workdays/week
+eqg2b_09        float   %9.0g                 Workhours/day
+eqg3a_09        byte    %9.0g      eqg3a_09   Wage time unit
+eqg3b_09        int     %9.0g                 Wage/salary in 1000 VND
+eqg4_09         byte    %9.0g      q5_09      Pay for overtime work
+eqg5a_09        byte    %9.0g      eqg5a_09   Wage compared to last year
+eqg5b_09        byte    %9.0g      q19_09     Wage adjusted in last two years
+eqg6_09         byte    %9.0g      q19_09     Tet bonus/gift last year
+eqg7_09         int     %9.0g                 Value of Tet bonus in 1.000 VND
+eqg8_09         byte    %9.0g      q5_09      Loan from employer over past two years
+eqg9a_09        byte    %9.0g      q5_09      Employer pays for sick leave
+eqg9b_09        byte    %9.0g      q5_09      Employer pays for maternity leave
+eqg9c_09        byte    %9.0g      q5_09      Payment when stop working/retires
+eqg9d_09        byte    %9.0g      q5_09      Severance pay
+eqg9e_09        byte    %9.0g      q5_09      Compensation for accident/illness
+eqg9f_09        byte    %9.0g      q5_09      Survival benefit
+eqg9g_09        byte    %9.0g      q5_09      Employer pays for health insurance
+eqg9h_09        byte    %9.0g      q5_09      Employer pays for annual leave
+eqg10a_09       byte    %9.0g      q5_09      Voluntary pension scheme
+eqg10b_09       byte    %9.0g      q5_09      Voluntary health insurance scheme
+eqg11_09        byte    %27.0g     eqg11_09   Reason for no voluntary insurance
+eqg12_09        byte    %9.0g      q5_09      Training in occupational health and safety at workplace
+eqg13_09        byte    %9.0g      q5_09      Health and safety equipment provided at workplace
+eqg14_09        byte    %9.0g      q5_09      Use of health and safety equipment
+eqh1_09         byte    %35.0g     eqh1_09    How job was found
+eqh2_09         byte    %51.0g     eqh2_09    Job application test
+eqi1_09         byte    %9.0g      q19_09     Member of a Trade Union
+eqi2_09         int     %9.0g                 Year when become a member
+eqi3_09         byte    %9.0g      q5_09      Payment to union or not
+eqi4_09         float   %9.0g                 Size of monthly Union fee in 1000 VND
+eqi5_09         byte    %47.0g     eqi5_09    Benefit from being Union member
+eqi6_09         byte    %9.0g      q5_09      Contacted Union about related issues
+eqi7_09         byte    %9.0g      q5_09      Participated in a strike at current firm
+eqi8_09         byte    %21.0g     eqi8_09    Main reason for strike
+eqj1a_09        byte    %9.0g      q5_09      Premium paid for working in hazardous conditions
+eqj1ba_09       byte    %21.0g     q25_09     Work cond: Air quality
+eqj1bb_09       byte    %21.0g     q25_09     Work cond: Fire Hazards
+eqj1bc_09       byte    %21.0g     q25_09     Work cond: Heat
+eqj1bd_09       byte    %21.0g     q25_09     Work cond: Lighting
+eqj1be_09       byte    %21.0g     q25_09     Work cond: Noise
+eqj1bf_09       byte    %21.0g     q25_09     Work cond: Waste disposal
+eqj1bg_09       byte    %21.0g     q25_09     Work cond: Water pollution
+eqj2_09         byte    %9.0g      q5_09      Restrictions on recruitment of people w HIV/AIDS
+eqj3_09         byte    %9.0g      q5_09      Participation in HIV/AIDS preventing activities
+eqj4_09         byte    %24.0g     eqj4_09    If employee contracted HIV/AIDS
+eqk1a_09        byte    %9.0g      q5_09      Own DVD player
+eqk1b_09        byte    %9.0g      q5_09      Own TV
+eqk1c_09        byte    %9.0g      q5_09      Own cellular phone
+eqk1d_09        byte    %9.0g      q5_09      Own computer
+eqk1e_09        byte    %9.0g      q5_09      Own motorbike
+eqk2a_09        byte    %9.0g      q5_09      Ownership of house
+eqk2b_09        byte    %30.0g     eqk2b_09   Type of dwelling
+eqk2c_09        int     %9.0g                 Space of dwelling (sqm)
+eqk2d_09        byte    %9.0g                 Years in current dwelling
+eqk2e_09        int     %9.0g                 Building year of dwelling
+eqk2f_09        int     %9.0g                 Last major house repair (year)

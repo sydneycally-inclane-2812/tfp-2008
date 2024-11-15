@@ -1,0 +1,940 @@
+EAq1a11         long    %18.0g     KT2        Revenue from sales in 2011
+EAq1b11         long    %18.0g     KT2        Value of production/manufactured in 2011
+EAq1c11         long    %18.0g     KT2        Value of additional income in 2011
+EAq1d11         long    %18.0g     KT2        Total inderect costs in 2011
+EAq1e11         long    %18.0g     KT2        Value of raw materials in 2011
+EAq1f11         long    %18.0g     KT2        Total value added in 2011
+EAq1g11         long    %18.0g     KT2        Total wage bill, incluiding allowance in 2011
+EAq1h11         long    %18.0g     KT2        Other labour costs (social and health insurance, training, recruitment, etc.) in
+EAq1ha11        long    %18.0g     KT2        Social insurance costs in 2011
+EAq1hb11        long    %18.0g     KT2        Health insurance costs in 2011
+EAq1hc11        long    %18.0g     KT2        Training, recruitment and other costs in 2011
+EAq1hd11        long    %18.0g     KT2        Unemployment Insurance costs in 2011
+EAq1he11        long    %18.0g     KT2        Other labour related costs in 2011
+EAq1i11         long    %18.0g     KT2        Total gross profit in 2011
+EAq1j11         long    %18.0g     KT2        Value of your allowable depreciation in 2011
+EAq1k11         long    %18.0g     KT2        Total interest payments (only formal) in 2011
+EAq1l11         long    %18.0g     KT2        Total fees and taxes (only formal) in 2011
+EAq1m11         long    %18.0g     KT2        Inventories of finished goods beginning-year in 2011
+EAq1n11         long    %18.0g     KT2        Inventories of finished goods end-year in 2011
+EAq1o11         long    %18.0g     KT2        Inventories of raw materials and unfinished products beginning-year in 2011
+EAq1p11         long    %18.0g     KT2        Inventories of raw materials and unfinished products end-year in 2011
+EAq1q11         long    %18.0g     KT2        Total physical assets end-year (market price) in 2011
+EAq1r11         long    %18.0g     KT2        Land value end-year (market price) in 2011
+EAq1s11         long    %18.0g     KT2        Buildings end-year (market price) in 2011
+EAq1t11         long    %18.0g     KT2        Machinery/Equipment end-year (market price) in 2011
+EAq1u11         long    %18.0g     KT2        Total financial assets end-year (market price) in 2011
+EAq1v11         long    %18.0g     KT2        Total outstanding debt end-year in 2011
+EAq1x11         int     %18.0g     KT2        Total number of full-time workers in firm end-year in 2011
+EAq1y11         long    %18.0g     KT2        Value of Import of Raw Materials in 2011
+EAq1z11         long    %18.0g     KT2        Value of export of final product of enterprise in 2011
+EAq1a12         long    %18.0g     KT3        Revenue from sales in 2012
+EAq1b12         long    %18.0g     KT3        Value of production/manufactured in 2012
+EAq1c12         long    %18.0g     KT3        Value of additional income in 2012
+EAq1d12         long    %18.0g     KT3        Total inderect costs in 2012
+EAq1e12         long    %18.0g     KT3        Value of raw materials in 2012
+EAq1f12         long    %18.0g     KT3        Total value added in 2012
+EAq1g12         long    %18.0g     KT3        Total wage bill, incluiding allowance in 2012
+EAq1h12         long    %18.0g     KT3        Other labour costs (social and health insurance, training, recruitment, etc.) in
+EAq1ha12        double  %18.0g     KT3        Social insurance costs in 2012
+EAq1hb12        double  %18.0g     KT3        Health insurance costs in 2012
+EAq1hc12        long    %18.0g     KT3        Training, recruitment and other costs in 2012
+EAq1hd12        long    %18.0g     KT3        Unemployment Insurance costs in 2012
+EAq1he12        long    %18.0g     KT3        Other labour related costs in 2012
+EAq1i12         long    %18.0g     KT3        Total gross profit in 2012
+EAq1j12         long    %18.0g     KT3        Value of your allowable depreciation in 2012
+EAq1k12         long    %18.0g     KT3        Total interest payments (only formal) in 2012
+EAq1l12         long    %18.0g     KT3        Total fees and taxes (only formal) in 2012
+EAq1m12         long    %18.0g     KT3        Inventories of finished goods beginning-year in 2012
+EAq1n12         long    %18.0g     KT3        Inventories of finished goods end-year in 2012
+EAq1o12         long    %18.0g     KT3        Inventories of raw materials and unfinished products beginning-year in 2012
+EAq1p12         long    %18.0g     KT3        Inventories of raw materials and unfinished products end-year in 2012
+EAq1q12         long    %18.0g     KT3        Total physical assets end-year (market price) in 2012
+EAq1r12         long    %18.0g     KT3        Land value end-year (market price) in 2012
+EAq1s12         long    %18.0g     KT3        Buildings end-year (market price) in 2012
+EAq1t12         long    %18.0g     KT3        Machinery/Equipment end-year (market price) in 2012
+EAq1u12         long    %18.0g     KT3        Total financial assets end-year (market price) in 2012
+EAq1v12         long    %18.0g     KT3        Total outstanding debt end-year in 2012
+EAq1x12         int     %18.0g     KT3        Total number of full-time workers in firm end-year in 2012
+EAq1y12         long    %18.0g     KT3        Value of Import of Raw Materials in 2012
+EAq1z12         long    %18.0g     KT3        Value of export of final product of enterprise in 2012
+q1_13           float   %9.0g                 Firm id
+dpx             byte    %12.0g                
+q2b_13          byte    %9.0g      r1         Position of respondent
+q2c_13          byte    %9.0g      r2         Gender of respondent
+q2d_13a         int     %9.0g                 Year of birth of respondent
+q2d_13          byte    %9.0g                 Age of respondent
+q3bd_13         str15   %15s                  District name
+q3bd1_13        int     %9.0g                 District code
+q3be_13         byte    %9.0g      r3         Province
+q3d_13          byte    %9.0g      r3d        Internet access Y/N
+q3ea_13         byte    %9.0g      r3d        Email address Y/N
+q3f_13          byte    %9.0g      r3d        Website Y/N
+q4_13           byte    %9.0g      q4_13      Firm merger (take-over)
+q5_13           byte    %9.0g      q5_13      Production zone
+q5a_13          byte    %9.0g      q5a_13     More than one location
+q6a_13          int     %9.0g                 Year of establishment
+q6aa_13         byte    %9.0g      q6aa_13    Had BRC when began operations
+q6b_13          int     %9.0g                 Year of take over (current owners)
+q7a_13          byte    %9.0g      q7a_13     Are you aware of the new unique ECN
+q7aa_13         byte    %9.0g      q7aa_13    Does the enterprise have the ECN
+q7b_13          byte    %9.0g      q7b_13     Does the enterprise have the BRC
+q7c_13          byte    %9.0g      q7c_13     Tax code
+q7d_13          byte    %9.0g      q7d_13     Do you know about the NERIP
+q8_13           byte    %23.0g     q8_13      Type of firm
+q9_13           byte    %9.0g      q9_13      Changed owner since last survey
+q9b_13          byte    %62.0g     q9b_13     Changed owner - how?
+q10a_13         byte    %9.0g      q10a_13    Temporary closure, but operating now
+q10a1_13        byte    %44.0g     q10a1_13   Reason for temporary closure
+q10b_13         byte    %9.0g      q10b_13    Changed legal status
+q11a_13         byte    %9.0g      q11a_13    Changed location
+q11b_13         byte    %48.0g     q11b_13    Reason for changing location
+q12a_13         byte    %34.0g     q12a_13    Legal status
+q12b_13         byte    %49.0g     q12b_13    HH formal/informal
+q12c_13         byte    %15.0g     q12c_13    One or multiple owners
+q12ca_13        float   %9.0g                 Ownership percentage of the largest shareholder
+q13main_13      str35   %35s                  Main area of business and production activity
+q13a_13         byte    %9.0g      q13a_13    Manufacturing main production sector
+q14a_13         byte    %9.0g      q14a_13    Is there a main (paved) road leading to the firm?
+q14b_13         byte    %9.0g      q14b_13    Easy access to rail
+q14c_13         byte    %9.0g      q14c_13    Easy access to port
+q14d_13         byte    %9.0g      q14d_13    Access to public electricity grid
+q14e_13         byte    %9.0g      q14e_13    Access to public provided water system
+q14f_13         byte    %9.0g      q14f_13    Did you, during 2012, experience insufficient power for production?
+q14g_13         byte    %9.0g      q14g_13    Did you during 2012 experience insufficient water supply for production?
+q15_13          byte    %40.0g     q15_13     What are the premises of the enterprise mainly used for?
+q16_13          byte    %79.0g     q16_13     Is the land housing the main production facility of the enterprise owned or rent
+q16ba_13        int     %9.0g                 How long did it take to obtain it from the time of application to the receipt of
+q16bb_13        float   %9.0g                 What was the cost of obtaining CLUR? (million VND)
+q16c_13         float   %9.0g                 If land rented (informally (case 3) or formally (case 4)), what was the total co
+q17_13          byte    %9.0g                 How many different goods did your firm produce in 2014?
+q17d_13         byte    %9.0g      q17d_13    Diversification
+q17a_4ds_13     int     %9.0g                 Sector 4-digit VSIC
+q17a_13         byte    %73.0g     q17a_13    Sector
+q17b_13         byte    %73.0g     q17a_13    2nd sector
+q17c_13         byte    %73.0g     q17a_13    3rd sector
+q18_13          byte    %12.0g     q18_13     Previous experience
+q19_13          byte    %54.0g     q19_13     Main reason for starting business
+q20a_13         byte    %24.0g     q20a_13    Lack of capital
+q20c_13         byte    %24.0g     q20a_13    Lack of marketing outlet/packaging & distribution services
+q20d_13         byte    %24.0g     q20a_13    Lack of marketing skills
+q20e_13         byte    %24.0g     q20a_13    Lack of technical know-how
+q20f_13         byte    %24.0g     q20a_13    Lack of suitable machinery/equipment
+q20g_13         byte    %24.0g     q20a_13    Difficulty in finding suitable premises
+q20h_13         byte    %24.0g     q20a_13    Complicated regulations/difficulties in obtaining licenses
+q20i_13         byte    %24.0g     q20a_13    Lack of skilled labor
+q20j_13         byte    %24.0g     q20a_13    Lack of support from local government
+q20k_13         byte    %24.0g     q20a_13    Lack of business development services/business advice/entrepreneurship developme
+q20l_13         byte    %24.0g     q20a_13    Lack of of relevant business associations
+q20m_13         byte    %24.0g     q20a_13    Other
+q21a_13         byte    %9.0g      q21a_13    Government officials
+q21b_13         byte    %9.0g      q21b_13    State owned commercial banks
+q21c_13         byte    %9.0g      q21c_13    State owned enterprises
+q21d_13         byte    %9.0g      q21d_13    Donor agencies/Foreign NGOs
+q21e_13         byte    %9.0g      q21e_13    Mass organizations
+q21f_13         byte    %9.0g      q21f_13    Other private firms/private banks
+q21g_13         byte    %9.0g      q21g_13    Friends and relatives/family
+q21h_13         byte    %9.0g      q21h_13    Business associations
+q21i_13         byte    %9.0g      q21i_13    Other
+q22a_13         byte    %9.0g                 Number of HH members
+q22aa_13        float   %9.0g                 Share of women in HH
+q22ba_13        float   %9.0g                 Share of children in HH
+q22bb_13        float   %9.0g                 Share of adults between 15-60 in HH
+q22bc_13        float   %9.0g                 Share of adults over 60 in HH
+q23_13          float   %9.0g                 Number of full time jobs as share of adults between 15-60 in HH (99 = no adults
+q23a_13         byte    %9.0g                 Number of full time jobs
+q23aa_13        byte    %9.0g                 Number of full time jobs in the enterprise
+q23ab_13        byte    %9.0g                 Number of full time jobs elsewhere, for wages
+q23ac_13        byte    %9.0g                 Number of full time jobs elsewhere, self-employed
+q23b_13         byte    %9.0g                 Number of part time jobs
+q23ba_13        byte    %9.0g                 Number of part time jobs in the enterprise
+q23bb_13        byte    %9.0g                 Number of part time jobs elsewhere, for wages
+q23bc_13        byte    %9.0g                 Number of part time jobs elsewhere, self-employed
+q24a_13         byte    %9.0g                 Number of income generating jobs
+q24b_13         byte    %9.0g      q24b_13    Firm profit/income main source of HH income
+q25_13          byte    %16.0g     q25_13     HH income change since 2011
+q26a_13         byte    %9.0g      q26a_13    Respondent ethnicity
+q26b_13         byte    %24.0g     q26b_13    Respondent basic education
+q26c_13         byte    %35.0g     q26c_13    Respondent professional education
+q26d_13         byte    %37.0g     q26d_13    Previous work status
+q26e_13         byte    %35.0g     q26e_13    Owner previous occupation
+q26fa_13        byte    %35.0g     q26e_13    Mothers occupation
+q26fb_13        byte    %35.0g     q26e_13    Fathers occupation
+q26ga_13        byte    %9.0g      q26ga_13   Respondent holds a local cadre position
+q26gb_13        byte    %9.0g      q26gb_13   Respondent is war veteran
+q26gc_13        byte    %9.0g      q26gc_13   Other position of responsibility
+q26h_13         byte    %9.0g      q26h_13    Respondent is a Communist Party member
+q26ia_13        byte    %30.0g     q26ia_13   Dwelling type
+q26ib_13        int     %9.0g                 Dwelling area (m2)
+q26ic_13        byte    %9.0g                 Years lived in
+q26id_13        byte    %9.0g                 How old is the dwelling
+q26ie_13        int     %9.0g                 Year of last major repair
+q27a_13         byte    %12.0g     q27a_13    Before establishing current firm, did the owner have another enterprise?
+q27aa_13        byte    %12.0g     q27a_13    Previous enterprise in the same sector (4-digit ISIC)?
+q27b_13         byte    %9.0g      q27b_13    Does the owner currently own other enterprises?
+q27c_13         byte    %47.0g     q27c_13    Why several enterprises?
+q28_13          byte    %38.0g     q28_13     Does the enterprise use:
+q29a_13         float   %9.0g                 Percentage of equipment under 3 years old
+q29b_13         float   %9.0g                 Percentage of equipment 3 to 5 years old
+q29c_13         byte    %9.0g                 Percentage of equipment 6 to 10 years old
+q29d_13         float   %9.0g                 Percentage of equipment 11 to 20 years old
+q29e_13         byte    %9.0g                 Percentage of equipment more than 20 years old
+q30aa_13        byte    %9.0g                 Percentage of equipment new at purchase
+q30ab_13        byte    %9.0g                 Percentage of equipment used at purchase
+q30ac_13        byte    %9.0g                 Percentage of equipment self-constructed
+q30ba_13        float   %9.0g                 Percentage of equipment from the same district as place of production
+q30bb_13        float   %9.0g                 Percentage of equipment from other district but same province
+q30bc_13        float   %9.0g                 Percentage of equipment from other province
+q30bd_13        byte    %9.0g                 Percentage of equipment from direct imports
+q30be_13        float   %9.0g                 Percentage of equipment from indirect imports
+q30bdom_13      float   %9.0g                 Percentage of domestic equipment at purchase
+q30bfor_13      float   %9.0g                 Percentage of foreign equipment at purchase
+q31a_13         byte    %59.0g     q31a_13    Owning or renting equipment
+q31b_13         byte    %14.0g     q31b_13    How was the equipment purchase financed?
+q32_13          byte    %18.0g     q32_13     Main source of supply of equipment/machinery
+q33_13          byte    %29.0g     q33_13     Capacity Utilization
+q34a_13         byte    %9.0g                 How many operating personal computers (pc) does the firm have?
+q34b_13         byte    %9.0g      q34b_13    Selling products via e-trading
+q34c_13         byte    %9.0g      q34c_13    Buying input materials via e-trading
+q35a_13         byte    %9.0g      q35a_13    Firm outsourced production in 2012
+q35aa_13        int     %9.0g                 If yes, how many outsourcing subcontracts in 2012?
+q35ab_13        float   %9.0g                 What was the total cost of outsourcing in 2012? (million VND)
+q35ac_13        float   %9.0g                 What percentage of your outsourcing contract value was for exports?
+q35ad_13        byte    %41.0g     q35ad_13   Main reason for outsourcing parts of the production
+q35b_13         byte    %9.0g      q35b_13    Firm was a subcontractor in 2012
+q35ba_13        int     %9.0g                 If subcontractor, how many subcontracts in 2012?
+q35bb_13        float   %9.0g                 What was the total revenue from these subcontracts in 2012? (million VND)
+q35bc_13        float   %9.0g                 What percentage came from subcontracts with foreign-invested enterprises
+q36a_13         byte    %9.0g      q36a_13    Firm has an internationally recognized quality certificate
+q36b_13         byte    %9.0g      q36b_13    Certification required by customers
+q37aa1_13       str20   %20s                  Name of product 1
+q37aa2_13       str20   %20s                  Name of product 2
+q37aa3_13       str20   %20s                  Name of product 3
+q37ab1_13       int     %9.0g                 4-digit VSIC Code of product 1
+q37ab2_13       int     %9.0g                 4-digit VSIC Code of product 2
+q37ab3_13       int     %9.0g                 4-digit VSIC Code of product 3
+q37ac1_13       str10   %10s                  Units product 1
+q37ac2_13       str10   %10s                  Units product 2
+q37ac3_13       str9    %9s                   Units product 3
+q37ad1_13       float   %9.0g                 Quantity produced product 1
+q37ad2_13       float   %9.0g                 Quantity produced product 2
+q37ad3_13       float   %9.0g                 Quantity produced product 3
+q37ae1_13       float   %9.0g                 Quantity sold product 1
+q37ae2_13       float   %9.0g                 Quantity sold product 2
+q37ae3_13       float   %9.0g                 Quantity sold product 3
+q37af1_13       float   %9.0g                 Average sales price of one unit of output (1,000 VND) product 1
+q37af2_13       float   %9.0g                 Average sales price of one unit of output (1,000 VND)product 2
+q37af3_13       float   %9.0g                 Average sales price of one unit of output (1,000 VND) product 3
+q37ag1_13       float   %9.0g                 Average cost of producing one unit of output (1,000 VND) product 1
+q37ag2_13       float   %9.0g                 Average cost of producing one unit of output (1,000 VND)product 2
+q37ag3_13       float   %9.0g                 Average cost of producing one unit of output (1,000 VND) product 3
+q37b_13         byte    %9.0g                 Times changed output price of the main product in 2012
+q38a_13         float   %9.0g                 Final consumption
+q38b_13         byte    %9.0g                 Intermediate inputs in agriculture
+q38c_13         float   %9.0g                 Intermediate inputs in manufacturing
+q38d_13         float   %9.0g                 Intermediate inputs in services
+q38e_13         byte    %9.0g                 Don’t know
+q39mimp_13      byte    %48.0g     q39mimp_13
+                                              How do you set the prices of your products/services? (most important)
+q40_13          byte    %28.0g     q40_13     Does the enterprise produce on advance order?
+q41_13          byte    %9.0g      q41_13     Advertisement
+q41a_13         float   %9.0g                 Advertisement amount used in 2012 (million VND)
+q41ba_13        byte    %9.0g      q41ba_13   Advertise on street posters, or similar
+q41bb_13        byte    %9.0g      q41bb_13   Advertise door-to-door information material
+q41bc_13        byte    %9.0g      q41bc_13   Advertise in newspapers/yellow pages
+q41bd_13        byte    %9.0g      q41bd_13   Advertise on the radio
+q41be_13        byte    %9.0g      q41be_13   Advertise on TV
+q41bf_13        byte    %9.0g      q41bf_13   Advertise on the Internet
+q41bg_13        byte    %9.0g      q41bg_13   Advertise through trade fairs
+q41bh_13        byte    %9.0g      q41bh_13   Advertise through other means
+q42a_13         byte    %24.0g     q42a_13    How many customers normally buy good/service produced by your enterprise?
+q42b_13         float   %9.0g                 Current (within district) market share
+q43aa_13        float   %9.0g                 Same commune
+q43ab_13        float   %9.0g                 Other commune within district
+q43ac_13        float   %9.0g                 Other district within province
+q43ad_13        byte    %9.0g                 Neighbouring province
+q43ae_13        float   %9.0g                 Other province (non-neighbouring)
+q43af_13        byte    %9.0g                 Export/outside country (direct)
+q43b_13         float   %9.0g                 Distance to your main customer (in km)
+q44a_13         float   %9.0g                 Share of customers individual local people
+q44b_13         float   %9.0g                 Share of customers tourists
+q44c_13         float   %9.0g                 Share of customers non-commercial government authorities
+q44d_13         float   %9.0g                 Share of customers domestic non-state firms
+q44e_13         float   %9.0g                 Share of customers state enterprises
+q44f_13         float   %9.0g                 Share of customers foreign invested companies
+q44g_13         float   %9.0g                 Share of customers in foreign country (export)
+q45a_13         byte    %9.0g      q45a_13    Required investments or upgrading
+q45b_13         byte    %9.0g      q45b_13    Technology transfer from customers
+q46_13          byte    %9.0g      q46_13     Export
+q46a_13         byte    %9.0g      q46a_13    Direct export
+q47_13          int     %9.0g                 Which year did your firm start producing for direct export?
+q48_13          byte    %9.0g                 Number of direct export customers
+q49_13          float   %9.0g                 What percentage of total sales did your enterprise export directly in 2012 to fo
+q49ba_13        byte    %9.0g                 China
+q49bb_13        byte    %9.0g                 Japan
+q49bc_13        byte    %9.0g                 ASEAN
+q49bd_13        byte    %9.0g                 Other Asian countries
+q49be_13        byte    %9.0g                 US
+q49bf_13        byte    %9.0g                 EU
+q49bg_13        byte    %9.0g                 Russia
+q49bh_13        byte    %9.0g                 Other (non-Asian) countries
+q50a_13         byte    %12.0g     q50a_13    Time to get customs clearance for export
+q50b_13         byte    %12.0g     q50a_13    Time to export (days)
+q50c_13         byte    %27.0g     q50c_13    What is the most constraining factor for quick export delivery?
+q51_13          byte    %9.0g      q51_13     Do you receive orders for direct export production?
+q51a_13         byte    %9.0g                 Does your enterprise receive product specifications, designs or materials for th
+q52_13          byte    %9.0g      q52_13     Does your enterprise have long-term relations (that is more than one year) with
+q53_13          byte    %9.0g                 Do you use legal advice when entering direct export contracts
+q54_13          byte    %9.0g      q54_13     Foreign customers requested certification (for exporters)
+q54a_13         byte    %26.0g     q54a_13    Certifying institution (for exporters)
+q55_13          byte    %14.0g     q55_13     Assess the performance of the cooperation with foreign partners
+q56_13          byte    %9.0g      q56_13     Receive unique technology or expertise from foreign partners
+q57t_13         float   %9.0g                 Total indirect costs 2012
+q57a_13         float   %9.0g                 Electricity costs 2012
+q57b_13         float   %9.0g                 Liquid fuel, solid fuel and gas costs 2012
+q57c_13         float   %9.0g                 Water costs 2012
+q57d_13         float   %9.0g                 Rental costs costs 2012
+q57e_13         float   %9.0g                 Stationary and office supplies costs 2012
+q57f_13         float   %9.0g                 Telephone/Internet costs 2012
+q57g_13         float   %9.0g                 Transport costs 2012
+q57h_13         float   %9.0g                 Insurance costs 2012
+q57i_13         float   %9.0g                 Marketing and advertisement costs 2012
+q57j_13         float   %9.0g                 Maintenance & repair costs 2012
+q57k_13         float   %9.0g                 Other costs 2012
+q57a_13sh       float   %9.0g                 Electricity costs share 2012
+q57b_13sh       float   %9.0g                 Liquid fuel, solid fuel and gas costs share 2012
+q57c_13sh       float   %9.0g                 Water costs share 2012
+q57d_13sh       float   %9.0g                 Rental costs costs share 2012
+q57e_13sh       float   %9.0g                 Stationary and office supplies costs share 2012
+q57f_13sh       float   %9.0g                 Telephone/Internet costs share 2012
+q57g_13sh       float   %9.0g                 Transport costs share 2012
+q57h_13sh       float   %9.0g                 Insurance costs share 2012
+q57i_13sh       float   %9.0g                 Marketing and advertisement costs share 2012
+q57j_13sh       float   %9.0g                 Maintenance & repair costs share 2012
+q57k_13sh       float   %9.0g                 Other costs share 2012
+q58_13          byte    %12.0g     q58_13     Days of inventory of the most important input
+q59a_13         byte    %9.0g                 Road transport
+q59b_13         byte    %9.0g                 Rail transport
+q59c_13         byte    %9.0g                 Coastal (Ocean) shipping
+q59d_13         byte    %9.0g                 Air transport
+q60a_13         float   %9.0g                 The firm handles the transport itself
+q60b_13         float   %9.0g                 Contract with a transport company that handles firm cargo
+q60c_13         float   %9.0g                 Collective agreement with other firms for joint shipments
+q60ca_13        byte    %31.0g     q60ca_13   Purpose for joint shipments
+allrm           int     %9.0g                 Raw materials total
+q61a_13         float   %9.0g                 From households
+q61b_13         float   %9.0g                 Other non-state enterprises
+q61c_13         float   %9.0g                 State enterprises
+q61d_13         float   %9.0g                 Other state agencies
+q61e_13         byte    %9.0g                 Imported (directly)
+q61f_13         byte    %9.0g                 Other
+allrmorigin     int     %9.0g                 Raw materials purchase origin total
+q62a_13         float   %9.0g                 Same commune
+q62b_13         float   %9.0g                 Other commune within district
+q62c_13         float   %9.0g                 Other district within province
+q62d_13         float   %9.0g                 Neighbouring province
+q62e_13         float   %9.0g                 Other province (non-neighbouring)
+q62f_13         byte    %9.0g                 Import (directly)
+q63a_13         byte    %9.0g                 China
+q63b_13         byte    %9.0g                 Japan
+q63c_13         byte    %9.0g                 ASEAN
+q63d_13         byte    %9.0g                 Other Asian countries
+q63e_13         byte    %9.0g                 US
+q63f_13         byte    %9.0g                 EU
+q63g_13         byte    %9.0g                 Russia
+q63h_13         byte    %9.0g                 Other (non-Asian) countries
+q64a_13         byte    %12.0g     r64_13     Import customs clearance (days)
+q64b_13         float   %9.0g                 Percentage cargo lost in transit in Vietnam in 2012
+q65a_13         byte    %9.0g      q65a_13    Investments for input suppliers
+q65b_13         byte    %9.0g      q65b_13    Technology transfer from the supplier
+q66a_13         byte    %9.0g      q66a_13    Free selection of suppliers
+q66ba_13        byte    %30.0g     q66ba_13   How are suppliers identified
+q66bb_13        byte    %37.0g     q66bb_13   Main criteria for selecting suppliers
+q66bc_13        byte    %9.0g      q66bc_13   Easy to find an alternative supplier
+q66bd_13        byte    %9.0g      q66bd_13   Conduct of suppliers when deciding to purchase
+q66bda_13       byte    %44.0g     q66bda_13
+                                              Most important conduct when selecting suppliers
+q67_13          float   %9.0g                 Distance to main supplier (km)
+q68_13          byte    %9.0g      q68_13     Purchasing business services outside the enterprise
+q68a1_13        byte    %45.0g     q68a1_13   Most important business service
+q68a2_13        byte    %9.0g      q68a2_13   Second most important business service
+q68a3_13        byte    %9.0g      q68a3_13   Third most important business service
+q68b_13         float   %9.0g                 Percentage spent on services
+q69b1_13        byte    %43.0g     q69b1_13   Most important service provider
+q69b2_13        byte    %43.0g     q69b1_13   Second most important service provider
+q69b3_13        byte    %43.0g     q69b1_13   Third most important service provider
+q70_inv         byte    %9.0g      q70_inv    New investment made the last 2 years
+q70a_13         float   %9.0g                 Amount invested (million VND)
+q70aa_13        float   %9.0g                 Land
+q70ab_13        float   %9.0g                 Buildings
+q70ac_13        float   %9.0g                 Equipment/machinery
+q70ao_13        float   %9.0g                 Other
+q70ad_13        float   %9.0g                 Invested in R&D
+q70ae_13        float   %9.0g                 Invested in Human capital upgrading (training)
+q70af_13        int     %9.0g                 Invested in Patents
+q70ag_13        int     %9.0g                 Invested in other enterprises
+allinv          byte    %9.0g                 Sources of investment total
+q71b1_13        float   %9.0g                 Own capital
+q71b2_13        float   %9.0g                 Borrowed from bank/credit institution
+q71b3_13        float   %9.0g                 Borrowed against interest from other sources
+q71b4_13        byte    %9.0g                 Borrowed from friends and relatives without interest
+q71b5_13        float   %9.0g                 Borrowed from other sources without interest
+q71b6_13        byte    %9.0g                 Stocks issued
+q71b7_13        byte    %9.0g                 Other
+q72_13          byte    %26.0g     q72_13     Main purpose of investment
+realph_ass13    float   %9.0g                 Real ph assets 2012 (million VND) value
+q73aa_13        float   %9.0g                 Land value (million VND)
+q73ab_13        float   %9.0g                 Buildings value (million VND)
+q73ac_13        float   %9.0g                 Equipment/machinery value (million VND)
+q73ad_13        float   %9.0g                 Transport equipment value (million VND)
+q73ae_13        float   %9.0g                 Raw materials, input inventories value (million VND)
+q73af_13        float   %9.0g                 Finished goods/inventories value (million VND)
+f_ass13         float   %9.0g                 Financial assets 2012 (million VND) value
+q73ba_13        float   %9.0g                 Cash and deposits (million VND)
+q73bb_13        float   %9.0g                 Outstanding credits (million VND)
+tot_ass13       float   %9.0g                 Total assets 2012 (million VND) value
+q74_13          byte    %9.0g      q74_13     Did your firm sell any land, buildings or (used) equipment in 2010?
+q74aa1_13       int     %9.0g                 Sales Value of Land (million VND)
+q74ab1_13       float   %9.0g                 Sales Value of Buildings (million VND)
+q74ac1_13       float   %9.0g                 Sales Value of equipment/machinery (million VND)
+q74aa2_13       byte    %56.0g     r74b_15    Main reason for sale of land
+q74ab2_13       byte    %56.0g     r74b_15    Main reason for sale of buildings
+q74ac2_13       byte    %56.0g     r74b_15    Main reason for sale of equipment/machinery
+q75_13          float   %9.0g                 Total liabilities in 2012 end-year (million VND)
+q75a_13         float   %9.0g                 Formal short term debt 2012 (million VND)
+q75b_13         float   %9.0g                 Informal short term debt 2012 (million VND)
+q75c_13         float   %9.0g                 Formal long term debt 2012(million VND)
+q75d_13         float   %9.0g                 Informal long term debt 2012 (million VND)
+q76_13          float   %9.0g                 Total interest payments in 2012 (million VND)
+q76a_13         float   %9.0g                 Interest payment on formal loans in 2012 (million VND)
+q77_13          byte    %9.0g      q77_13     Firm failed to service debt on time in 2012
+q77a_13         byte    %9.0g                 Number of times failed to service debt on time in 2012
+q77b_13         float   %9.0g                 Maximum amount involved (million VND)
+q77c_13         byte    %9.0g                 Main reason
+q78a_13         float   %9.0g                 Current outstanding balance owed to all suppliers? (million VND)
+q78b_13         float   %9.0g                 Current amount due to your firm from all customers? (million VND)
+q79_13          byte    %9.0g      q79_13     Firm has an overdraft facility
+q80_13          byte    %9.0g      q80_13     Firm applied for formal loans since 2011
+q81_13          byte    %9.0g      q81_13     Problems getting the loan
+q81a_13         byte    %72.0g     q81a_13    Causes of problems for getting the loan
+q82_13          byte    %9.0g                 Number of formal loans (short and long term)
+q82a_13         byte    %9.0g                 Number of formal short term loans
+q82b_13         byte    %9.0g                 Number of formal long term loans
+q83a_13         byte    %34.0g     q83a_13    Which bank/formal credit institution do you primarily use?
+q84a_13         byte    %9.0g                 Number of formal short term loan applications
+q84b_13         byte    %9.0g                 Number of formal long term loan applications
+q85a_13         byte    %33.0g     q85a_13    Source of the most important current formal loan
+q85b_13         float   %9.0g                 Amount originally borrowed (million VND) for formal loan
+q85cm_13        byte    %9.0g                 Month borrowed
+q85cy_13        int     %9.0g                 Year borrowed
+q85c1_13        byte    %9.0g                 Duration of the loan (months)
+q85d_13         float   %9.0g                 Current liability (million VND) for formal loan
+q85e_13         float   %9.0g                 Interest rate, % month for formal loan
+q85f_13         byte    %9.0g      q85f_13    Assets required as collateral for formal loan
+q85fa_13        byte    %19.0g     q85fa_13   Types of collateral for formal loan
+q85g_13         byte    %9.0g      q85g_13    Guarantor for the formal loan
+q85ga_13        byte    %38.0g     q85ga_13   Relationship with the guarantor
+q86_13          byte    %9.0g      q86_13     Need additional loan
+q86a_13         byte    %36.0g     q86a_13    Why additional loan
+q86b_13         byte    %27.0g     q86b_13    Why not additional loan
+q87_13          byte    %26.0g     q87_13     Why have not applied for formal loan since 2011
+q88_13          byte    %9.0g      q88_13     Informal borrowing since 2011
+q88a_13         byte    %28.0g     q88a_13    Why borrowed informally
+q88b_13         byte    %9.0g                 Number of informal long term loans since August 2011
+q88c_13         byte    %9.0g      q88c_13    Difficulties in obtaining informal credit
+q88ca_13        byte    %9.0g                 How many times had difficulties in obtaining informal loans
+q89a_13         byte    %29.0g     q89a_13    Source of informal loan
+q89b_13         float   %9.0g                 Amount originally borrowed (million VND) for informal loan
+q89ca_13        byte    %9.0g                 Duration of this loan (months)
+q89d_13         float   %9.0g                 Current liability (million VND) for informal loan
+q89e_13         float   %9.0g                 Interest rate, % month for informal loan
+q89f_13         byte    %9.0g      q89f_13    Assets required as collateral
+q89fa_13        byte    %19.0g     q89fa_13   Types of collateral for informal loan
+q89g_13         byte    %9.0g      q89g_13    Guarantor for the informal loan
+q89ga_13        byte    %38.0g     q89ga_13   Relationship with the guarantor for the informal loan
+q90_13          byte    %14.0g     q90_13     Most important type of loan for the firm
+q91_13          byte    %16.0g     q91_13     Distance to the most important creditor (km)
+q92_13          byte    %18.0g     q92_13     Creditor's location
+q93_13          byte    %9.0g      q93_13     Firm ever given a loan to the main creditor
+q94_13          byte    %9.0g      q94_13     Firm borrowed from the main creditor
+q95_13          byte    %9.0g      q95_13     Does the firm keep formal accounting books in accordance with regulations
+q95a_13         byte    %9.0g      q95a_13    Are accounts audited
+q95b_13         byte    %9.0g      q95b_13    Submit financial accounts
+q95ba_13        byte    %14.0g     q95ba_13   Why not submitting financial reports
+q96a_13         float   %9.0g                 Total taxes and fees paid in 2012 (million VND)
+q96aa_13        float   %9.0g                 Corporate Income Tax in 2012 (million VND)
+q96ab_13        float   %9.0g                 Value Added Tax in 2012 (million VND)
+q96ac_13        float   %9.0g                 Business Registration Tax in 2012 (million VND)
+q96ad_13        float   %9.0g                 Import/Export taxes in 2012 (million VND)
+q96ae_13        float   %9.0g                 Special Consumption Tax in 2012 (million VND)
+q96af_13        float   %9.0g                 Property/Enterprise tax (Stamp duties) in 2012 (million VND)
+q97a_13         float   %9.0g                 Percentage of management's working time spent each month dealing with government
+dis_tax         float   %9.0g                 What is the distance (in km) to the relevant tax office
+q98_13_inf      byte    %9.0g      q98_13_inf
+                                              Firm provides informal payments
+q98_inf_dummy   byte    %9.0g      q98_inf_dummy
+                                              Firm does not provide informal payments
+q98a_13         byte    %18.0g     q98a_13    Bribe frequency
+q98b_13         float   %9.0g                 Bribe amount (as share of firm revenue)
+q98b_13x        float   %9.0g                 Bribe amount
+indicator13     byte    %9.0g      indicator13
+                                              Is bribe amount reported
+q98c_13         byte    %35.0g     q98c_13    Bribe purpose
+q99_13          byte    %12.0g     q99_13     Will bribe payments increase in the future
+q99a_13         byte    %59.0g     q99a_13    Why do you think informal payments level will increase
+q100_13         int     %9.0g                 Number of full-time employees at the time of establishment
+q101aaa_13      int     %9.0g                 Firm size (number of full-time regular employees)
+q101a1_13       int     %9.0g                 Total labour force
+q101abt_13      int     %9.0g                 Total casual labor force
+q101b_13        float   %9.0g                 Share unpaid labour force
+q101a2_13       float   %9.0g                 Share regular total labour force of total
+q101a3_13       float   %9.0g                 Share regular full-time labour force of total
+q101a4_13       float   %9.0g                 Share regular part-time labour force of total
+q101a5_13       float   %9.0g                 Share casual labour force of total
+q101f2_13       int     %9.0g                 Total female labour force
+q101f2_13s      float   %9.0g                 Female labour force share
+q101c_13        float   %9.0g                 Percentage of regular full-time labour force with formal labour contract
+q101da_13       float   %9.0g                 Percentage of regular full-time labour force with indefinite term contract
+q101db_13       float   %9.0g                 Percentage of regular full-time labour with contract valid btw 12 and 36 months
+q101dc_13       float   %9.0g                 Percentage of regular full-time labour with contract valid btw 3 and 12 months
+q101dd_13       float   %9.0g                 Percentage of regular full-time labour force with contract valid less than 3 mon
+contract3M_13   float   %9.0g                 Percentage of regular full-time labour force with a contract duration of more th
+q101e_13        float   %9.0g                 Average number of days worked per month by a regular full-time employee
+q101f_13        float   %9.0g                 Hours worked per day by a regular full-time employee
+q102a_13        float   %9.0g                 Manager share of total workforce
+q102bx_13       float   %9.0g                 Professionals share of total workforce
+q102cx_13       float   %9.0g                 Office workers share of total workforce
+q102d_13        float   %9.0g                 Sales personnel share of total workforce
+q102e_13        float   %9.0g                 Service workers share of total workforce
+q102f_13        float   %9.0g                 Production worker share of total workforce
+q102g_13        float   %9.0g                 Apprentice share of total workforce
+q102w_13        float   %9.0g                 Share of total workforce which are women
+q102ta_13       byte    %9.0g                 Managers
+q102tb_13       byte    %9.0g                 Professionals
+q102tba_13      byte    %9.0g                 Engineers
+q102tbb_13      byte    %9.0g                 Accountants/Economists
+q102tbc_13      byte    %9.0g                 Technicians
+q102tbd_13      byte    %9.0g                 Other professionals
+q102tc_13       byte    %9.0g                 Office workers
+q102td_13       byte    %9.0g                 Sales personnel
+q102te_13       byte    %9.0g                 Service workers
+q102tf_13       int     %9.0g                 Production worker
+q102tfa_13      byte    %9.0g                 Foreman and supervisor
+q102tfb_13      byte    %9.0g                 Electrician, plumber, etc.
+q102tfc_13      byte    %9.0g                 Mach. maintenance/repair
+q102tfd_13      int     %9.0g                 Mach. operator/assembler
+q102tfe_13      int     %9.0g                 Master
+q102tff_13      int     %9.0g                 Labourer (unskilled)
+q102tg_13       byte    %9.0g                 Apprentice
+q102wa_13       byte    %9.0g                 Managers, women
+q102wb_13       byte    %9.0g                 Professionals, women
+q102wba_13      byte    %9.0g                 Engineers, women
+q102wbb_13      byte    %9.0g                 Accountants/Economists, women
+q102wbc_13      byte    %9.0g                 Technicians, women
+q102wbd_13      byte    %9.0g                 Other professionals, women
+q102wc_13       byte    %9.0g                 Office workers, women
+q102wd_13       byte    %9.0g                 Sales personnel, women
+q102we_13       byte    %9.0g                 Service workers, women
+q102wf_13       int     %9.0g                 Production worker, women
+q102wfa_13      byte    %9.0g                 Foreman and supervisor, women
+q102wfb_13      byte    %9.0g                 Electrician, plumber, etc., women
+q102wfc_13      byte    %9.0g                 Mach. maintenance/repair, women
+q102wfd_13      int     %9.0g                 Mach. operator/assembler, women
+q102wfe_13      int     %9.0g                 Master, women
+q102wff_13      int     %9.0g                 Labourer (unskilled), women
+q102wg_13       byte    %9.0g                 Apprentice, women
+q103a_13        int     %9.0g                 Number of new employees hired in 2012
+q103b_13        int     %9.0g                 Number of regular workers who left the firm in 2012
+q103ba_13       byte    %9.0g                 Left voluntarily 2012
+q103bb_13       int     %9.0g                 Were fired 2012
+q103bc_13       byte    %9.0g                 Retired 2012
+q103bd_13       byte    %9.0g                 Illness 2012
+q103be_13       byte    %9.0g                 Died 2012
+q103bf_13       byte    %9.0g                 Other reasons 2012
+share_vol       float   %9.0g                 Share of regular workers who left the firm voluntarily in 2012
+share_fired     float   %9.0g                 Share of regular workers who were fired in 2012
+share_ret       float   %9.0g                 Share of regular workers who retired in 2012
+share_ill       float   %9.0g                 Share of regular workers who left due to illness in 2012
+share_died      float   %9.0g                 Share of regular workers who died in 2012
+share_other     float   %9.0g                 Share of regular workers who left for other reasons in 2012
+q103bg_13       byte    %9.0g      q103bg_13
+                                              Redundancy 2012
+q103bga1_13     byte    %9.0g                 Redundancy of production workers 2012
+q103bga2_13     byte    %9.0g                 Redundancy of other workers 2012
+q103bgb1_13     byte    %9.0g                 Redundancy of unskilled workers 2012
+q103bgb2_13     byte    %9.0g                 Redundancy of workers with Technical level without certificate 2012
+q103bgb3_13     byte    %9.0g                 Redundancy of workers with Vocational Elementary 2012
+q103bgb4_13     byte    %9.0g                 Redundancy of workers with Vocational Secondary 2012
+q103bgb5_13     byte    %9.0g                 Redundancy of workers with Professional Secondary 2012
+q103bgb6_13     byte    %9.0g                 Redundancy of workers with Vocational College 2012
+q103bgb7_13     byte    %9.0g                 Redundancy of workers with College 2012
+q103bgb8_13     byte    %9.0g                 Redundancy of workers with University and higher 2012
+q103bgc1_13     byte    %9.0g                 Redundancy of female workers 2012
+q103bgc2_13     byte    %9.0g                 Redundancy of male workers 2012
+q103bgd1_13     byte    %9.0g                 Redundancy of migrant workers 2012
+q103bgd2_13     byte    %9.0g                 Redundancy of local workers 2012
+q103c_13        byte    %61.0g     q103c_13   Reason for firm reducing its labour force in 2012
+q103d_13        byte    %9.0g      q103d_13   Informing employees/representative organizations of the labor force reduction in
+q103da_13       byte    %30.0g     q103da_13
+                                              How long is it since the time of information until the time of implementation
+q104a_13        byte    %12.0g     q104a_13   Firm normally provides training for existing workers 2013
+q104aa_13       byte    %9.0g                 Average number of days of training for existing workers
+q104b_13        int     %9.0g                 Number of workers trained last year
+q104ba1_13      byte    %9.0g                 Number of workers with on-the-job training
+q104ba2_13      byte    %9.0g                 Number of workers with off-the-job training
+q104ba3_13      int     %9.0g                 Number of workers with informal training
+q104bb_13       byte    %58.0g     q104bb_13
+                                              Main reason for training existing workers
+q104bc_13       byte    %64.0g     q104bc_13
+                                              Who pays for the training
+q104bd_13       byte    %9.0g                 Number of existing workers trained in 2012 that left the firm between the traini
+q104c_13        byte    %12.0g     q104a_13   Workers normally have required skills when hired
+q104d_13        byte    %12.0g     q104a_13   Firm normally provides training for new workers 2013
+q104da_13       int     %9.0g                 Average number of days of training for new workers
+q104e_13        byte    %9.0g                 Number of new workers trained last year
+q104ea1_13      byte    %9.0g                 Number of new workers with on-the-job training
+q104ea2_13      byte    %9.0g                 Number of new workers with off-the-job training
+q104ea3_13      byte    %9.0g                 Number of new workers with informal training
+q104eb_13       byte    %58.0g     q104eb_13
+                                              Main reason for training new workers
+q104ec_13       byte    %64.0g     q104ec_13
+                                              Who pays for the training of new workers
+q104ed_13       byte    %9.0g                 Number of new workers trained in 2012 that left the firm between the training an
+q105a_13        byte    %10.0g     q105a_13   Firm usually deducts training expenditures in tax forms
+q105b_13        byte    %9.0g      q105b_13   Firm has received the deduction
+q105c_13        byte    %68.0g     q105c_13   Firm usually does not deduct training expenditures because
+q106a_13        byte    %14.0g     q106a_13   Job rotation
+q107_13         byte    %49.0g     q107_13    How does the firm mainly hire workers? (most important way)
+q108_13         byte    %15.0g     q108_13    Difficulties with recruitment due to lack of worker skill
+q108a_13        byte    %36.0g     q108a_13   Reason for recruitment difficulties
+q109a_13        byte    %47.0g     q109a_13   Main wage determinant
+q109b_13        float   %9.0g                 Average monthly wage (1000 VND) for a production worker in 2012
+q109c_13        float   %9.0g                 Monthly wage (1000 VND) for a newly hired (in 2012) production worker
+q109d_13        byte    %12.0g     q109d_13   Change in average monthly wage/income
+q109e_13        byte    %12.0g     q109e_13   Wage premium for hazardous work conditions
+q109f_13        float   %9.0g                 Wage premium size (percent above normal wage)
+q109g_13        byte    %14.0g     q109g_13   Are employees paid overtime for working outside standard hours
+q109h_13        byte    %9.0g      q109h_13   Decreases in salary
+q109hb_13       byte    %60.0g     q109hb_13
+                                              Means of normally reducing wage/income
+q109hc_13       byte    %9.0g      q109hc_13
+                                              Normally informing of the reduction in wages/incomes in advance
+q109hda_13      byte    %30.0g     q109hda_13
+                                              Time between informing the employee and wage/income reduction
+q110a_13        byte    %12.0g     q110a_13   Enterprise has own regulation on severance pay
+q110ba_13       byte    %12.0g     q110a_13   Severance pay provided to laid off workers (due to incompetence)
+q110bb_13       byte    %12.0g     q110a_13   Severance pay provided to laid off workers (due to general cutback)
+q111a_13        byte    %9.0g      q111a_13   Does the enterprise have a local level trade union 2013
+q111aa_13       int     %9.0g                 Year of establishment of local trade union
+q111ab_13       float   %9.0g                 Share of workforce that are members of the local trade union
+q111ac_13       byte    %28.0g     q111ac_13
+                                              Who is chairman of this local trade union
+q111ad_13       byte    %9.0g      q111ad_13
+                                              Is the trade union registered with the VGCL (Vietnam General Confederation of La
+q111ae_13       byte    %9.0g      q111ae_13
+                                              Does the enterprise have a Collective Labour Agreement
+q111ae1_13      int     %9.0g                 When was the most recent Collective Labour Agreement signed (year)
+q111ae2_13      byte    %9.0g      q111ae2_13
+                                              Has this Collective Labour Agreement been reported to superior trade union
+q111b_13        byte    %12.0g     q111b_13   Has the enterprise had any labour dispute the past two years
+q112a_13        byte    %12.0g     q112a_13   Firm pays social insurance contribution
+q112b_13        byte    %12.0g     q112b_13   Firm pays health insurance contribution
+q112c_13        byte    %12.0g     q112c_13   Did you pay contribution to unemployment insurance for your employees
+q112d_13        byte    %12.0g     q112d_13   Firm compensates workforce directly for accidents or professional illness
+q113ab1_13      byte    %12.0g     q113ab1_13
+                                              Firm pays sick leave
+q113ab2_13      byte    %12.0g     q113ab2_13
+                                              Firm provides paid maternity leave
+q113ab3_13      byte    %12.0g     q113ab3_13
+                                              Firm provides unpaid maternity leave
+q113ab4_13      byte    %9.0g      r95_13     Firm provides annual leave with pay
+q113ab5_13      byte    %12.0g     q113ab5_13
+                                              Firm provides a retirement lump-sum
+q113ab6_13      byte    %12.0g     q113ab6_13
+                                              Firm provides Survival Benefits
+q114_13         byte    %45.0g     q114_13    Measures to ensure that your employees work hard enough (most important)
+q115a_13        byte    %9.0g      q115a_13   Certificate for environmental standards ESC
+q115b_13        byte    %51.0g     q115b_13   Reason to get an environmental standards certificate
+q115c2_13       byte    %26.0g     q115c2_13
+                                              For compliers, ESC requirements that were most difficult
+q115c3_13       byte    %26.0g     q115c2_13
+                                              For compliers, ESC requirements that were most costly to meet
+q115d1_13       byte    %26.0g     q115c2_13
+                                              For noncompliers, perception about ESC requirements that are most difficult
+q115d2_13       byte    %26.0g     q115c2_13
+                                              For noncompliers, perception about ESC requirements that are most costly to meet
+q116ab1_13      byte    %9.0g      q116ab1_13
+                                              Treating environmental factors: Air quality
+q116ab2_13      byte    %9.0g      q116ab2_13
+                                              Treating environmental factors: Fire
+q116ab3_13      byte    %9.0g      q116ab3_13
+                                              Treating environmental factors: Heat
+q116ab4_13      byte    %9.0g      q116ab4_13
+                                              Treating environmental factors: Lighting
+q116ab5_13      byte    %9.0g      q116ab5_13
+                                              Treating environmental factors: Noise
+q116ab6_13      byte    %9.0g      q116ab6_13
+                                              Treating environmental factors: Waste disposal
+q116ab7_13      byte    %9.0g      q116ab7_13
+                                              Treating environmental factors: Water pollution
+q116ab8_13      byte    %9.0g      q116ab8_13
+                                              Treating environmental factors: Soil
+q116ab9_13      byte    %9.0g      q116ab9_13
+                                              Treating environmental factors: Other
+q116ac1_13      byte    %9.0g      q116ac1_13
+                                              Investments in equipment for: Air quality
+q116ac2_13      byte    %9.0g      q116ac2_13
+                                              Investments in equipment for: Fire
+q116ac3_13      byte    %9.0g      q116ac3_13
+                                              Investments in equipment for: Heat
+q116ac4_13      byte    %9.0g      q116ac4_13
+                                              Investments in equipment for: Lighting
+q116ac5_13      byte    %9.0g      q116ac5_13
+                                              Investments in equipment for: Noise
+q116ac6_13      byte    %9.0g      q116ac6_13
+                                              Investments in equipment for: Waste disposal
+q116ac7_13      byte    %9.0g      q116ac7_13
+                                              Investments in equipment for: Water pollution
+q116ac8_13      byte    %9.0g      q116ac8_13
+                                              Investments in equipment for: Soil
+q116ac9_13      byte    %9.0g      q116ac9_13
+                                              Investments in equipment for: Other
+q116ad1_13      float   %9.0g                 Cost of equipment for: Air quality (1,000 VND)
+q116ad2_13      float   %9.0g                 Cost of equipment for: Fire (1,000 VND)
+q116ad3_13      float   %9.0g                 Cost of equipment for: Heat (1,000 VND)
+q116ad4_13      float   %9.0g                 Cost of equipment for: Lighting (1,000 VND)
+q116ad5_13      float   %9.0g                 Cost of equipment for: Noise (1,000 VND)
+q116ad6_13      float   %9.0g                 Cost of equipment for: Waste disposal (1,000 VND)
+q116ad7_13      float   %9.0g                 Cost of equipment for: Water pollution (1,000 VND)
+q116ad8_13      float   %9.0g                 Cost of equipment for: Soil (1,000 VND)
+q116ad9_13      byte    %9.0g                 Cost of equipment for: Other (1,000 VND)
+q116ae1_13      int     %9.0g                 Year of investments in equipment for: Air quality
+q116ae2_13      int     %9.0g                 Year of investments in equipment for: Fire
+q116ae3_13      int     %9.0g                 Year of investments in equipment for: Heat
+q116ae4_13      int     %9.0g                 Year of investments in equipment for: Lighting
+q116ae5_13      int     %9.0g                 Year of investments in equipment for: Noise
+q116ae6_13      int     %9.0g                 Year of investments in equipment for: Waste disposal
+q116ae7_13      int     %9.0g                 Year of investments in equipment for: Water pollution
+q116ae8_13      int     %9.0g                 Year of investments in equipment for: Soil
+q116ae9_13      byte    %9.0g                 Year of investments in equipment for: Other
+q116b_13        byte    %9.0g      r115b      Main reason for treating environmental factors
+q117a1_13       int     %9.0g                 Network size: Business people within same sector
+q117a2_13       int     %9.0g                 Network size: Business people in other sectors
+q117a3_13       int     %9.0g                 Network size: Bank officials
+q117a4_13       byte    %9.0g                 Network size: Politicians and civil servants
+q117a5_13       int     %9.0g                 Network size: Others
+q117a6_13       int     %9.0g                 Network size: Total
+q117b1_13       byte    %9.0g                 Business people within same sector most important
+q117b2_13       byte    %9.0g                 Business people in other sectors most important
+q117b3_13       byte    %9.0g                 Bank officials most important
+q117b4_13       byte    %9.0g                 Politicians and civil servants most important
+q117c1_13       int     %9.0g                 Business people within same sector assisted (no. times)
+q117c2_13       int     %9.0g                 Business people in other sectors assisted (no. times)
+q117c3_13       int     %9.0g                 Bank officials assisted (no. times)
+q117c4_13       int     %9.0g                 Politicians and civil servants assisted (no. times)
+q117d1_13       byte    %22.0g     q117d4_13
+                                              Business people within same sector assisted (when)
+q117d2_13       byte    %22.0g     q117d4_13
+                                              Business people in other sectors assisted (when)
+q117d3_13       byte    %22.0g     q117d4_13
+                                              Bank officials assisted (when)
+q117d4_13       byte    %22.0g     q117d4_13
+                                              Politicians and civil servants assisted (when)
+q118a_13        int     %9.0g                 Number of contacts who are suppliers
+q118b_13        int     %9.0g                 Number of contacts who are customers
+q118c_13        byte    %9.0g                 Number of contacts who are debtors
+q118d_13        byte    %9.0g                 Number of contacts who are creditors
+q118e_13        int     %9.0g                 Number of contacts who are women
+q119_13         byte    %9.0g      q119_13    Member of a business association
+q119a_13        byte    %9.0g                 Member of how many business associations
+q119bb1_13      byte    %9.0g      q119bb3_13
+                                              Do you pay membership fees 1st assoc?
+q119bb2_13      byte    %9.0g      q119bb3_13
+                                              Do you pay membership fees 2nd assoc?
+q119bb3_13      byte    %9.0g      q119bb3_13
+                                              Do you pay membership fees 3rd assoc?
+q119bc1_13      byte    %90.0g     r119bc_13
+                                              most important purpose of the 1st business association
+q119bc2_13      byte    %90.0g     r119bc_13
+                                              most important purpose of the 2nd business association
+q119bc3_13      byte    %90.0g     r119bc_13
+                                              most important purpose of the 3rd business association
+q119bd1_13      byte    %9.0g      q119bd3_13
+                                              Received advocacy support from the 1st association
+q119bd2_13      byte    %9.0g      q119bd3_13
+                                              Received advocacy support from the 2nd association
+q119bd3_13      byte    %9.0g      q119bd3_13
+                                              Received advocacy support from the 3rd association
+q119be1_13      byte    %90.0g     r119bc_13
+                                              Benefit 1st association
+q119be2_13      byte    %90.0g     r119bc_13
+                                              Benefit 2nd association
+q119be3_13      byte    %90.0g     r119bc_13
+                                              Benefit 3rd association
+q119bf1_13      byte    %18.0g     q119bf3_13
+                                              Advocacy support 1st association
+q119bf2_13      byte    %18.0g     q119bf3_13
+                                              Advocacy support 2nd association
+q119bf3_13      byte    %18.0g     q119bf3_13
+                                              Advocacy support 3rd association
+q119bg1_13      byte    %90.0g     r119bc_13
+                                              Which type of advocacy support would you prefer that business associations offer
+q119bg2_13      byte    %90.0g     r119bc_13
+                                              Which type of advocacy support would you prefer that business associations offer
+q119bg3_13      byte    %90.0g     r119bc_13
+                                              Which type of advocacy support would you prefer that business associations offer
+q120a_13        byte    %9.0g      q120a_13   Competition
+q120aa_13       byte    %14.0g     r120aa_13
+                                              Level of competition from state enterprises
+q120ab_13       byte    %14.0g     r120aa_13
+                                              Level of competition from other non-state formal enterprises
+q120ac_13       byte    %14.0g     r120aa_13
+                                              Level of competition from other non-state informal enterprises
+q120ad_13       byte    %14.0g     r120aa_13
+                                              Level of competition from legal imports/foreign competition
+q120ae_13       byte    %14.0g     r120aa_13
+                                              Level of competition from smuggling
+q120af_13       byte    %14.0g     r120aa_13
+                                              Level of competition from other sources
+q120b_13        byte    %9.0g      q120b_13   Level of competition compared to 2 years ago
+q120c_13        byte    %9.0g                 Current number of competitors
+q121_13         byte    %9.0g      q121_13    Accumulated goods which are difficult to sell
+q121a_13        byte    %42.0g     q121a_13   Accumulated goods which are difficult to sell because
+q122_13         byte    %9.0g      q122_13    Introduced new product groups since 2011
+q122a_13        byte    %9.0g                 Number of new product groups since 2011
+q122b_13        byte    %55.0g     q122b_13   Reasons for introducing new product groups since 2011
+q122c_13        byte    %17.0g     q122c_13   How successful was the change
+q123_13         byte    %9.0g      q123_13    Improvements of existing products since 2011
+q123a_13        byte    %9.0g                 Number of improvements since 2011
+q123b_13        byte    %55.0g     q122b_13   Reasons for improvements of existing products since 2011
+q123c_13        byte    %17.0g     q122c_13   How successful was the change
+q124_13         byte    %9.0g      q124_13    Introduced new technology since 2011
+q124a_13        byte    %9.0g                 Number of new new technologies since 2011
+q124b_13        byte    %50.0g     q124b_13   Reasons for introducing new technology since 2011
+q124c_13        byte    %17.0g     q122c_13   How successful was the change
+q124d_13        byte    %16.0g     q124d_13   Where did the firm procure the new technology
+q124e_13        byte    %9.0g      q124e_13   Technical adaption for new production processes/new technology
+q124ea_13       byte    %53.0g     q124ea_13
+                                              The main purpose of the adaptation
+q124eb_13       byte    %88.0g     q124eb_13
+                                              Who did the adaption?
+q125_13         byte    %9.0g      q125_13    Planning to start up new projects/product lines in the near future
+q125b_13        byte    %54.0g     q125b_13   Major problems in starting up new projects
+q126_13         byte    %9.0g      q126_13    Having major constraints to growth
+q126a_13        byte    %54.0g     q126a_13   Most important constraints to growth
+q127a_13        byte    %9.0g      q127a_13   Crisis adversely affected business
+q127aa_13       byte    %12.0g     q127aa_13
+                                              Temporary or permanent effect of the crisis
+q127b_13        byte    %9.0g      q127b_13   Positive consequences of the crisis
+q127ba_13       byte    %49.0g     q127ba_13
+                                              Most important positive consequence of the crisis
+q127c1_13       byte    %9.0g      q127c1_13
+                                              Reducing production costs
+q127c2_13       byte    %9.0g      q127c2_13
+                                              Reassigning workers within the enterprise
+q127c3_13       byte    %9.0g      q127c3_13
+                                              Reducing size of labour force
+q127c4_13       byte    %9.0g      q127c4_13
+                                              Maintaining size of labour force but reducing total labour hours
+q127c5_13       byte    %9.0g      q127c5_13
+                                              Finding new markets for output
+q127c6_13       byte    %9.0g      q127c6_13
+                                              Changing or otherwise innovating services and activities
+q127c7_13       byte    %9.0g      q127c7_13
+                                              Shut down production temporarily
+q127c8_13       byte    %9.0g      q127c8_13
+                                              Selling assets
+q127c9_13       byte    %9.0g      q127c9_13
+                                              Other
+q128_13         byte    %9.0g      q128_13    Received some sort of government assistance in 2012
+q128b1_13       byte    %9.0g      q128b1_13
+                                              Received government assistance in 2012 for Incentives
+q128b2_13       byte    %9.0g      q128b2_13
+                                              Received government assistance in 2012 for VDB of VBSP loans
+q128b3_13       byte    %9.0g      q128b3_13
+                                              Received government assistance in 2012 for Human Resource Training Programme
+q128b4_13       byte    %9.0g      q128b4_13
+                                              Received government assistance in 2012 for National Key Trade Promotion Programm
+q128b5_13       byte    %9.0g      q128b5_13
+                                              Received government assistance in 2012 for Quality and Technology Improvement Pr
+q128b6_13       byte    %9.0g      q128b6_13
+                                              Received government assistance in 2012 for other type of government assistance
+q128c1_13       byte    %10.0g     r128c_13   Administrative level of assistance for Investment Incentives
+q128c2_13       byte    %10.0g     r128c_13   Administrative level of assistance for VDB of VBSP loans
+q128c3_13       byte    %10.0g     r128c_13   Administrative level of assistance for Human Resource Training Programme
+q128c4_13       byte    %10.0g     r128c_13   Administrative level of assistance for National Key Trade Promotion Programme
+q128c5_13       byte    %10.0g     r128c_13   Administrative level of assistance for Quality and Technology Improvement Progra
+q128c6_13       byte    %10.0g     r128c_13   Administrative level of assistance for other type of government assistance
+q128d1_13       byte    %28.0g     r128d_13   How did you get in contact with the authorities for Investment Incentives
+q128d2_13       byte    %28.0g     r128d_13   How did you get in contact with the authorities for VDB of VBSP loans
+q128d3_13       byte    %28.0g     r128d_13   How did you get in contact with the authorities for Human Resource Training Prog
+q128d4_13       byte    %28.0g     r128d_13   How did you get in contact with the authorities for National Key Trade Promotion
+q128d5_13       byte    %28.0g     r128d_13   How did you get in contact with the authorities for Quality and Technology Impro
+q128d6_13       byte    %28.0g     r128d_13   How did you get in contact with the authorities for other type of government ass
+q128a_13        byte    %9.0g      q128a_13   Did you have to pay communication fees in order to obtain the assistance?
+q128e1_13       byte    %9.0g      q128e1_13
+                                              Bribe for Investment Incentives
+q128e2_13       byte    %9.0g      q128e2_13
+                                              Bribe for VDB of VBSP loans
+q128e3_13       byte    %9.0g      q128e3_13
+                                              Bribe for Human Resource Training Programme
+q128e4_13       byte    %9.0g      q128e4_13
+                                              Bribe for National Key Trade Promotion Programme
+q128e5_13       byte    %9.0g      q128e5_13
+                                              Bribe for Quality and Technology Improvement Programmes
+q128e6_13       byte    %9.0g      q128e6_13
+                                              Bribe for other type of government assistance
+q128f1_13       byte    %11.0g     r128f_13   The impact of Investment Incentives
+q128f2_13       byte    %11.0g     r128f_13   The impact of VDB of VBSP loans
+q128f3_13       byte    %11.0g     r128f_13   The impact of Human Resource Training Programme
+q128f4_13       byte    %11.0g     r128f_13   The impact of National Key Trade Promotion Programme
+q128f5_13       byte    %11.0g     r128f_13   The impact of Quality and Technology Improvement Programmes
+q128f6_13       byte    %11.0g     r128f_13   The impact of other type of government assistance
+q128g1_13       byte    %9.0g      q128g1_13
+                                              Would like to have received Investment Incentives
+q128g2_13       byte    %9.0g      q128g2_13
+                                              Would like to have received VDB of VBSP loans
+q128g3_13       byte    %9.0g      q128g3_13
+                                              Would like to have received Human Resource Training Programme
+q128g4_13       byte    %9.0g      q128g4_13
+                                              Would like to have received National Key Trade Promotion Programme
+q128g5_13       byte    %9.0g      q128g5_13
+                                              Would like to have received Quality and Technology Improvement Programmes
+q128g6_13       byte    %9.0g      q128g6_13
+                                              Would like to have received other type of government assistance
+q129b1_13       byte    %9.0g      q129b1_13
+                                              Business Registration Application
+q129b2_13       byte    %9.0g      q129b2_13
+                                              Social insurance registration certificate
+q129b3_13       byte    %9.0g      q129b3_13
+                                              Investment certificate
+q129b4_13       byte    %9.0g      q129b4_13
+                                              Environmental standards certificate
+q129b5_13       byte    %9.0g      q129b5_13
+                                              Fire prevention certificate
+q129b6_13       byte    %9.0g      q129b6_13
+                                              Technology transfer certificate
+q129b7_13       byte    %9.0g      q129b7_13
+                                              License to operate overseas accounts
+q129c1_13       byte    %9.0g                 Time to obtain Business Registration Application
+q129c2_13       byte    %9.0g                 Time to obtain Social insurance registration certificate
+q129c3_13       int     %9.0g                 Time to obtain Investment certificate
+q129c4_13       int     %9.0g                 Time to obtain Environmental standards certificate
+q129c5_13       byte    %9.0g                 Time to obtain Fire prevention certificate
+q129c6_13       int     %9.0g                 Time to obtain Technology transfer certificate
+q129c7_13       byte    %9.0g                 Time to obtain License to operate overseas accounts
+q130b01_13      byte    %31.0g     r130_13    Enterprise law
+q130b02_13      byte    %31.0g     r130_13    Cooperative law
+q130b03_13      byte    %31.0g     r130_13    Labour code
+q130b04_13      byte    %31.0g     r130_13    Customs law
+q130b05_13      byte    %31.0g     r130_13    Insurance law
+q130b06_13      byte    %31.0g     r130_13    Tax law
+q130b07_13      byte    %31.0g     r130_13    Environmental law
+q130b08_13      byte    %31.0g     r130_13    Land law
+q130b09_13      byte    %31.0g     r130_13    Investment law
+q130b10_13      byte    %31.0g     r130_13    Social Insurance Law
+q130b11_13      byte    %31.0g     r130_13    Gender equality law
+q131a_13        byte    %9.0g                 Times inspected by policy compliance inspections (labour, tax, etc.)
+q131b_13        byte    %9.0g                 Times inspected by technical compliance inspections (environmental, fire, etc.)
+q131c_13        byte    %9.0g                 Times inspected by other inspections (after accidents etc.)
+q132_13         byte    %58.0g     q132_13    Most important way for the authorities to help the enterprise expand and increas

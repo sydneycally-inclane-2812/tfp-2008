@@ -1,0 +1,3 @@
+use "D:\Ngan\drive-download-20241110T083555Z-001\Files\Original\So lieu DN 2005_Final_clean.dta", clear
+describe
+export delimited using "D:\Ngan\drive-download-20241110T083555Z-001\Files\straight outta stata\c\data_2005.csv", replace

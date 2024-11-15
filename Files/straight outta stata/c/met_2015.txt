@@ -1,0 +1,775 @@
+
+q7aa            byte    %8.0g      Q7AB       aa. DN c  m  m i
+EAq1a13         double  %18.0g     KT2        Revenue from sales in 2013
+EAq1a113        double  %18.0g     KT2        Share from exports? (percent)
+EAq1b13         double  %18.0g     KT2        Total costs (intermediate, indirect, raw materials)
+EAq1c13         double  %18.0g     KT2        Total value added in 2013
+EAq1d13         long    %18.0g     KT2        Total labour costs in 2013
+EAq1e13         double  %18.0g     KT2        Total gross profit in 2013
+EAq1f13         double  %18.0g     KT2        Total interest payments in 2013
+EAq1g13         double  %18.0g     KT2        Total fees and taxes in 2013
+EAq1h13         long    %18.0g     KT2        Total assets, end-year in 2013
+EAq1i13         long    %18.0g     KT2        Total outstanding debt, end-year in 2013
+EAq1j13         long    %18.0g     KT2        Total equity, end-year in 2013
+EAq1k13         int     %18.0g     KT2        Total number of full-time workers in firm end-year in 2013
+EAq1a14         double  %18.0g     KT3        Revenue from sales in 2014
+EAq1a114        double  %18.0g     KT3        Share from exports? (percent)
+EAq1b14         double  %18.0g     KT3        Total costs (intermediate, indirect, raw materials)
+EAq1c14         double  %18.0g     KT3        Total value added in 2014
+EAq1d14         long    %18.0g     KT3        Total labour costs in 2014
+EAq1e14         double  %18.0g     KT3        Total gross profit in 2014
+EAq1f14         long    %18.0g     KT3        Total interest payments in 2014
+EAq1g14         double  %18.0g     KT3        Total fees and taxes in 2014
+EAq1h14         long    %18.0g     KT3        Total assets, end-year in 2014
+EAq1i14         long    %18.0g     KT3        Total outstanding debt, end-year in 2014
+EAq1j14         long    %18.0g     KT3        Total equity, end-year in 2014
+EAq1k14         int     %18.0g     KT3        Total number of full-time workers in firm end-year in 2014
+q1_15           float   %9.0g                 Firm id
+q2b_15          byte    %9.0g      q2b_15     Position of respondent
+q2c_15          byte    %9.0g      q2c_15     Gender of respondent
+q2d_15a         int     %9.0g                 Year of birth of respondent
+q2d_15          byte    %9.0g                 Age of respondent
+q3cd_15         str16   %16s                  District name
+q3cd1_15        int     %9.0g                 District code
+q3ce1_15        byte    %9.0g      q3ce_15    Province code
+q3ce_15         str9    %9s                   Province name
+q3e_15          byte    %9.0g      q3e_15     Internet access Y/N
+q3f_15          byte    %9.0g      r3d        Email address Y/N
+q3g_15          byte    %9.0g      r3d        Website Y/N
+q4_15           byte    %9.0g      q4_15      Firm merger (take-over)
+q5_15           byte    %9.0g      q5_15      Production zone
+q5a_15          byte    %9.0g      r4         More than one location
+q6a_15          int     %9.0g                 Year of establishment
+q6aa_15         byte    %9.0g      r4         Had BRC when began operations
+q6b_15          int     %9.0g                 Year of take over (current owners)
+q7a_15          byte    %9.0g      r4         Are you aware of the new unique ECN
+q7aa_15         byte    %9.0g      r4         Does the enterprise have the ECN
+q7b_15          byte    %9.0g      r4         Does the enterprise have the BRC
+q7c_15          byte    %9.0g      r4         Does the enterprise have the tax code (TC)
+q8_15           byte    %23.0g     q8_15      Type of firm
+q9_15           byte    %9.0g      r4         Changed owner since last survey
+q9b_15          byte    %62.0g     q9b_15     Changed owner - how?
+q10a_15         byte    %9.0g      r4         Temporary closure, but operating now
+q10a1_15        byte    %44.0g     q10a1_15   Reason for temporary closure
+q10b_15         byte    %9.0g      r4         Changed legal status
+q11a_15         byte    %9.0g      r4         Changed location
+q11b_15         byte    %48.0g     q11b_15    Reason for changing location
+q12a_15         byte    %34.0g     q12a_15    Legal status
+q12b_15         byte    %49.0g     q12b_15    HH formal/informal
+q12c_15         byte    %15.0g     q12c_15    One or multiple owners
+q12ca_15        float   %9.0g                 Ownership percentage of the largest shareholder
+q13main_15      str49   %49s                  Main area of business and production activity
+q13a_15         byte    %9.0g      r4         Manufacturing main production sector
+q14a_15         byte    %9.0g      r4         Is there a main (paved) road leading to the firm?
+q14b_15         byte    %9.0g      r4         Easy access to rail
+q14c_15         byte    %9.0g      r4         Easy access to port
+q14d_15         byte    %9.0g      r4         Access to public electricity grid
+q14e_15         byte    %9.0g      r4         Access to public provided water system
+q14f_15         byte    %9.0g      r4         Did you, during 2014, experience insufficient power for production?
+q14g_15         byte    %9.0g      r4         Did you during 2014 experience insufficient water supply for production?
+q15_15          byte    %40.0g     q15_15     What are the premises of the enterprise mainly used for?
+q16_15          byte    %79.0g     q16_15     Is the land housing the main production facility of the enterprise owned or rent
+q16ba_15        int     %9.0g                 How long did it take to obtain it from the time of application to the receipt of
+q16bb_15        float   %9.0g                 What was the cost of obtaining CLUR? (million VND)
+q16c_15         float   %9.0g                 If land rented (informally (case 3) or formally (case 4)), what was the total co
+q17_15          byte    %9.0g                 How many different goods did your firm produce in 2014?
+q17d_15         byte    %9.0g      r4         Diversification
+q17a_4ds_15     int     %9.0g                 Sector 4-digit VSIC
+q17a_15         byte    %72.0g     q17a_15    Sector
+q17b_15         byte    %9.0g      q17b_15    2nd sector
+q17c_15         byte    %9.0g      q17c_15    3rd sector
+q18_15          byte    %12.0g     q18_15     Previous experience
+q19_15          byte    %54.0g     q19_15     Main reason for starting business
+q20a_15         byte    %24.0g     q20a_15    Lack of capital
+q20b_15         byte    %9.0g      r20        Lack of raw material
+q20c_15         byte    %9.0g      r20        Lack of marketing outlet/packaging & distribution services
+q20d_15         byte    %9.0g      r20        Lack of marketing skills
+q20e_15         byte    %9.0g      r20        Lack of technical know-how
+q20f_15         byte    %9.0g      r20        Lack of suitable machinery/equipment
+q20g_15         byte    %9.0g      r20        Difficulty in finding suitable premises
+q20h_15         byte    %9.0g      r20        Complicated regulations/difficulties in obtaining licenses
+q20i_15         byte    %9.0g      r20        Lack of skilled labor
+q20j_15         byte    %9.0g      r20        Lack of support from local government
+q20k_15         byte    %9.0g      r20        Lack of business development services/business advice/entrepreneurship developme
+q20l_15         byte    %9.0g      r20        Lack of of relevant business associations
+q20m_15         byte    %9.0g      r20        Other
+q21a_15         byte    %9.0g      r4         Government officials
+q21b_15         byte    %9.0g      r4         State owned commercial banks
+q21c_15         byte    %9.0g      r4         State owned enterprises
+q21d_15         byte    %9.0g      r4         Donor agencies/Foreign NGOs
+q21e_15         byte    %9.0g      r4         Mass organizations
+q21f_15         byte    %9.0g      r4         Other private firms/private banks
+q21g_15         byte    %9.0g      r4         Friends and relatives/family
+q21h_15         byte    %9.0g      r4         Business associations
+q21i_15         byte    %9.0g      r4         Other
+q22a_15         byte    %9.0g      r4         Founders’ own money
+q22b_15         byte    %9.0g      r4         Loans from family members
+q22c_15         byte    %9.0g      r4         Loans from friends and acquaintances
+q22d_15         byte    %9.0g      r4         Loans from local government
+q22e_15         byte    %9.0g      r4         Domestic bank loan
+q22f_15         byte    %9.0g      r4         International bank loan
+q22g_15         byte    %9.0g      r4         Informal credit association (money lenders, informal bank, pawn shop)
+q22h_15         byte    %9.0g      r4         Business association
+q22i_15         byte    %9.0g      r4         Other
+q23a_15         byte    %9.0g                 Number of HH members
+q23aa_15        float   %9.0g                 Share of women in HH
+q23ba_15        float   %9.0g                 Share of children in HH
+q23bb_15        float   %9.0g                 Share of adults between 15-60 in HH
+q23bc_15        float   %9.0g                 Share of adults over 60 in HH
+q24_15          float   %9.0g                 Full time jobs as share of adults between 15-60 in HH (99 = no adults between 15
+q24a_15         byte    %9.0g                 Number of full time jobs
+q24aa_15        byte    %9.0g                 Number of full time jobs in the enterprise
+q24ab_15        byte    %9.0g                 Number of full time jobs elsewhere, for wages
+q24ac_15        byte    %9.0g                 Number of full time jobs elsewhere, self-employed
+q24b_15         byte    %9.0g                 Number of part time jobs
+q24ba_15        byte    %9.0g                 Number of part time jobs in the enterprise
+q24bb_15        byte    %9.0g                 Number of part time jobs elsewhere, for wages
+q24bc_15        byte    %9.0g                 Number of part time jobs elsewhere, self-employed
+q25a_15         byte    %9.0g                 Number of income generating jobs
+q25b_15         byte    %9.0g      r4         Firm main source of HH income
+q26_15          byte    %16.0g     q26_15     HH income change since 2013
+q27a_15         byte    %9.0g      q27a_15    Respondent ethnicity
+q27b_15         byte    %24.0g     q27b_15    Respondent basic education
+q27c_15         byte    %35.0g     q27c_15    Respondent professional education
+q27d_15         byte    %37.0g     q27d_15    Previous work status
+q27e_15         byte    %35.0g     q27e_15    Owner previous occupation
+q27fa_15        byte    %9.0g      q27fa_15   Mother's occupation
+q27fb_15        byte    %9.0g      r27e       Father's occupation
+q27ga_15        byte    %9.0g      r4         Respondent holds a local cadre position
+q27gb_15        byte    %9.0g      r4         Respondent is war veteran
+q27gc_15        byte    %9.0g      r4         Other position of responsibility
+q27h_15         byte    %9.0g      r4         Respondent is a Communist Party member
+q27ia_15        byte    %30.0g     q27ia_15   Dwelling type
+q27ib_15        int     %9.0g                 Dwelling area (m2)
+q27ic_15        byte    %9.0g                 Years lived in
+q27id_15        byte    %9.0g                 How old is the dwelling
+q27ie_15        int     %9.0g                 Year of last major repair
+q28a_15         byte    %12.0g     q28a_15    Before establishing current firm, did the owner have another enterprise?
+q28aa_15        byte    %9.0g      r28a       Previous enterprise in the same sector (4-digit ISIC)?
+q28b_15         byte    %9.0g      r4         Does the owner currently own other enterprises?
+q28bb_15        byte    %47.0g     q28bb_15   Why several enterprises?
+q29_15          byte    %38.0g     q29_15     Does the enterprise use:
+q30a_15         float   %9.0g                 Percentage of equipment under 3 years old
+q30b_15         byte    %9.0g                 Percentage of equipment 3 to 5 years old
+q30c_15         byte    %9.0g                 Percentage of equipment 6 to 10 years old
+q30d_15         float   %9.0g                 Percentage of equipment 11 to 20 years old
+q30e_15         byte    %9.0g                 Percentage of equipment more than 20 years old
+q31aa_15        float   %9.0g                 Percentage of equipment new at purchase
+q31ab_15        float   %9.0g                 Percentage of equipment used at purchase
+q31ac_15        byte    %9.0g                 Percentage of equipment self-constructed
+q31ba_15        byte    %9.0g                 Percentage of equipment from the same district as place of production
+q31bb_15        byte    %9.0g                 Percentage of equipment from other district but same province
+q31bc_15        byte    %9.0g                 Percentage of equipment from other province
+q31bd_15        float   %9.0g                 Percentage of equipment from direct imports
+q31be_15        float   %9.0g                 Percentage of equipment from indirect imports
+q31bdom_15      byte    %9.0g                 Percentage of domestic equipment at purchase
+q31bfor_15      byte    %9.0g                 Percentage of foreign equipment at purchase
+q32a_15         byte    %59.0g     q32a_15    Owning or renting equipment
+q32b_15         byte    %14.0g     q32b_15    How was the equipment purchase financed?
+q33_15          byte    %18.0g     q33_15     Main source of supply of equipment/machinery
+q34_15          byte    %29.0g     q34_15     Capacity utilization
+q35a_15         int     %9.0g                 Number of operating personal computers (pc)
+q35b_15         byte    %9.0g      r4         Does your firm sell products via e-trading?
+q35c_15         byte    %9.0g      r4         Does your firm buy input materials via e-trading?
+q36a_15         byte    %9.0g      r4         Firm outsourced production in 2014
+q36aa_15        int     %9.0g                 If yes, how many outsourcing subcontracts in 2014?
+q36ab_15        float   %9.0g                 What was the total cost of outsourcing in 2014? (million VND)
+q36ac_15        byte    %9.0g                 What percentage of your outsourcing contract value was for exports?
+q36ad_15        byte    %41.0g     q36ad_15   Main reason for outsourcing parts of the production
+q36b_15         byte    %9.0g      r4         Firm was a subcontractor in 2014
+q36ba_15        int     %9.0g                 If subcontractor, how many subcontracts in 2014?
+q36bb_15        float   %9.0g                 What was the total revenue from these subcontracts in 2014? (million VND)
+q36bc_15        float   %9.0g                 What percentage came from subcontracts with foreign-invested enterprises
+q37a_15         byte    %9.0g      r4         Firm has an internationally recognized quality certificate
+q37b_15         byte    %9.0g      r4         Firm has a domestically recognized quality certificate
+q37c_15         byte    %9.0g      r4         Certification required by customers
+q38a_15         str60   %60s                  Name of the 1st standard
+q38b_15         str58   %58s                  Name of the 2nd standard
+q38c_15         str77   %77s                  Name of the 3rd standard
+q39a1_15        int     %9.0g                 Year 1st standard
+q39a2_15        int     %9.0g                 Year 2nd standard
+q39a3_15        int     %9.0g                 Year 3rd standard
+q39b1_15        float   %9.0g                 Cost of 1st standard
+q39b2_15        float   %9.0g                 Cost of 2nd standard
+q39b3_15        float   %9.0g                 Cost of 3rd standard
+q40a_15         byte    %9.0g                 How important were buyers/customers for standards
+q40b_15         byte    %9.0g                 How important were suppliers of raw materials or intermediate products for stand
+q40c_15         byte    %9.0g                 How important were other business people in the same sector for standards
+q40d_15         byte    %9.0g                 How important were other business people in a different sector for standards
+q40e_15         byte    %9.0g                 How important were business associations for standards
+q40f_15         byte    %9.0g                 How important were politicians and civil servants for standards
+q40g_15         byte    %9.0g                 How important were bank officials for standards
+q40h_15         byte    %9.0g                 How important were other for standards
+q41aa1_15       str20   %20s                  Name of product 1
+q41aa2_15       str20   %20s                  Name of product 2
+q41aa3_15       str20   %20s                  Name of product 3
+q41ab1_15       int     %9.0g                 4-digit VSIC Code of product 1
+q41ab2_15       int     %9.0g                 4-digit VSIC Code of product 2
+q41ab3_15       int     %9.0g                 4-digit VSIC Code of product 3
+q41ac1_15       str10   %10s                  Units product 1
+q41ac2_15       str9    %9s                   Units product 2
+q41ac3_15       str9    %9s                   Units product 3
+q41ad1_15       float   %9.0g                 Quantity produced product 1
+q41ad2_15       float   %9.0g                 Quantity produced product 2
+q41ad3_15       float   %9.0g                 Quantity produced product 3
+q41ae1_15       float   %9.0g                 Quantity sold product 1
+q41ae2_15       float   %9.0g                 Quantity sold product 2
+q41ae3_15       float   %9.0g                 Quantity sold product 3
+q41af1_15       float   %9.0g                 Average sales price of one unit of output (1,000 VND) product 1
+q41af2_15       float   %9.0g                 Average sales price of one unit of output (1,000 VND)product 2
+q41af3_15       float   %9.0g                 Average sales price of one unit of output (1,000 VND) product 3
+q41ag1_15       float   %9.0g                 Average cost of producing one unit of output (1,000 VND) product 1
+q41ag2_15       float   %9.0g                 Average cost of producing one unit of output (1,000 VND)product 2
+q41ag3_15       float   %9.0g                 Average cost of producing one unit of output (1,000 VND) product 3
+q41b_15         byte    %9.0g                 Times changed output price of the main product in 2014
+q41c_15         float   %9.0g                 Percent change in output price during 2014
+q41d_15         byte    %9.0g      r4         Price set as a fixed mark-up over production costs
+q41da_15        float   %9.0g                 Percentage of the mark-up
+q42a_15         float   %9.0g                 How much of your production is used for: Final consumption
+q42b_15         byte    %9.0g                 How much of your production is used for: Intermediate inputs in agriculture
+q42c_15         byte    %9.0g                 How much of your production is used for: Intermediate inputs in manufacturing
+q42d_15         float   %9.0g                 How much of your production is used for: Intermediate inputs in services
+q42e_15         byte    %9.0g                 How much of your production is used for: Don’t know
+q43_15          byte    %28.0g     r43        Does the enterprise produce on advance order?
+q44_15          byte    %9.0g      r4         Advertisement
+q45a_15         byte    %24.0g     q45a_15    How many customers normally buy good/service produced by your enterprise?
+q45b_15         float   %9.0g                 Current (within district) market share
+q46aa_15        byte    %9.0g                 Same commune
+q46ab_15        byte    %9.0g                 Other commune within district
+q46ac_15        float   %9.0g                 Other district within province
+q46ad_15        float   %9.0g                 Neighbouring province
+q46ae_15        float   %9.0g                 Other province (non-neighbouring)
+q46af_15        float   %9.0g                 Export/outside country (direct)
+q46b_15         float   %9.0g                 Distance to your main customer (in km)
+q47a_15         float   %9.0g                 Share of customers individual local people
+q47b_15         float   %9.0g                 Share of customers tourists
+q47c_15         float   %9.0g                 Share of customers non-commercial government authorities
+q47d_15         float   %9.0g                 Share of customers domestic non-state firms
+q47e_15         float   %9.0g                 Share of customers state enterprises
+q47f_15         float   %9.0g                 Share of customers foreign invested companies
+q47g_15         float   %9.0g                 Share of customers in foreign country (export)
+q48_15          float   %9.0g                 Percentage of sales from return customers
+q49_15          float   %9.0g                 Percentage of sales based on written contracts with customers
+q50a_15         byte    %9.0g      r4         Relations with customers required investments
+q50b_15         byte    %9.0g      r4         Technology transfer from customers
+q51_15          byte    %9.0g      r4         Export
+q51a_15         byte    %9.0g      r4         Direct export
+q52a_15         float   %9.0g                 Share of total costs from transportation
+q52b1_15        byte    %9.0g                 The firm handles the transport itself (%)
+q52b2_15        byte    %9.0g                 Contract with a transport company (%)
+q52b3_15        byte    %9.0g                 Collective agreement with other firms for joint shipments (%)
+q52c_15         byte    %31.0g     q52c_15    The main purpose of consolidating cargo with other enterprises
+q53_15          byte    %12.0g     q53_15     Days of inventory of the most important input
+allrm           byte    %9.0g                 Raw materials total
+q54a_15         float   %9.0g                 Raw materials: From households
+q54b_15         float   %9.0g                 Raw materials: Other non-state enterprises
+q54c_15         float   %9.0g                 Raw materials: State enterprises
+q54d_15         byte    %9.0g                 Raw materials: Other state agencies
+q54e_15         byte    %9.0g                 Raw materials: Imported (directly)
+q54f_15         byte    %9.0g                 Raw materials: Other
+allrmorigin     byte    %9.0g                 Raw materials purchase origin total
+q55a_15         float   %9.0g                 Same commune
+q55b_15         float   %9.0g                 Other commune within district
+q55c_15         float   %9.0g                 Other district within province
+q55d_15         float   %9.0g                 Neighbouring province
+q55e_15         float   %9.0g                 Other province (non-neighbouring)
+q55f_15         byte    %9.0g                 Import (directly)
+q56_15          byte    %9.0g                 Percentage of total input or intermediates based on written contracts with suppl
+q57a_15         byte    %9.0g      r4         Investments for input suppliers
+q57b_15         byte    %9.0g      r4         Technology transfer from the supplier
+q58a_15         byte    %9.0g      r4         Free selection of suppliers
+q58ba_15        byte    %30.0g     q58ba_15   How are suppliers identified
+q58bb_15        byte    %37.0g     q58bb_15   Main criteria for selecting suppliers
+q58bc_15        byte    %9.0g      r4         Easy to find an alternative supplier
+q58bd_15        byte    %9.0g      r4         Conduct of suppliers when deciding to purchase
+q58bda_15       byte    %44.0g     q58bda_15
+                                              Most important conduct when selecting suppliers
+q59_15          float   %9.0g                 Distance to main supplier (km)
+q60a_15         byte    %9.0g      r4         Purchasing business services outside the enterprise
+q60b_15         float   %9.0g                 Percentage spent on services
+q60c1_15        byte    %45.0g     q60c1_15   Most important business service
+q60c2_15        byte    %9.0g      r60c       Second most important business service
+q60c3_15        byte    %9.0g      r60c       Third most important business service
+q61b1_15        byte    %43.0g     q61b1_15   Most important service provider
+q61b2_15        byte    %9.0g      r61a       Second most important service provider
+q61b3_15        byte    %9.0g      r61a       Third most important service provider
+q62_inv_15      byte    %9.0g      r4         New investment made the last 2 years
+q62a_15         float   %9.0g                 Amount invested (million VND)
+q62aa_15        float   %9.0g                 Invested in land
+q62ab_15        float   %9.0g                 Invested in buildings
+q62ac_15        float   %9.0g                 Invested in equipment/machinery
+q62ao_15        float   %9.0g                 Invested in other
+q62ad_15        int     %9.0g                 Invested in R&D
+q62ae_15        float   %9.0g                 Invested in Human capital upgrading (training)
+q62af_15        byte    %9.0g                 Invested in Patents
+q62ag_15        int     %9.0g                 Invested in other enterprises
+allinv          byte    %9.0g                 Sources of investment total
+q63b1_15        float   %9.0g                 Own capital
+q63b2_15        float   %9.0g                 Borrowed from bank/credit institution
+q63b3_15        byte    %9.0g                 Borrowed against interest from other sources
+q63b4_15        float   %9.0g                 Borrowed from friends and relatives without interest
+q63b5_15        float   %9.0g                 Borrowed from other sources without interest
+q63b6_15        byte    %9.0g                 Stocks issued
+q63b7_15        byte    %9.0g                 Other
+q64_15          byte    %26.0g     q64_15     Main purpose of investment
+realph_ass15    float   %9.0g                 Real ph assets 2015 (million VND) value
+q65aa_15        float   %9.0g                 Land value (million VND)
+q65ab_15        float   %9.0g                 Buildings value (million VND)
+q65ac_15        float   %9.0g                 Equipment/machinery value (million VND)
+q65ad_15        float   %9.0g                 Transport equipment value (million VND)
+q65ae_15        float   %9.0g                 Raw materials, input inventories value (million VND)
+q65af_15        float   %9.0g                 Finished goods/inventories value (million VND)
+f_ass15         float   %9.0g                 Financial assets 2015 (million VND) value
+q65ba_15        float   %9.0g                 Cash and deposits (million VND)
+q65bb_15        float   %9.0g                 Outstanding credits (million VND)
+tot_ass15       float   %9.0g                 Total assets 2015 (million VND) value
+q66_15          float   %9.0g                 Total liabilities (million VND)
+q67_15          float   %9.0g                 Total interest payments in 2014 (million VND)
+q67a_15         float   %9.0g                 Interest payment on formal loans in 2014 (million VND)
+q68_15          byte    %9.0g      r4         Firm failed to service debt on time in 2014
+q69_15          byte    %9.0g      r4         Firm has an overdraft facility
+q70_15          byte    %9.0g      r4         Firm applied for formal loans since 2013
+q71_15          byte    %9.0g      r4         Problems getting the loan
+q71a_15         byte    %72.0g     q71a_15    Causes of problems for getting the loan
+q72_15          byte    %9.0g                 Number of formal loans (short and long term)
+q72a_15         byte    %9.0g                 Number of formal short term loans
+q72b_15         byte    %9.0g                 Number of formal long term loans
+q73a_15         byte    %34.0g     q73a_15    Which bank/formal credit institution do you primarily use?
+q74_15          byte    %9.0g                 Number of formal loan applications (short and long term)
+q74a_15         byte    %9.0g                 Number of formal short term loan applications
+q74b_15         byte    %9.0g                 Number of formal long term loan applications
+q75a_15         byte    %33.0g     q75a_15    Source of the most important current formal loan
+q75b_15         float   %9.0g                 Amount originally borrowed (million VND) for formal loan
+q75cm_15        byte    %9.0g                 Month borrowed
+q75cy_15        int     %9.0g                 Year borrowed
+q75c1_15        int     %9.0g                 Duration of the loan (months)
+q75d_15         float   %9.0g                 Current liability (million VND) for formal loan
+q75e_15         float   %9.0g                 Interest rate, % month for formal loan
+q75f_15         byte    %9.0g      r4         Assets required as collateral for formal loan
+q75fa_15        byte    %19.0g     q75fa_15   Types of collateral for formal loan
+q75g_15         byte    %9.0g      r4         Guarantor for the formal loan
+q75ga_15        byte    %38.0g     q75ga_15   Relationship with the guarantor
+q76_15          byte    %9.0g      r4         Need additional loan
+q76a_15         byte    %36.0g     q76a_15    Why additional loan
+q76b_15         byte    %27.0g     q76b_15    Why not additional loan
+q77_15          byte    %26.0g     q77_15     Why have not applied for formal loan since 2013
+q78_15          byte    %9.0g      r4         Informal borrowing since 2013
+q78a_15         byte    %28.0g     q78a_15    Why borrowed informally
+q78b_15         byte    %9.0g                 Number of informal long term loans since August 2013
+q78c_15         byte    %9.0g      r4         Difficulties in obtaining informal credit
+q78ca_15        byte    %9.0g                 How many times had difficulties in obtaining informal loans
+q79a_15         byte    %29.0g     q79a_15    Source of informal loan
+q79b_15         float   %9.0g                 Amount originally borrowed (million VND) for informal loan
+q79ca_15        int     %9.0g                 Duration of this loan (months)
+q79d_15         float   %9.0g                 Current liability (million VND) for informal loan
+q79e_15         float   %9.0g                 Interest rate, % month for informal loan
+q79f_15         byte    %9.0g      r4         Assets required as collateral
+q79fa_15        byte    %19.0g     q79fa_15   Types of collateral for informal loan
+q79g_15         byte    %9.0g      r4         Guarantor for the informal loan
+q79ga_15        byte    %38.0g     q79ga_15   Relationship with the guarantor for the informal loan
+q80_15          byte    %14.0g     q80_15     Most important type of loan for the firm
+q81_15          byte    %16.0g     q81_15     Distance to the most important creditor (km)
+q82_15          byte    %18.0g     q82_15     Creditor's location
+q83_15          byte    %9.0g      r4         Firm ever given a loan to the main creditor
+q84_15          byte    %9.0g      r4         Firm borrowed from the main creditor
+q85_15          byte    %9.0g      r4         Does the firm keep formal accounting books in accordance with regulations
+q85a_15         byte    %9.0g      r4         Are accounts audited
+q85b_15         byte    %9.0g      r4         Submit financial accounts
+q85ba_15        byte    %14.0g     r85ba      Why not submitting financial reports
+q86a_15         float   %9.0g                 Total taxes and fees paid in 2014 (million VND)
+q86aa_15        float   %9.0g                 Corporate Income Tax in 2014 (million VND)
+q86ab_15        float   %9.0g                 Value Added Tax in 2012 (million VND)
+q86ac_15        float   %9.0g                 Business Registration Tax in 2014 (million VND)
+q86ad_15        float   %9.0g                 Import/Export Tax in 2014 (million VND)
+q86ae_15        float   %9.0g                 Special Consumption Tax in 2014 (million VND)
+q86af_15        float   %9.0g                 Property/Enterprise tax (Stamp duties) in 2014 (million VND)
+q86ag_15        float   %9.0g                 Other taxes in 2014 (million VND)
+q87a_15         float   %9.0g                 Percentage of management's working time spent each month dealing with government
+dis_tax         float   %9.0g                 What is the distance (in km) to the relevant tax office
+q88_15_inf      byte    %9.0g      r4         Firm provides informal payments
+q88_inf_dummy   byte    %9.0g      r88dm      Firm does not provide informal payments
+q88a_15         byte    %18.0g     q88a_15    Bribe frequency
+q88b_15         float   %9.0g                 Bribe amount (as share of firm revenue)
+q88b_15x        float   %9.0g                 Bribe amount
+indicator15     byte    %9.0g      r4         Is bribe amount reported
+q88c_15         byte    %35.0g     q88c_15    Bribe purpose
+q89_15          byte    %12.0g     r89        Will bribe payments increase in the future
+q89a_15         byte    %59.0g     r89a       Why do you think informal payments level will increase
+q90at_15        int     %9.0g                 Total labour force
+q90aat_15       int     %9.0g                 Regular labor force (full time and part time)
+q90aaat_15      int     %9.0g                 Regular full time labor force
+q90aabt_15      int     %9.0g                 Regular part time labor force
+q90abt_15       int     %9.0g                 Total casual labor force
+q90b_sh_15      float   %9.0g                 Share unpaid labour force
+q90aat_sh_15    float   %9.0g                 Share regular total labour force of total
+q90aaat_sh_15   float   %9.0g                 Share regular full-time labour force of total
+q90aabt_sh_15   float   %9.0g                 Share regular part-time labour force of total
+q90abt_sh_15    float   %9.0g                 Share casual labour force of total
+q90af_15        int     %9.0g                 Total female labour force
+q90af_sh_15     float   %9.0g                 Female labour force share
+q90c_15         float   %9.0g                 Percentage of regular full-time labour force with formal labour contract
+q90da_15        float   %9.0g                 Percentage of regular full-time labour force with indefinite term contract
+q90db_15        float   %9.0g                 Percentage of regular full-time labour with contract valid btw 12 and 36 months
+q90dc_15        float   %9.0g                 Percentage of regular full-time labour with contract valid btw 3 and 12 months
+q90dd_15        float   %9.0g                 Percentage of regular full-time labour force with contract valid less than 3 mon
+contract3M_15   float   %9.0g                 Percentage of regular full-time labour force with a contract duration of more th
+q90e_15         float   %9.0g                 Average number of days worked per month by a regular full-time employee
+q90f_15         float   %9.0g                 Average number of hours worked per day by a regular full-time employee
+q91a_sh_15      float   %9.0g                 Manager share of total workforce
+q91b_sh_15      float   %9.0g                 Professionals share of total workforce
+q91c_sh_15      float   %9.0g                 Office workers share of total workforce
+q91d_sh_15      float   %9.0g                 Sales personnel share of total workforce
+q91e_sh_15      float   %9.0g                 Service workers share of total workforce
+q91f_sh_15      float   %9.0g                 Production worker share of total workforce
+q91fa_sh_15     float   %9.0g                 Unskilled production worker share of total workforce
+q91g_sh_15      float   %9.0g                 Apprentice share of total workforce
+q91w_sh_15      float   %9.0g                 Share of total workforce which are women
+q91ta_15        byte    %9.0g                 Managers
+q91tb_15        int     %9.0g                 Professionals
+q91tc_15        int     %9.0g                 Office workers
+q91td_15        int     %9.0g                 Sales personnel
+q91te_15        byte    %9.0g                 Service workers
+q91tf_15        int     %9.0g                 Production worker
+q91tfa_15       int     %9.0g                 Unskilled production workers
+q91tg_15        byte    %9.0g                 Apprentice
+q91wa_15        byte    %9.0g                 Managers, women
+q91wb_15        byte    %9.0g                 Professionals, women
+q91wc_15        byte    %9.0g                 Office workers, women
+q91wd_15        int     %9.0g                 Sales personnel, women
+q91we_15        byte    %9.0g                 Service workers, women
+q91wf_15        byte    %9.0g                 Production worker, women
+q91wfa_15       int     %9.0g                 Unskilled production workers
+q91wg_15        int     %9.0g                 Apprentice, women
+q92a_15         byte    %9.0g                 Number of new employees hired in 2014
+q92b_15         byte    %9.0g                 Number of regular workers who left the firm in 2014
+q92ba_15        byte    %9.0g                 Left voluntarily
+q92bb_15        byte    %9.0g                 Were fired
+q92bc_15        byte    %9.0g                 Retired
+q92bd_15        byte    %9.0g                 Illness
+q92be_15        byte    %9.0g                 Died
+q92bf_15        byte    %9.0g                 Other reasons
+share_vol       float   %9.0g                 Share of regular workers who left the firm voluntarily in 2014
+share_fired     float   %9.0g                 Share of regular workers who were fired in 2014
+share_ret       float   %9.0g                 Share of regular workers who retired in 2014
+share_ill       float   %9.0g                 Share of regular workers who left due to illness in 2014
+share_died      byte    %9.0g                 Share of regular workers who died in 2014
+share_other     float   %9.0g                 Share of regular workers who left for other reasons in 2014
+q92bg_15        byte    %9.0g      r4         Redundancy in 2014
+q92a21_15       byte    %9.0g                 Redundancy of production workers 2014
+q92a22_15       byte    %9.0g                 Redundancy of other workers 2014
+q92bgb1_15      byte    %9.0g                 Redundancy of unskilled workers 2014
+q92bgb2_15      byte    %9.0g                 Redundancy of workers with Technical level without certificate 2014
+q92bgb3_15      byte    %9.0g                 Redundancy of workers with Vocational Elementary 2014
+q92bgb4_15      byte    %9.0g                 Redundancy of workers with Vocational Secondary 2014
+q92bgb5_15      byte    %9.0g                 Redundancy of workers with Professional Secondary 2014
+q92bgb6_15      byte    %9.0g                 Redundancy of workers with Vocational College 2014
+q92bgb7_15      byte    %9.0g                 Redundancy of workers with College 2014
+q92bgb8_15      byte    %9.0g                 Redundancy of workers with University and higher 2014
+q92bgc1_15      byte    %9.0g                 Redundancy of female workers 2014
+q92bgc2_15      byte    %9.0g                 Redundancy of male workers 2014
+q92bgd1_15      byte    %9.0g                 Redundancy of migrant workers 2014
+q92bgd2_15      byte    %9.0g                 Redundancy of local workers 2014
+q93c_15         byte    %61.0g     q93c_15    Reason for laying off workers in 2014
+q93b_15         byte    %9.0g      q93b_15    Informing employees/representative organizations of the labor force reduction in
+q93ba_15        byte    %30.0g     q93ba_15   How long is it since the time of information until the time of implementation
+q94a_15         byte    %9.0g      r4         Firm normally provides training for existing workers 2015
+q94aa_15        int     %9.0g                 Average number of days of training for existing workers
+q94b_15         int     %9.0g                 Number of workers trained last year
+q94ba1_15       int     %9.0g                 Number of workers with on-the-job training
+q94ba2_15       byte    %9.0g                 Number of workers with off-the-job training
+q94ba3_15       int     %9.0g                 Number of workers with informal training
+q94bb_15        byte    %58.0g     q94bb_15   Main reason for training existing workers
+q94bc_15        byte    %64.0g     q94bc_15   Who pays for the training
+q94bd_15        byte    %9.0g                 Number of existing workers trained in 2014 that left the firm between the traini
+q95a_15         byte    %9.0g      r4         Workers normally have required skills when hired
+q95b_15         byte    %9.0g      r4         Firm normally provides training for new workers 2015
+q95ba_15        int     %9.0g                 Average number of days of training for new workers
+q95c_15         byte    %9.0g                 Number of new workers trained last year
+q95ca1_15       byte    %9.0g                 Number of new workers with on-the-job training
+q95ca2_15       byte    %9.0g                 Number of new workers with off-the-job training
+q95ca3_15       int     %9.0g                 Number of new workers with informal training
+q95cb_15        byte    %58.0g     q95cb_15   Main reason for training new workers
+q95cc_15        byte    %64.0g     q95cc_15   Who pays for the training of new workers
+q95cd_15        byte    %9.0g                 Number of new workers trained in 2014 that left the firm between the training an
+q96a_15         byte    %9.0g      r4         Firm usually deducts training expenditures in tax forms
+q96b_15         byte    %9.0g      r4         Firm has received the deduction
+q96c_15         byte    %68.0g     q96c_15    Firm usually does not deduct training expenditures because
+q97a_15         byte    %9.0g      r4         Job rotation
+q98_15          byte    %49.0g     q98_15     How does the firm mainly hire workers? (most important way)
+q99_15          byte    %15.0g     q99_15     Difficulties with recruitment due to lack of worker skill
+q99a_15         byte    %36.0g     q99a_15    Reason for recruitment difficulties
+q100_15         byte    %47.0g     q100_15    Main wage determinant
+q101a_15        float   %9.0g                 Average monthly wage (1000 VND) for a production worker in 2014
+q101b_15        int     %9.0g                 Monthly wage (1000 VND) for a newly hired (in 2014) production worker
+q101c_15        byte    %12.0g     q101c_15   Change in average monthly wage/income
+q101d_15        byte    %9.0g      r4         Wage premium for hazardous work conditions
+q101e_15        float   %9.0g                 Wage premium size (percent above normal wage)
+q101g_15        byte    %14.0g     q101g_15   Are employees paid overtime for working outside standard hours
+q102a_15        byte    %12.0g     q102a_15   Enterprise has own regulation on severance pay
+q102ba_15       byte    %9.0g      r102a      Severance pay provided to laid off workers (due to incompetence)
+q102bb_15       byte    %9.0g      r102a      Severance pay provided to laid off workers (due to general cutback)
+q103a_15        byte    %9.0g      r4         Does the enterprise have a local level trade union 2015
+q103aa_15       int     %9.0g                 Year of establishment of local trade union
+q103ab_15       float   %9.0g                 Share of workforce that are members of the local trade union
+q103ac_15       byte    %28.0g     q103ac_15
+                                              Who is chairman of this local trade union
+q103ad_15       byte    %9.0g      r4         Is the trade union registered with the VGCL (Vietnam General Confederation of La
+q103ae_15       byte    %9.0g      r4         Does the enterprise have a Collective Labour Agreement
+q103ae1_15      int     %9.0g                 When was the most recent Collective Labour Agreement signed (year)
+q103ae2_15      byte    %9.0g      r4         Has this Collective Labour Agreement been reported to superior trade union
+q103b_15        byte    %9.0g      r102a      Has the enterprise had any labour dispute the past two years
+q104a_15        byte    %12.0g     q104a_15   Firm pays social insurance contribution
+q104b_15        byte    %9.0g      r104       Firm pays health insurance contribution
+q104c_15        byte    %9.0g      r104       Did you pay contribution to unemployment insurance for your employees
+q104d_15        byte    %9.0g      r104       Firm compensates workforce directly for accidents or professional illness
+q105a_15        byte    %12.0g     q105a_15   Firm pays sick leave
+q105b_15        byte    %9.0g      r95        Firm provides paid maternity leave
+q105c_15        byte    %9.0g      r95        Firm provides unpaid maternity leave
+q105d_15        byte    %9.0g      r95        Firm provides annual leave with pay
+q105e_15        byte    %9.0g      r95        Firm provides a retirement lump-sum
+q105f_15        byte    %9.0g      r95        Firm provides Survival Benefits
+q106_15         byte    %45.0g     q106_15    Measures to ensure that your employees work hard enough (most important)
+q107a_15        byte    %9.0g      r4         Certificate for environmental standards ESC
+q107b_15        byte    %51.0g     q107b_15   Reason to get an environmental standards certificate
+q107c2_15       byte    %26.0g     q107c2_15
+                                              For compliers, ESC requirements that were most difficult
+q107c3_15       byte    %9.0g      r107c      For compliers, ESC requirements that were most costly to meet
+q107d1_15       byte    %9.0g      r107c      For noncompliers, perception about ESC requirements that are most difficult
+q107d2_15       byte    %9.0g      r107c      For noncompliers, perception about ESC requirements that are most costly to meet
+q108aa1_15      byte    %9.0g      r4         Treating environmental factors: Air quality
+q108aa2_15      byte    %9.0g      r4         Treating environmental factors: Fire
+q108aa3_15      byte    %9.0g      r4         Treating environmental factors: Heat
+q108aa4_15      byte    %9.0g      r4         Treating environmental factors: Lighting
+q108aa5_15      byte    %9.0g      r4         Treating environmental factors: Noise
+q108aa6_15      byte    %9.0g      r4         Treating environmental factors: Waste disposal
+q108aa7_15      byte    %9.0g      r4         Treating environmental factors: Water pollution
+q108aa8_15      byte    %9.0g      r4         Treating environmental factors: Soil
+q108aa9_15      byte    %9.0g      r4         Treating environmental factors: Other
+q108ab1_15      byte    %9.0g      r4         Investments in equipment for: Air quality
+q108ab2_15      byte    %9.0g      r4         Investments in equipment for: Fire
+q108ab3_15      byte    %9.0g      r4         Investments in equipment for: Heat
+q108ab4_15      byte    %9.0g      r4         Investments in equipment for: Lighting
+q108ab5_15      byte    %9.0g      r4         Investments in equipment for: Noise
+q108ab6_15      byte    %9.0g      r4         Investments in equipment for: Waste disposal
+q108ab7_15      byte    %9.0g      r4         Investments in equipment for: Water pollution
+q108ab8_15      byte    %9.0g      r4         Investments in equipment for: Soil
+q108ab9_15      byte    %9.0g      r4         Investments in equipment for: Other
+q108ac1_15      float   %9.0g                 Cost of equipment for: Air quality (1,000 VND)
+q108ac2_15      float   %9.0g                 Cost of equipment for: Fire (1,000 VND)
+q108ac3_15      float   %9.0g                 Cost of equipment for: Heat (1,000 VND)
+q108ac4_15      float   %9.0g                 Cost of equipment for: Lighting (1,000 VND)
+q108ac5_15      float   %9.0g                 Cost of equipment for: Noise (1,000 VND)
+q108ac6_15      float   %9.0g                 Cost of equipment for: Waste disposal (1,000 VND)
+q108ac7_15      float   %9.0g                 Cost of equipment for: Water pollution (1,000 VND)
+q108ac8_15      float   %9.0g                 Cost of equipment for: Soil (1,000 VND)
+q108ac9_15      int     %9.0g                 Cost of equipment for: Other (1,000 VND)
+q108ad1_15      int     %9.0g                 Year of investments in equipment for: Air quality
+q108ad2_15      int     %9.0g                 Year of investments in equipment for: Fire
+q108ad3_15      int     %9.0g                 Year of investments in equipment for: Heat
+q108ad4_15      int     %9.0g                 Year of investments in equipment for: Lighting
+q108ad5_15      int     %9.0g                 Year of investments in equipment for: Noise
+q108ad6_15      int     %9.0g                 Year of investments in equipment for: Waste disposal
+q108ad7_15      int     %9.0g                 Year of investments in equipment for: Water pollution
+q108ad8_15      int     %9.0g                 Year of investments in equipment for: Soil
+q108ad9_15      int     %9.0g                 Year of investments in equipment for: Other
+q108b_15        byte    %9.0g      r107b      Main reason for treating environmental factors
+q109a1_15       int     %9.0g                 Network size: Business people within same sector
+q109a2_15       int     %9.0g                 Network size: Business people in other sectors
+q109a3_15       int     %9.0g                 Network size: Bank officials
+q109a4_15       byte    %9.0g                 Network size: Politicians and civil servants
+q109a5_15       int     %9.0g                 Network size: Others
+q109a6_15       int     %9.0g                 Network size: Total
+q109b1_15       byte    %9.0g                 Business people within same sector most important
+q109b2_15       byte    %9.0g                 Business people in other sectors most important
+q109b3_15       byte    %9.0g                 Bank officials most important
+q109b4_15       byte    %9.0g                 Politicians and civil servants most important
+q109c1_15       int     %9.0g                 Business people within same sector assisted (no. times)
+q109c2_15       int     %9.0g                 Business people in other sectors assisted (no. times)
+q109c3_15       int     %9.0g                 Bank officials assisted (no. times)
+q109c4_15       int     %9.0g                 Politicians and civil servants assisted (no. times)
+q109d1_15       byte    %22.0g     q109d4_15
+                                              Business people within same sector assisted (when)
+q109d2_15       byte    %22.0g     q109d4_15
+                                              Business people in other sectors assisted (when)
+q109d3_15       byte    %22.0g     q109d4_15
+                                              Bank officials assisted (when)
+q109d4_15       byte    %22.0g     q109d4_15
+                                              Politicians and civil servants assisted (when)
+q110a_15        int     %9.0g                 Number of contacts among suppliers
+q110b_15        int     %9.0g                 Number of contacts among customers
+q110c_15        byte    %9.0g                 Number of contacts among debtors
+q110d_15        byte    %9.0g                 Number of contacts among creditors
+q110e_15        int     %9.0g                 Number of contacts among women
+q111_15         byte    %9.0g      r4         Socialize with customers to secure major contracts
+q112_15         byte    %9.0g      r4         First customer found through a personal social contact
+q112a_15        byte    %21.0g     q112a_15   The nature of the connection for finding first customer
+q113_15         byte    %9.0g      r4         Most important customer found through a personal social networks
+q113a_15        byte    %21.0g     q113a_15   The nature of the connection for finding most important customer
+q114_15         float   %9.0g                 Percentage of customers respondent knows in person
+q115_15         byte    %9.0g                 The extent to which the firm has utilized personal connections with customers (s
+q116_15         float   %9.0g                 Percentage of contract value spent on entertaining
+q117a_15        byte    %14.0g     r117_15    Government involved in investment decisions
+q117b_15        byte    %14.0g     r117_15    Government involved in employment/layoff
+q117c_15        byte    %14.0g     r117_15    Government involved in sales
+q117d_15        byte    %14.0g     r117_15    Government involved in pricing
+q117e_15        byte    %14.0g     r117_15    Government involved in merger and acquisition
+q117f_15        byte    %14.0g     r117_15    Government involved in dividends
+q117g_15        byte    %14.0g     r117_15    Government involved in wages
+q117h_15        byte    %14.0g     r117_15    Government involved in other decisions
+q118_15         byte    %9.0g      r4         Member of a business association
+q118a_15        byte    %9.0g                 Member of how many business associations
+q118bb1_15      byte    %9.0g      r4         Do you pay membership fees 1st assoc?
+q118bb2_15      byte    %9.0g      r4         Do you pay membership fees 2nd assoc?
+q118bb3_15      byte    %9.0g      r4         Do you pay membership fees 3rd assoc?
+q118bc1_15      byte    %90.0g     q118bc3_15
+                                              most important purpose of the 1st business association
+q118bc2_15      byte    %90.0g     q118bc3_15
+                                              most important purpose of the 2nd business association
+q118bc3_15      byte    %90.0g     q118bc3_15
+                                              most important purpose of the 3rd business association
+q118bd1_15      byte    %9.0g      r4         Received advocacy support from the 1st association
+q118bd2_15      byte    %9.0g      r4         Received advocacy support from the 2nd association
+q118bd3_15      byte    %9.0g      r4         Received advocacy support from the 3rd association
+q118be1_15      byte    %9.0g      r118bc     Benefit 1st association
+q118be2_15      byte    %9.0g      r118bc     Benefit 2nd association
+q118be3_15      byte    %9.0g      r118bc     Benefit 3rd association
+q118bf1_15      byte    %18.0g     q118bf3_15
+                                              Advocacy support 1st association
+q118bf2_15      byte    %18.0g     q118bf3_15
+                                              Advocacy support 2nd association
+q118bf3_15      byte    %18.0g     q118bf3_15
+                                              Advocacy support 3rd association
+q118bg1_15      byte    %9.0g      r118bc     Which type of advocacy support would you prefer that business associations offer
+q118bg2_15      byte    %9.0g      r118bc     Which type of advocacy support would you prefer that business associations offer
+q118bg3_15      byte    %9.0g      r118bc     Which type of advocacy support would you prefer that business associations offer
+q119a_15        byte    %9.0g      r4         Competition
+q119aa_15       byte    %14.0g     r119aa_15
+                                              Level of competition from state enterprises
+q119ab_15       byte    %14.0g     r119aa_15
+                                              Level of competition from other non-state formal enterprises
+q119ac_15       byte    %14.0g     r119aa_15
+                                              Level of competition from other non-state informal enterprises
+q119ad_15       byte    %14.0g     r119aa_15
+                                              Level of competition from legal imports/foreign competition
+q119ae_15       byte    %14.0g     r119aa_15
+                                              Level of competition from smuggling
+q119af_15       byte    %14.0g     r119aa_15
+                                              Level of competition from other sources
+q119b_15        byte    %9.0g      q119b_15   Level of competition compared to 2 years ago
+q119c_15        int     %9.0g                 Current number of competitors
+q120_15         byte    %9.0g      r4         Accumulated goods which are difficult to sell
+q120a_15        byte    %42.0g     q120a_15   Accumulated goods which are difficult to sell because
+q121_15         byte    %9.0g      r4         Introduced new product groups since 2013
+q121a_15        byte    %9.0g                 Number of new product groups since 2013
+q121b_15        byte    %55.0g     q121b_15   Reasons for introducing new product groups since 2013
+q121c_15        byte    %17.0g     q121c_15   How successful was the change
+q122_15         byte    %9.0g      r4         Improvements of existing products since 2013
+q122a_15        byte    %9.0g                 Number of improvements since 2013
+q122b_15        byte    %9.0g      r122b      Reasons for improvements of existing products since 201
+q122c_15        byte    %9.0g      r122c      How successful was the change
+q123_15         byte    %9.0g      r4         Introduced new technology since 2013
+q123a_15        byte    %9.0g                 Number of new new technologies since 2013
+q123b_15        byte    %50.0g     q123b_15   Reasons for introducing new technology since 2013
+q123c_15        byte    %9.0g      r122c      How successful was the change
+q123d_15        byte    %16.0g     q123d_15   Where did the firm procure the new technology
+q123e_15        byte    %9.0g      r4         Technical adaption for new production processes/new technology
+q123ea_15       byte    %53.0g     q123ea_15
+                                              The main purpose of the adaptation
+q123eb_15       byte    %88.0g     q123eb_15
+                                              Who did the adaption?
+q124a_15        byte    %9.0g      r4         Planning to start up new projects/product lines in the near future
+q124b_15        byte    %54.0g     q124b_15   Major problems in starting up new projects (severe problem)
+q125_15         byte    %9.0g      r4         Having major constraints to growth
+q125a_15        byte    %54.0g     q125a_15   Most important constraints to growth
+q126a1_15       byte    %9.0g      r4         Received financial assistance from government in 2014
+q126b1_15       byte    %9.0g      r4         Received technical assistance from government in 2014
+q126c1_15       byte    %9.0g      r4         Received other government assistance in 2014
+q126_15         byte    %9.0g      r4         Received some sort of government assistance in 2014
+q126a2_15       byte    %10.0g     r126b_15   Administrative level of assistance for financial assistance
+q126b2_15       byte    %10.0g     r126b_15   Administrative level of assistance for technical assistance
+q126c2_15       byte    %10.0g     r126b_15   Administrative level of assistance for other government assistance
+q126a3_15       byte    %28.0g     r128d_15   How did you get in contact with the authorities for financial assistance
+q126b3_15       byte    %28.0g     r128d_15   How did you get in contact with the authorities for technical assistance
+q126c3_15       byte    %28.0g     r128d_15   How did you get in contact with the authorities for other government assistance
+q126a4_15       byte    %9.0g      r4         Bribe for financial assistance from government in 2014
+q126b4_15       byte    %9.0g      r4         Bribe for technical assistance from government in 2014
+q126c4_15       byte    %9.0g      r4         Bribe for other government assistance in 2014
+q126br_15       byte    %9.0g      r4         Bribe for any government assistance in 2014
+q126a5_15       byte    %11.0g     r126f_15   The impact of the support - financial assistance
+q126b5_15       byte    %11.0g     r126f_15   The impact of the support - technical assistance
+q126c5_15       byte    %11.0g     r126f_15   The impact of the support - other government assistance
+q126a6_15       byte    %25.0g     r126g_15   Reason for not receiving financial assistance
+q126b6_15       byte    %25.0g     r126g_15   Reason for not receiving technical assistance
+q126c6_15       byte    %25.0g     r126g_15   Reason for not receiving other government assistance
+q126da_15       byte    %31.0g     q126da_15
+                                              Did you receive a bank loan in 2009
+q126db_15       byte    %9.0g      r4         Loan obtained under the 2009 stimulus package
+q126dc_15       float   %9.0g                 The amount of the loan under the 2009 stimulus package
+q126dd_15       float   %9.0g                 Interest rate on the loan under the 2009 stimulus package
+q127_15         byte    %58.0g     q127_15    How could the authorities best help the enterprise expand and increase its profi
+q127s_15        byte    %58.0g     q127_15    How could the authorities best help the enterprise expand and increase its profi
+q127t_15        byte    %58.0g     q127_15    How could the authorities best help the enterprise expand and increase its profi
+q128b1_15       byte    %9.0g      r4         Business Registration Application
+q128b2_15       byte    %9.0g      r4         Social insurance registration certificate
+q128b3_15       byte    %9.0g      r4         Investment certificate
+q128b4_15       byte    %9.0g      r4         Environmental standards certificate
+q128b5_15       byte    %9.0g      r4         Fire prevention certificate
+q128b6_15       byte    %9.0g      r4         Technology transfer certificate
+q128b7_15       byte    %9.0g      r4         License to operate overseas accounts
+q128c1_15       byte    %9.0g                 Time to obtain Business Registration Application
+q128c2_15       byte    %9.0g                 Time to obtain Social insurance registration certificate
+q128c3_15       int     %9.0g                 Time to obtain Investment certificate
+q128c4_15       byte    %9.0g                 Time to obtain Environmental standards certificate
+q128c5_15       byte    %9.0g                 Time to obtain Fire prevention certificate
+q128c6_15       byte    %9.0g                 Time to obtain Technology transfer certificate
+q128c7_15       byte    %9.0g                 Time to obtain License to operate overseas accounts
+q129b01_15      byte    %31.0g     r129_15    Enterprise law
+q129b02_15      byte    %31.0g     r129_15    Cooperative law
+q129b03_15      byte    %31.0g     r129_15    Labour code
+q129b04_15      byte    %31.0g     r129_15    Customs law
+q129b05_15      byte    %31.0g     r129_15    Insurance law
+q129b06_15      byte    %31.0g     r129_15    Tax law
+q129b07_15      byte    %31.0g     r129_15    Environmental law
+q129b08_15      byte    %31.0g     r129_15    Land law
+q129b09_15      byte    %31.0g     r129_15    Investment law
+q129b10_15      byte    %31.0g     r129_15    Social Insurance Law
+q129b11_15      byte    %31.0g     r129_15    Gender equality law
+q130a_15        byte    %9.0g                 Number of policy compliance inspections
+q130b_15        byte    %9.0g                 Number of technical compliance inspections
+q130c_15        byte    %9.0g                 Number of other inspections
+q131a_15        byte    %9.0g                 Risk aversion 0 = risk averse; 10 = risk loving
+q131ba_15       byte    %9.0g                 Wllingness to take risks while driving
+q131bb_15       byte    %9.0g                 Wllingness to take risks in financial matters
+q131bc_15       byte    %9.0g                 Wllingness to take risks during recreational hobbies and sports
+q131bd_15       byte    %9.0g                 Wllingness to take risks in your occupation/running your enterprise
+q131be_15       byte    %9.0g                 Wllingness to take risks with your health
+q131bf_15       byte    %9.0g                 Wllingness to take risks with your faith in other people
+risk_profile    float   %9.0g                 Scores for factor 1
+q132a_15        byte    %9.0g                 I see myself as someone who is original, comes up with new ideas
+q132b_15        byte    %9.0g                 I see myself as someone who values artistic experiences
+q132c_15        byte    %9.0g                 I see myself as someone who has an active imagination
+q132d_15        byte    %9.0g                 I see myself as someone who does a thorough job
+q132e_15        byte    %9.0g                 I see myself as someone who does things effectively and efficiently
+q132f_15        byte    %9.0g                 I see myself as someone who tends to be lazy
+q132g_15        byte    %9.0g                 I see myself as someone who is communicative, talkative
+q132h_15        byte    %9.0g                 I see myself as someone who is outgoing, sociable
+q132i_15        byte    %9.0g                 I see myself as someone who is reserved
+q132j_15        byte    %9.0g                 I see myself as someone who has a forgiving nature
+q132k_15        byte    %9.0g                 I see myself as someone who is considerate and kind to others
+q132l_15        byte    %9.0g                 I see myself as someone who is sometimes somewhat rude to others
+q132m_15        byte    %9.0g                 I see myself as someone who worries a lot
+q132n_15        byte    %9.0g                 I see myself as someone who gets nervous easily
+q132o_15        byte    %9.0g                 I see myself as someone who is relaxed, handles stress well
+q133a_15        byte    %9.0g                 How my life goes depends on me
+q133b_15        byte    %9.0g                 One has to work hard in order to succeed
+q133c_15        byte    %9.0g                 If a person is socially/politically active, he/she can have an effect on societa
+q133d_15        byte    %9.0g                 If I run up against difficulties in life, I often doubt my own abilities
+q133e_15        byte    %9.0g                 Compared to other people, I have not achieved what I deserve
+q133f_15        byte    %9.0g                 What a person achieves in life is above all a question of fate or luck
+q133g_15        byte    %9.0g                 I frequently have the experience that other people have a controlling influence
+q133h_15        byte    %9.0g                 The opportunities that I have in life are determined by societal living conditio
+q133i_15        byte    %9.0g                 Inborn abilities are more important than any efforts one can make
+q133j_15        byte    %9.0g                 I have little control over the things that happen in my life
+q134a_15        byte    %9.0g                 I have innovative ideas
+q134b_15        byte    %9.0g                 If something can’t be done, I find a way
+q134c_15        byte    %9.0g                 I often find more than one solution to a problem

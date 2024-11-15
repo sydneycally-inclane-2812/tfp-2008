@@ -1,0 +1,642 @@
+
+Eq1a03          long    %10.0g     KT2        Revenue from sales in 2003
+Eq1b03          long    %10.0g     KT2        Value of production/manufactured in 2003
+Eq1c03          long    %10.0g     KT2        Value of additional income in 2003
+Eq1d03          long    %10.0g     KT2        Total inderect costs in 2003
+Eq1e03          long    %10.0g     KT2        Value of raw materials in 2003
+Eq1f03          long    %10.0g     KT2        Total value added in 2003
+Eq1g03          long    %10.0g     KT2        Total wage bill, incluiding allowance in 2003
+Eq1h03          long    %10.0g     KT2        Total gross profit in 2003
+Eq1i03          long    %10.0g     KT2        Value of your allowable depreciation in 2003
+Eq1j03          long    %10.0g     KT2        Total interest payments (only formal) in 2003
+Eq1k03          long    %10.0g     KT2        Total fees and taxes (only formal) in 2003
+Eq1l03          long    %10.0g     KT2        Inventories of finished goods beginning-year in 2003
+Eq1m03          long    %10.0g     KT2        Inventories of finished goods end-year in 2003
+Eq1n03          long    %10.0g     KT2        Inventories of raw materials and unfinished products beginning-year in 2003
+Eq1o03          long    %10.0g     KT2        Inventories of raw materials and unfinished products end-year in 2003
+Eq1p03          long    %10.0g     KT2        Total physical assets end-year (accounting value) in 2003
+Eq1q03          long    %10.0g     KT2        Land value end-year (accounting value) in 2003
+Eq1r03          long    %10.0g     KT2        Buildings end-year (accounting value) in 2003
+Eq1s03          long    %10.0g     KT2        Machinery/Equipment end-year (accounting value) in 2003
+Eq1t03          long    %10.0g     KT2        Total financial assets end-year (accounting value) in 2003
+Eq1u03          long    %10.0g     KT2        Total outstanding debt end-year in 2003
+Eq1v03          int     %10.0g     KT2        Total number of full-time workers in firm end-year in 2003
+Eq1a04          long    %10.0g     KT3        Revenue from sales in 2004
+Eq1b04          long    %10.0g     KT3        Value of production/manufactured in 2004
+Eq1c04          long    %10.0g     KT3        Value of additional income in 2004
+Eq1d04          long    %10.0g     KT3        Total inderect costs in 2004
+Eq1e04          long    %10.0g     KT3        Value of raw materials in 2004
+Eq1f04          long    %10.0g     KT3        Total value added in 2004
+Eq1g04          long    %10.0g     KT3        Total wage bill, incluiding allowance in 2004
+Eq1h04          long    %10.0g     KT3        Total gross profit in 2004
+Eq1i04          long    %10.0g     KT3        Value of your allowable depreciation in 2004
+Eq1j04          long    %10.0g     KT3        Total interest payments (only formal) in 2004
+Eq1k04          long    %10.0g     KT3        Total fees and taxes (only formal) in 2004
+Eq1l04          long    %10.0g     KT3        Inventories of finished goods beginning-year in 2004
+Eq1m04          long    %10.0g     KT3        Inventories of finished goods end-year in 2004
+Eq1n04          long    %10.0g     KT3        Inventories of raw materials and unfinished products beginning-year in 2004
+Eq1o04          long    %10.0g     KT3        Inventories of raw materials and unfinished products end-year in 2004
+Eq1p04          long    %10.0g     KT3        Total physical assets end-year (accounting value) in 2004
+Eq1q04          long    %10.0g     KT3        Land value end-year (accounting value) in 2004
+Eq1r04          long    %10.0g     KT3        Buildings end-year (accounting value) in 2004
+Eq1s04          long    %10.0g     KT3        Machinery/Equipment end-year (accounting value) in 2004
+Eq1t04          long    %10.0g     KT3        Total financial assets end-year (accounting value) in 2004
+Eq1u04          long    %10.0g     KT3        Total outstanding debt end-year in 2004
+Eq1v04          int     %10.0g     KT3        Total number of full-time workers in firm end-year in 2004
+q1_05           int     %9.0g                 Firm id
+q2b_05          byte    %9.0g      q2b_05     Position of respondent
+q2c_05          byte    %9.0g      q2c_05     Gender of the respondent
+q2d_05          byte    %9.0g                 Age of respondent
+q3bd_05         int     %9.0g                 District
+q3be_05         byte    %9.0g      q3be_05    Province
+q4a_05          byte    %9.0g                 Location of City/province main facility
+q4b_05          int     %9.0g                 District of main facility
+q5_05           byte    %24.0g     q5_05      Type of zone where is the main facility
+q6aa_05         byte    %9.0g                 Month when the firm was stablished
+q6ab_05         int     %9.0g                 Year when the firm was stablished
+q6ba_05         byte    %9.0g                 Month when the firm come under the current owner
+q6bb_05         int     %9.0g                 Year when the firm come under the current owner
+q7a_05          byte    %9.0g      q7a_05     Hast the firm a tax code
+q7c_05          byte    %9.0g      q7c_05     Is the firm registered under the enterprise law
+q8_05           byte    %35.0g     q8_05      Type of enterprise
+q9a_05          byte    %9.0g      q9a_05     Has the firm changed owner since 2002
+q9b_05          byte    %62.0g     q9b_05     How did the firm changed owner
+q10a_05         byte    %9.0g      q10a_05    Since 2002, has the firm been closed down for a year or more
+q10b_05         byte    %43.0g     q10b_05    Why it was closed
+q10c_05         byte    %9.0g      q10c_05    Was formally declared in bankrupt
+q10d_05         byte    %9.0g      q10d_05    Changed ownership form/legal status
+q11a_05         byte    %9.0g      q11a_05    Has the location of the main facility changed since 2002
+q11b_05         byte    %65.0g     q11b_05    Why the location changed
+q12_05          byte    %41.0g     q12_05     Form of ownership/legal status
+q13_05          byte    %74.0g     r13        Sector
+q13_4ds_05      int     %9.0g                 Sector 4-digit VSIC
+q14_05          byte    %9.0g      q14_05     Does the firm have access to services
+q14a_05         byte    %9.0g      q14a_05    Have access to tapped water
+q14b_05         byte    %9.0g      q14b_05    Have access to electricity
+q14ba_05        byte    %9.0g      q14ba_05   Electricity is connected to public grid
+q14bb_05        byte    %9.0g      q14bb_05   Electricity is provided by own generator
+q14c_05         byte    %9.0g      q14c_05    Have a telephone
+q14d_05         byte    %9.0g      q14d_05    Have web site
+q14e_05         byte    %9.0g      q14e_05    Have a car/truck
+q14f_05         byte    %9.0g      q14f_05    Have access to motor-road/tarred road
+q14g_05         byte    %9.0g      q14g_05    Have access to rail
+q15_05          byte    %45.0g     q15_05     What are the premises housing the main production facility of the firm mainly us
+q16a_05         byte    %79.0g     q16a_05    The main production facility of the firm is owned or rented
+q16b_05         int     %9.0g                 Number of days to obtain CLUR
+q16c_05         float   %9.0g                 Cost of obtaining CLUR
+q16d_05         float   %9.0g                 If land rented what was the total rental cost in 2014
+q17a_05         byte    %9.0g                 How many different goods/services does the firm produce
+q17ba2_05       int     %9.0g                 Most important good/service
+q18_05          byte    %51.0g     q18_05     Did the firm worked with similar products/services prior to establishing the pre
+q19a_05         byte    %49.0g     q19a_05    Most important reason for the owner to start this particular firm
+q19b_05         byte    %49.0g     q19b_05    Second most important reason for the owner to start this particular firm
+q19c_05         byte    %49.0g     q19c_05    Third most important reason for the owner to start this particular firm
+q20a_05         byte    %24.0g     q20a_05    Difficulties when the firm was established: Lack of capital
+q20b_05         byte    %24.0g     q20b_05    Difficulties when the firm was established: Lack of raw material
+q20c_05         byte    %24.0g     q20c_05    Difficulties when the firm was established: Lack of marketing outlet
+q20d_05         byte    %24.0g     q20d_05    Difficulties when the firm was established: Lack of marketing skills
+q20e_05         byte    %24.0g     q20e_05    Difficulties when the firm was established: Lack of technical know-how
+q20f_05         byte    %24.0g     q20f_05    Difficulties when the firm was established: Lack of suitable machinery/equipment
+q20g_05         byte    %24.0g     q20g_05    Difficulties when the firm was established: Difficulty in finding suitable premi
+q20h_05         byte    %24.0g     q20h_05    Difficulties when the firm was established: Complicated regulations/difficulty i
+q20i_05         byte    %24.0g     q20i_05    Difficulties when the firm was established: Lack of skilled labour
+q20j_05         byte    %24.0g     q20j_05    Difficulties when the firm was established: Negative attitude of local officials
+q20k_05         byte    %24.0g     q20k_05    Difficulties when the firm was established: Other
+q21a_05         byte    %9.0g      q21a_05    Assistance in coping with these start-up problems/difficulties
+q22a_05         byte    %9.0g                 Total number of HH members
+q22b_05         byte    %9.0g                 Number of male HH members
+q22c_05         byte    %9.0g                 Number of female HH members
+q22d_05         byte    %9.0g                 Number of HH members below 15 years old
+q22e_05         byte    %9.0g                 Number of HH members between 15-60 years old
+q22f_05         byte    %9.0g                 Number of HH members over 60 years old
+q23a_05         byte    %9.0g                 Number of full time jobs
+q23b_05         byte    %9.0g                 Numbe of part time jobs
+q24a_05         byte    %9.0g                 Number of income generating jobs
+q24b_05         byte    %9.0g      q24b_05    Is the firm the main income source of the HH
+q25_05          byte    %44.0g     q25_05     Changes in the real income since 2002
+q26a_05         byte    %9.0g      q26a_05    Sex of the owner/manager
+q26b_05         byte    %9.0g                 Age of the respondent
+q26c_05         byte    %9.0g      q26c_05    Ethnicity of the respondent
+q26d_05         byte    %24.0g     q26d_05    Highest general educational level completed
+q26e_05         byte    %29.0g     q26e_05    Highest professional education completed
+q26f_05         byte    %37.0g     q26f_05    Previous main work status
+q26g_05         byte    %61.0g     q26g_05    Main previous occupation
+q26ha_05        byte    %9.0g      q26ha_05   Other experience/positions: Village, commune, districtm province or the local ca
+q26hb_05        byte    %9.0g      q26hb_05   Other experience/positions: War veteran
+q26hc_05        byte    %9.0g      q26hc_05   Other experience/positions: Other position of responsability
+q26i_05         byte    %9.0g      q26i_05    Are you member of the communist party
+q26j1_05        byte    %30.0g     q26j1_05   Type of dwelling where the HH lives
+q26j2_05        int     %9.0g      q26j2_05   Space of the dwelling in square meters
+q26j3_05        byte    %9.0g      q26j3_05   How long the HH been living in the dwelling (in years)
+q26j4_05        int     %9.0g      q26j4_05   Approximately which year was the dwelling built
+q27a_05         byte    %9.0g      q27a_05    Own any other firm before
+q27b_05         byte    %9.0g      q27b_05    Was in in the same line of business
+q27c_05         byte    %9.0g      q27c_05    Does the owner currently have more than one enterprise
+q27d_05         byte    %9.0g                 How many other enterprises
+q28a_05         byte    %9.0g      q28a_05    Does the firm have a peak season
+q28c_05         int     %9.0g      q28c_05    Number of extra workers hire during peak season
+q29a_05         float   %9.0g                 Days per week that the firm operate (on average)
+q29b_05         float   %9.0g      q29b_05    Days per week that the firm operate (during peak season)
+q30a_05         float   %9.0g                 Hours per day that the firm operate (on average)
+q30b_05         byte    %9.0g      q30b_05    Hours per day that the firm operate (during peak season)
+q31a_05         byte    %9.0g      q31a_05    How many shifts per day does the firm operate (on average)
+q31b_05         byte    %9.0g      q31b_05    How many shifts per day does the firm operate (during peak season)
+q32_05          byte    %40.0g     q32_05     Does the firm use
+q33a_05         float   %9.0g                 Percentage of the machinery is under 3 years old
+q33b_05         float   %9.0g                 Percentage of the machinery is between 3-5 years old
+q33c_05         float   %9.0g                 Percentage of the machinery is between 6-10 years old
+q33d_05         float   %9.0g                 Percentage of the machinery is between 11-20 years old
+q33e_05         byte    %9.0g                 Percentage of the machinery is more than 20 years old
+q34a_05         float   %9.0g                 Percentage of machinery did you get new
+q34b_05         float   %9.0g                 Percentage of machinery did you get used/second hand
+q34c_05         byte    %9.0g                 Percentage of machinery did you self-constructed
+q34ba_05        byte    %9.0g                 Percentage of machinery purchase/lease locally
+q34bb_05        byte    %9.0g                 Percentage of machinery purchase/lease other district, but same province
+q34bc_05        byte    %9.0g                 Percentage of machinery purchase/lease other province
+q34bd_05        byte    %9.0g                 Percentage of machinery purchase/lease through imports
+q35_05          byte    %59.0g     q35_05     Does the firm own or rent machinery in use
+q36_05          byte    %31.0g     q36_05     Main source of supply machinery and equipment
+q37_05          byte    %41.0g     q37_05     How much did you increase the production by using the existing machinery
+q38a_05         byte    %9.0g      q38a_05    did the firm outsource in 2004
+q38b_05         int     %9.0g      q38b_05    How many subcontracts in 2004
+q38c_05         float   %9.0g                 Total cost of outsourcing in 2004
+q38d_05         byte    %41.0g     q38d_05    Main reason for outsourcing
+q38e_05         byte    %9.0g      q38e_05    Did the firm itself produce as subcontractor in 2004
+q38f_05         int     %9.0g      q38f_05    How many subcontracts in 2004
+q38g_05         float   %9.0g      q38g_05    Total revenue of the subcontracts in 2004
+q39a_05         byte    %9.0g                 Percentage of total sales used for: final consumption
+q39b_05         byte    %9.0g                 Percentage of total sales used for: intermediate inputs/capital equipment in agr
+q39c_05         byte    %9.0g                 Percentage of total sales used for: intermediate inputs/capital equipment in man
+q39d_05         byte    %9.0g                 Percentage of total sales used for: intermediate inputs/capital equipment in ser
+q39e_05         byte    %9.0g                 Percentage of total sales used for: do not know
+q40a_05         byte    %9.0g      q40a_05    Most important way to set up prices: A fixed mark-up over production costs
+q40b_05         byte    %9.0g      q40b_05    Most important way to set up prices: Charge a similar prices as my competitors
+q40c_05         byte    %9.0g      q40c_05    Most important way to set up prices: Charge somewhat lower prices than my compet
+q40d_05         byte    %9.0g      q40d_05    Most important way to set up prices: Individual negotiation with each customer
+q40e_05         byte    %9.0g      q40e_05    Most important way to set up prices: Prices are given by government regulations
+q40f_05         byte    %9.0g      q40f_05    Most important way to set up prices: Other
+q41_05          byte    %28.0g     q41_05     Does the firm produce on advance order
+q42a_05         byte    %9.0g      q42a_05    Advertise products
+q42b_05         float   %9.0g      q42b_05    How much invested on advertisement in 2004
+q43_05          byte    %24.0g     q43_05     Number of customers who usually buy the main product
+q44a_05         byte    %9.0g                 Location of customer of the most importatn product: Same commune
+q44b_05         byte    %9.0g                 Location of customer of the most importatn product: Other commune within distric
+q44c_05         byte    %9.0g                 Location of customer of the most importatn product: Other district within provin
+q44d_05         float   %9.0g                 Location of customer of the most importatn product: Neighbouring province
+q44e_05         float   %9.0g                 Location of customer of the most importatn product: Other province (non-neighbou
+q44f_05         float   %9.0g                 Location of customer of the most importatn product: Export
+q45a_05         float   %9.0g                 Sales structure in 2004 of the most important product: Individual people
+q45b_05         float   %9.0g                 Sales structure in 2004 of the most important product: Domestic, non-state enter
+q45c_05         byte    %9.0g                 Sales structure in 2004 of the most important product: State enterprise
+q45d_05         float   %9.0g                 Sales structure in 2004 of the most important product: Non-commercial government
+q45e_05         byte    %9.0g                 Sales structure in 2004 of the most important product: Tourist
+q45f_05         float   %9.0g                 Sales structure in 2004 of the most important product: Export
+q45g_05         byte    %9.0g                 Sales structure in 2004 of the most important product: Foreign invested companie
+q45h_05         byte    %9.0g                 Sales structure in 2004 of the most important product: Other
+q47a_05         byte    %9.0g      q47a_05    Does the firm produce to the export market
+q47b_05         byte    %43.0g     q47b_05    Does the firm export
+q48_05          int     %9.0g                 Which year did your firm start producing for direct export
+q49_05          byte    %9.0g      q49_05     Number of foreign customers in 2004
+q50a_05         float   %9.0g                 Percentage of total sales did the firm export
+q50b_05         float   %9.0g                 Percentage of total sales did the firm export to China
+q50c_05         byte    %9.0g                 Percentage of total sales did the firm export to Japan
+q50d_05         float   %9.0g                 Percentage of total sales did the firm export to ASEAN countries
+q50e_05         float   %9.0g                 Percentage of total sales did the firm export to Other Asian countries
+q50f_05         float   %9.0g                 Percentage of total sales did the firm export to US
+q50g_05         float   %9.0g                 Percentage of total sales did the firm export to EU
+q50h_05         byte    %9.0g                 Percentage of total sales did the firm export to Russia
+q50i_05         byte    %9.0g                 Percentage of total sales did the firm export to Other countries
+q51a_05         byte    %9.0g      q51a_05    Receive orders for direct export production
+q51b_05         byte    %9.0g      q51b_05    Receive product specifications, designs or materials for the production
+q52_05          byte    %9.0g      q52_05     The firm has long term relations whith the direct export customer
+q53a_05         byte    %9.0g      q53a_05    Use legal advisors when entering direct export contracts
+q53b_05         byte    %20.0g     q53b_05    Who give the advise
+q54a_05         byte    %9.0g      q54a_05    Foreign customers requested certification of the procedures and/or products
+q54b_05         byte    %29.0g     q54b_05    Who provided the certification
+q55_05          byte    %14.0g     q55_05     Assess the performance of the cooperation with foreign partners
+q56_05          byte    %9.0g      q56_05     Foreign partners provide technology or expertise
+q57a_05         float   %9.0g                 Cost to the firm in 2004 for: electricity
+q57b_05         float   %9.0g                 Cost to the firm in 2004 for: liquid fuel, solid fuel, gas and water
+q57c_05         float   %9.0g                 Cost to the firm in 2004 for: rental costs (including storage)
+q57d_05         float   %9.0g                 Cost to the firm in 2004 for: stationary and office supplies
+q57e_05         float   %9.0g                 Cost to the firm in 2004 for: telephone/internet
+q57f_05         float   %9.0g                 Cost to the firm in 2004 for: transportation services
+q57g_05         float   %9.0g                 Cost to the firm in 2004 for: insurance
+q57h_05         float   %9.0g                 Cost to the firm in 2004 for: marketing and advertisement
+q57i_05         float   %9.0g                 Cost to the firm in 2004 for: maintance & repairs of plant, equipment and buildi
+q57j_05         float   %9.0g                 Cost to the firm in 2004 for: total inderect costs in 2004
+q58a_05         byte    %9.0g                 Percentage of inputs provide: households
+q58b_05         byte    %9.0g                 Percentage of inputs provide: other non-state enterprises
+q58c_05         byte    %9.0g                 Percentage of inputs provide: state enterprises
+q58d_05         byte    %9.0g                 Percentage of inputs provide: other state agencies
+q58e_05         byte    %9.0g                 Percentage of inputs provide: imported
+q58f_05         byte    %9.0g                 Percentage of inputs provide: other
+q59a_05         float   %9.0g                 In percentage from where did the firm procuer inputs in 2004: same commune
+q59b_05         byte    %9.0g                 In percentage from where did the firm procuer inputs in 2004: other commune wit
+q59c_05         byte    %9.0g                 In percentage from where did the firm procuer inputs in 2004: other district wh
+q59d_05         float   %9.0g                 In percentage from where did the firm procuer inputs in 2004: neighbouring prov
+q59e_05         byte    %9.0g                 In percentage from where did the firm procuer inputs in 2004: other province
+q59f_05         byte    %9.0g                 In percentage from where did the firm procuer inputs in 2004: import
+q60a_05         byte    %9.0g      q60a_05    Did your firm use agricultural inputs in 2004
+q60b_05         float   %9.0g                 Share of agricultural inputs of the total value of inputs
+q60ca_05        byte    %9.0g                 From where obtain agricultural inputs in 2004: same commune
+q60cb_05        byte    %9.0g                 From where obtain agricultural inputs in 2004: other commune within distric
+q60cc_05        byte    %9.0g                 From where obtain agricultural inputs in 2004: other district within province
+q60cd_05        byte    %9.0g                 From where obtain agricultural inputs in 2004: neighbouring province
+q60ce_05        byte    %9.0g                 From where obtain agricultural inputs in 2004: other province
+q60cf_05        byte    %9.0g                 From where obtain agricultural inputs in 2004: import
+q61a_05         byte    %9.0g                 How does the firm identify the most important supplier: personal contacts
+q61b_05         byte    %9.0g                 How does the firm identify the most important supplier: marketing efforts by sup
+q61c_05         byte    %9.0g                 How does the firm identify the most important supplier: through government agenc
+q61d_05         byte    %9.0g                 How does the firm identify the most important supplier: own search process
+q61e_05         byte    %9.0g                 How does the firm identify the most important supplier: other
+q62a_05         byte    %9.0g                 Most important criteria to select suppliers: competitive price
+q62b_05         byte    %9.0g                 Most important criteria to select suppliers: terms of credit
+q62c_05         byte    %9.0g                 Most important criteria to select suppliers: currency of payment
+q62d_05         byte    %9.0g                 Most important criteria to select suppliers: quality standards
+q62e_05         byte    %9.0g                 Most important criteria to select suppliers: secure supply
+q62f_05         byte    %9.0g                 Most important criteria to select suppliers: know supplier personally
+q62g_05         byte    %9.0g                 Most important criteria to select suppliers: geographic proximity
+q62h_05         byte    %9.0g                 Most important criteria to select suppliers: allocated supply by gov. agency
+q62i_05         byte    %9.0g                 Most important criteria to select suppliers: no choice
+q62j_05         byte    %9.0g                 Most important criteria to select suppliers: other
+q63_05          byte    %9.0g      q63_05     Are raw materials available in sufficient quantity when needed
+q64a_05         byte    %9.0g      q64a_05    Difficulties obtaining inputs: inadequate or erratic domestic supply
+q64b_05         byte    %9.0g      q64b_05    Difficulties obtaining inputs: absence of local suppliers
+q64c_05         byte    %9.0g      q64c_05    Difficulties obtaining inputs: seasonal nature of supply
+q64d_05         byte    %9.0g      q64d_05    Difficulties obtaining inputs: poor transportation
+q64e_05         byte    %9.0g      q64e_05    Difficulties obtaining inputs: bureucratic difficulties
+q64f_05         byte    %9.0g      q64f_05    Difficulties obtaining inputs: other
+q64g_05         byte    %54.0g     q64g_05    If yes to at least one, how do you overcome these problem
+q65_05          byte    %9.0g      q65_05     Raw material are avilable in the desired quality
+q66a_05         byte    %9.0g                 The most important way to pay for raw materials: in cash, on receipt of goods
+q66b_05         byte    %9.0g                 The most important way to pay for raw materials: in foreign currency or gold, on
+q66c_05         byte    %9.0g                 The most important way to pay for raw materials: in kind, on receipt of goods
+q66d_05         byte    %9.0g                 The most important way to pay for raw materials: delayed payment with interest
+q66e_05         byte    %9.0g                 The most important way to pay for raw materials: arrear payment in the form of f
+q66f_05         byte    %9.0g                 The most important way to pay for raw materials: in advanced
+q66g_05         byte    %9.0g                 The most important way to pay for raw materials: delayed payment without interes
+q66h_05         byte    %9.0g                 The most important way to pay for raw materials: other
+q67a_05         byte    %9.0g      q67a_05    Difficulties in securing supply of energy and fuel
+q67b_05         byte    %12.0g     q67b_05    How is the impact of these difficulties
+q68a_05         byte    %9.0g      q68a_05    Purchase business services outside the firm
+q69a_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: p
+q69b_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: n
+q69c_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: s
+q69d_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: c
+q69e_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: l
+q69f_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: f
+q69g_05         byte    %9.0g                 Most important source from obtaining services purchased from outside the firm: o
+q70a_05         byte    %9.0g      q70a_05    Services required readily available
+q70b_05         byte    %12.0g     q70b_05    Effect of delays in services on firm operations
+q71a_05         byte    %11.0g     q71a_05    Formal accouting book
+q71b_05         byte    %9.0g      q71b_05    The accounts are audited
+q71c_05         byte    %9.0g      q71c_05    Submit financial report to authorities
+q72a_05         float   %9.0g                 Revenue tax paid in 2004
+q72b_05         float   %9.0g                 VAT paid in 2004
+q72c_05         float   %9.0g                 Licence fees paid in 2004
+q72d_05         float   %9.0g                 Registration fees paid in 2004
+q72e_05         float   %9.0g                 Special income tax paid in 2004
+q72f_05         float   %9.0g                 Import and export taxes paid in 2004
+q72g_05         float   %9.0g                 Property/enterprise tax paid in 2004
+q72h_05         float   %9.0g                 Other taxes paid in 2004
+q72i_05         float   %9.0g                 Total taxes and fees paid in 2004
+q73a_05         float   %9.0g                 Percentage of taxes paid to: commune/ward authority
+q73b_05         float   %9.0g                 Percentage of taxes paid to: district authority
+q73c_05         byte    %9.0g                 Percentage of taxes paid to: city/provincial authority
+q73d_05         byte    %9.0g                 Percentage of taxes paid to: central government authority
+q73e_05         byte    %9.0g                 Percentage of taxes paid to: other
+q74_05          int     %9.0g                 Percentage of management's working time is spent each month dealing with governm
+q75a_05         byte    %12.0g     q75a_05    Pay bribes/communication fees
+q75b_05         float   %9.0g                 How much did you paid in bribes in 2004
+q75c_05         byte    %44.0g     q75c_05    What is the bribe mainly used for
+q76_05          byte    %9.0g      q76_05     Know in advanced how much the bribes will be in the next year
+q77a_05         float   %9.0g                 Amount of cost in 2004 related to: theft
+q77b_05         float   %9.0g                 Amount of cost in 2004 related to: natural disasters
+q77c_05         float   %9.0g                 Amount of cost in 2004 related to: other losses
+q78a_05         int     %9.0g      q78a_05    Number of full time employmees at the time of establishment
+q78b_05         int     %9.0g      q78b_05    Number of full time employees at the time the current owner took over
+q79a_05         int     %9.0g                 Total labour force in 2004
+q79b_05         int     %9.0g                 Total female labour force in 2004
+q79c_05         byte    %9.0g                 Unpaid labour force in 2004
+q79d_05         byte    %9.0g                 Female unpaid labour force in 2004
+q79e_05         int     %9.0g                 Regular labour force (full time and part time) in 2004
+q79f_05         int     %9.0g                 Female regual labour force (full time and part time) in 2004
+q79g_05         int     %9.0g                 Regular full time labour force in 2004
+q79h_05         int     %9.0g                 Female regular full-time labour force in 2004
+q79i_05         int     %9.0g                 Total casual labour force in 2004
+q79j_05         int     %9.0g                 Female casual labour force in 2004
+q80ma_05        byte    %9.0g                 Men managers
+q80mb_05        int     %9.0g                 Men professionals
+q80mba_05       byte    %9.0g                 Men engineer and similar
+q80mbb_05       byte    %9.0g                 Men accountant/economist
+q80mbc_05       byte    %9.0g                 Men technicians
+q80mbd_05       byte    %9.0g                 Men other professional
+q80mc_05        byte    %9.0g                 Men office workers
+q80md_05        int     %9.0g                 Men sales personnel
+q80me_05        byte    %9.0g                 Men service workers
+q80mf_05        int     %9.0g                 Men production workers
+q80mfa_05       byte    %9.0g                 Men foreman and supervisor
+q80mfb_05       byte    %9.0g                 Men electrician, plumber,etc
+q80mfc_05       byte    %9.0g                 Men mach, maintenance/repair
+q80mfd_05       int     %9.0g                 Men mach, operator/assembler
+q80mfe_05       int     %9.0g                 Men labourer, helper
+q80mff_05       int     %9.0g                 Men master
+q80mfg_05       byte    %9.0g                 Men apprentice
+q80mg_05        int     %9.0g                 Men total
+q80wa_05        byte    %9.0g                 Women managers
+q80wb_05        int     %9.0g                 Women professionals
+q80wba_05       byte    %9.0g                 Women engineer and similar
+q80wbb_05       byte    %9.0g                 Women accountant/economist
+q80wbc_05       byte    %9.0g                 Women technicians
+q80wbd_05       byte    %9.0g                 Women other professional
+q80wc_05        byte    %9.0g                 Women office workers
+q80wd_05        byte    %9.0g                 Women sales personnel
+q80we_05        byte    %9.0g                 Women service workers
+q80wf_05        int     %9.0g                 Women production workers
+q80wfa_05       byte    %9.0g                 Women foreman and supervisor
+q80wfb_05       byte    %9.0g                 Women electrician, plumber,etc
+q80wfc_05       byte    %9.0g                 Women mach, maintenance/repair
+q80wfd_05       int     %9.0g                 Women mach, operator/assembler
+q80wfe_05       int     %9.0g                 Women labourer, helper
+q80wff_05       int     %9.0g                 Women master
+q80wfg_05       byte    %9.0g                 Women apprentice
+q80wg_05        int     %9.0g                 Women total
+q81a_05         byte    %9.0g      q81a_05    The firm usually train new workers
+q81b_05         int     %19.0g     q81b_05    Average number of these training days
+q82a_05         byte    %9.0g      q82a_05    The firm usually train existing workers
+q82b_05         int     %9.0g      q82b_05    Average of days of this training
+q83_05          byte    %9.0g      q83_05     Automatic job rotation system among production workers
+q84a_05         byte    %9.0g      q84a_05    The firm have a local/plant trade union
+q84b_05         int     %9.0g                 Percentage of workers members of the union
+q84c_05         byte    %25.0g     q84c_05    Who is the chairman of the union
+q85a_05         byte    %9.0g      q85a_05    Paid contribution to social insurance for employees in 2004
+q85b_05         byte    %9.0g      q85b_05    Paid contribution to health insurance for employees in 2004
+q85c_05         byte    %9.0g      q85c_05    Compensate the workforce directly for accidents or illness
+q86a_05         byte    %9.0g      q86a_05    Sick leave with pay benefit
+q86b_05         byte    %9.0g      q86b_05    Right to paid maternity leave benefit
+q86c_05         byte    %9.0g      q86c_05    Right to unpaid maternity leave benefit
+q86d_05         byte    %9.0g      q86d_05    Annual leave with pay benefit
+q86e_05         byte    %9.0g      q86e_05    Other benefit
+q87a_05         byte    %9.0g      q87a_05    Is HIV having a notable effect on the firm's performance
+q87b_05         int     %9.0g                 Percentage of total wage bill
+q88a_05         byte    %9.0g      q88a_05    Firm have an HIV policy
+q88ba_05        byte    %9.0g      q88ba_05   Rules about non-discrimination against new job candidates
+q88bb_05        byte    %9.0g      q88bb_05   Non-discrimination against HIV inflicted employees
+q88bc_05        byte    %9.0g      q88bc_05   Confidentiality for HIV inflicted employees
+q89a_05         byte    %9.0g      q89a_05    Firm participate in activities to HIV prevention among its workers
+q89ba_05        byte    %9.0g      q89ba_05   HIV prvention messages
+q89bb_05        byte    %9.0g      q89bb_05   Free condom distribution
+q89bc_05        byte    %9.0g      q89bc_05   Counselling for HIV
+q89bd_05        byte    %9.0g      q89bd_05   Anonymous HIV testing
+q89be_05        byte    %9.0g      q89be_05   Financial support for dependents on HIV infected workers
+q89bf_05        byte    %9.0g      q89bf_05   Other
+q90a_05         int     %9.0g                 Additional workers hired in 2004
+q90b_05         int     %9.0g                 How many regular workers left the firm in 2004
+q90ca_05        int     %9.0g                 Left voluntarily in 2004
+q90cb_05        byte    %9.0g                 Were fired in 2004
+q90cc_05        byte    %9.0g                 Retired in 2004
+q90cd_05        byte    %9.0g                 Left because of illnes in 2004
+q90cd1_05       byte    %9.0g                 How many left due to HIV
+q90ce_05        byte    %9.0g                 Died in 2004
+q90ce1_05       byte    %9.0g                 Died because of HIV
+q90cf_05        byte    %9.0g                 Left for other reason
+q91a_05         byte    %9.0g      q91a_05    Incompetence of worker
+q91b_05         byte    %9.0g      q91b_05    General cutback in firm
+q92a_05         byte    %9.0g                 Most important way to hire workers: newspaper
+q92b_05         byte    %9.0g                 Most important way to hire workers: through labour exchange
+q92c_05         byte    %9.0g                 Most important way to hire workers: recommended by friends, relatives, other wor
+q92d_05         byte    %9.0g                 Most important way to hire workers: recommended/allocated by local authorities
+q92e_05         byte    %9.0g                 Most important way to hire workers: personal contacts
+q92f_05         byte    %9.0g                 Most important way to hire workers: through employment services
+q92g_05         byte    %9.0g                 Most important way to hire workers: other
+q93_05          byte    %9.0g      q93_05     Did you resort to wage reduction or postponements in 2004
+q94a_05         byte    %9.0g                 Most important reason to determining wages: wage rates in other local non SOE
+q94b_05         byte    %9.0g                 Most important reason to determining wages: wage rates in local SOE
+q94c_05         byte    %9.0g                 Most important reason to determining wages: set by authorities
+q94d_05         byte    %9.0g                 Most important reason to determining wages: wage rates for employment in agricul
+q94e_05         byte    %9.0g                 Most important reason to determining wages: individual negotiation with each wor
+q94f_05         byte    %9.0g                 Most important reason to determining wages: paying capacity of the firm
+q94g_05         byte    %9.0g                 Most important reason to determining wages: other
+q95_05          byte    %9.0g      q95_05     Experience difficulties in recruiting workers with appropiate skill level in 200
+q96a_05         byte    %9.0g                 Number of expatriates employed
+q96b_05         byte    %9.0g                 Expatriates employed in: management
+q96c_05         byte    %9.0g                 Expatriates employed in: technical fields
+q96d_05         byte    %9.0g                 Expatriates employed in: administration
+q96e_05         byte    %9.0g                 Expatriates employed in: production worker
+q96f_05         byte    %9.0g                 Expatriates employed in: other
+q97a_05         float   %9.0g                 Total investment
+q97ba_05        float   %9.0g                 Source of funding: own resources
+q97bb_05        float   %9.0g                 Source of funding: loans from friends and relatives
+q97bc_05        float   %9.0g                 Source of funding: loan from commercial bank
+q97bd_05        byte    %9.0g                 Source of funding: loan from social policy bank
+q97be_05        float   %9.0g                 Source of funding: loan from DAF
+q97bf_05        byte    %9.0g                 Source of funding: loan from credit cooperative
+q97bg_05        byte    %9.0g                 Source of funding: loan from mass organization
+q97bh_05        float   %9.0g                 Source of funding: contributions by employees
+q97bi_05        byte    %9.0g                 Source of funding: loan against interest from private person
+q97bj_05        byte    %9.0g                 Source of funding: advance payment for sales
+q97bk_05        byte    %9.0g                 Source of funding: credit from suppliers
+q97bl_05        byte    %9.0g                 Source of funding: other
+q98a_05         byte    %9.0g      q98a_05    The firm made investments since 2002
+q98ba_05        float   %9.0g                 Invested amount
+q99a_05         float   %9.0g                 Percentage of total investments financed: own capital
+q99b_05         float   %9.0g                 Percentage of total investments financed: borrowed from bank/credit institution
+q99c_05         float   %9.0g                 Percentage of total investments financed: borrowed against interest from other s
+q99d_05         byte    %9.0g                 Percentage of total investments financed: borrowed from friends and relatives wi
+q99e_05         byte    %9.0g                 Percentage of total investments financed: borrowed from other sources wihtout in
+q100_05         byte    %26.0g     q100_05    Purpose of the investment
+q101a_05        byte    %9.0g      q101a_05   Aware of enviromental problems caused by production
+q101b_05        byte    %9.0g      q101b_05   MAde investments since 2002 regarding enviromental treatment
+q101c_05        byte    %9.0g      q101c_05   Were required to do by law/regulation
+q101d_05        byte    %41.0g     q101d_05   Why haven't the firm made enviromental investments
+q103a_05        byte    %9.0g      q103a_05   Did the firm sell any asset in 2004
+q103ba1_05      float   %9.0g                 Land sales values
+q103bb1_05      float   %9.0g                 Buildings sales values
+q103bc1_05      float   %9.0g                 Equipment/machinery sales values
+q103ba2_05      byte    %56.0g     q103ba2_05
+                                              Main reason for sale: Land
+q103bb2_05      byte    %56.0g     q103bb2_05
+                                              Main reason for sale: Buildings
+q103bc2_05      byte    %56.0g     q103bc2_05
+                                              Main reason for sale: Equipment/machinery
+q104a_05        float   %9.0g                 Total liabilities in 2004
+q104b_05        float   %9.0g                 Formal short term debt in 2004
+q104c_05        float   %9.0g                 Informal short term debt in 2004
+q104d_05        float   %9.0g                 Formal long term debt in 2004
+q104e_05        float   %9.0g                 Informal long term debt in 2004
+q105a_05        float   %9.0g                 Total interst payments in 2004
+q105b_05        float   %9.0g                 Interest payment on formal loans
+q106a_05        byte    %9.0g      q106a_05   Ever fail to service its debt on time in 2004
+q106b_05        byte    %9.0g                 Number of times
+q106c_05        float   %9.0g                 Maximum amount involved
+q106d_05        byte    %37.0g     q106d_05   Main reason
+q107_05         float   %9.0g                 Current outstanding balance owed to all suppliers
+q108_05         float   %9.0g                 Current amount due to your firm from all customers
+q109_05         byte    %9.0g      q109_05    Has applied for bank loans or other formal credit since 2002
+q110a_05        byte    %9.0g      q110a_05   Experience any problem getting the loan
+q110b_05        byte    %72.0g     q110b_05   Why did you experienced problems
+q111a_05        byte    %9.0g                 Number of formal short term loans
+q111b_05        byte    %9.0g                 Number of formal long term loans
+q112a_05        byte    %34.0g     q112a_05   Source of the most important current formal loan
+q112b_05        float   %9.0g                 Amount original borrowed
+q112c_05        int     %9.0g                 Which year did you borrow
+q112d_05        float   %9.0g                 Current liability
+q112e_05        float   %9.0g                 Monthly interest rate
+q112f_05        byte    %9.0g      q112f_05   Did your firm have to offer assets as collateral for the loan
+q112g_05        byte    %19.0g     q112g_05   What kind of collareral
+q112h_05        byte    %9.0g      q112h_05   Is there a guarantor for this loan
+q112i_05        byte    %38.0g     q112i_05   Relation between the guarantor and the firm
+q113_05         byte    %34.0g     q113_05    Which bank/formal institution do you primarily use
+q114_05         byte    %9.0g      q114_05    Intension of on-lending to employees
+q115a_05        byte    %9.0g                 Number of formal short term loans
+q115b_05        byte    %9.0g                 Number of formal long term loans
+q116a_05        byte    %9.0g      q116a_05   Think that are in need of a loan
+q116b_05        byte    %22.0g     q116b_05   Why do you are in need of a loan
+q117_05         byte    %26.0g     q117_05    Why has the firm not applied for formal loans since 2002
+q118a_05        byte    %9.0g      q118a_05   Have borrowed from informal sources since 2002
+q118b_05        byte    %28.0g     q118b_05   Reason why did you borrowed from infomal source
+q118c_05        byte    %9.0g                 Number of informal loans since 2002
+q119a_05        byte    %21.0g     q119a_05   Source of the most important informal loan
+q119b_05        float   %9.0g                 Amount originally borrowed
+q119c_05        int     %9.0g                 Year when did you borrow
+q119d_05        float   %9.0g                 Current liability
+q119e_05        float   %9.0g                 Monthly interest rate
+q119f_05        byte    %9.0g      q119f_05   Did the firm has to offer assets as a collateral
+q119g_05        byte    %19.0g     q119g_05   What kind of collateral
+q119h_05        byte    %9.0g      q119h_05   Is there a guarantor for this loan
+q119i_05        byte    %38.0g     q119i_05   Relation between guarantor and firm
+q120a_05        byte    %9.0g      q120a_05   Difficulties obtaining a informal loan since 2002
+q120b_05        byte    %9.0g                 How many times did you had difficulties
+q121_05         byte    %38.0g     q121_05    Relationship between maini creditor and the firm
+q122_05         byte    %9.0g      q122_05    Did the firm ever extend a loan to the main creditor
+q123_05         byte    %9.0g      q123_05    Has the firm ever borrowed from the main creditor before
+q124_05         byte    %16.0g     q124_05    Distance to the most important creditor
+q125a_05        byte    %9.0g                 Province where the creditor is located
+q125b_05        int     %9.0g                 District where the creditor is located
+q125c_05        str28   %28s                  Commune/ward where the creditor is located
+q126a_05        int     %9.0g                 Contact with: business people in the same line of business
+q126b_05        int     %9.0g                 Contact with: business people in different line of business
+q126c_05        byte    %9.0g                 Contact with: bank officials
+q126d_05        byte    %9.0g                 Contact with: mass organizations
+q126e_05        byte    %9.0g                 Contact with: Other
+q126f_05        byte    %50.0g     q126f_05   Of these contacts, whom do you consider the important
+q127a_05        int     %9.0g                 Percentage of the contacts: supplier of the firm
+q127b_05        int     %9.0g                 Percentage of the contacts: customer of the firm
+q127c_05        byte    %9.0g                 Percentage of the contacts: debtor of the firm
+q127d_05        int     %9.0g                 Percentage of the contacts: crditor of the firm
+q127e_05        int     %9.0g                 Percentage of the contacts: women
+q128a_05        int     %9.0g                 Times a year contacts assist in issues related to firm operations
+q128b_05        byte    %19.0g     q128b_05   Last time when contacts assisted your the firm issues related to the firm operat
+q129a1_05       int     %9.0g                 Contacts known at the time of establishment: business people in the same line of
+q129b1_05       int     %9.0g                 Contacts known at the time of establishment: business people in different line o
+q129c1_05       byte    %9.0g                 Contacts known at the time of establishment: bank officials
+q129d1_05       byte    %9.0g                 Contacts known at the time of establishment: mass organizations
+q129e1_05       byte    %9.0g                 Contacts known at the time of establishment: other
+q129a2_05       int     %9.0g                 Contacts known since 2002: business people in the same line of busines
+q129b2_05       int     %9.0g                 Contacts known since 2002: business people in different line of busines
+q129c2_05       byte    %9.0g                 Contacts known since 2002: bank officials
+q129d2_05       int     %9.0g                 Contacts known since 2002: mass organizations
+q129e2_05       byte    %9.0g                 Contacts known since 2002: other
+q130a_05        byte    %18.0g     q130a_05   Firm is not a member of a business association
+q130b_05        byte    %9.0g                 Name of the most imporant business association
+q130c_05        byte    %9.0g      q130c_05   Pay a membership fee to the business association
+q130d_05        float   %9.0g                 How much pay per year
+q130e_05        byte    %12.0g     q130e_05   Assess of usefulness of the membership of the most important business associatio
+q131a_05        byte    %9.0g      q131a_05   Face competition in your field of activity
+q131ba_05       byte    %14.0g     q131ba_05
+                                              From other non-state enterprise
+q131bb_05       byte    %14.0g     q131bb_05
+                                              From state enterprises
+q131bc_05       byte    %14.0g     q131bc_05
+                                              From legal imports/foreign competition
+q131bd_05       byte    %14.0g     q131bd_05
+                                              From smuggling
+q131be_05       byte    %14.0g     q131be_05
+                                              From other sources
+q132a_05        byte    %9.0g      q132a_05   Accumulate goods, which are difficult to sell
+q134a_05        byte    %9.0g      q134a_05   Has the firm introduced new products since 2002
+q134b_05        byte    %55.0g     q134b_05   What motivated to this change
+q134c_05        byte    %19.0g     q134c_05   How successful was the change
+q135a_05        byte    %9.0g      q135a_05   Made any major improvements of exsiting products since 2002
+q135b_05        byte    %55.0g     q135b_05   What motivated this change
+q135c_05        byte    %19.0g     q135c_05   How successful was the change
+q136a_05        byte    %9.0g      q136a_05   The firm introduced a new production process since 2002
+q136b_05        byte    %50.0g     q136b_05   What motivated this change
+q136c_05        byte    %19.0g     q136c_05   How successful was the change
+q138a_05        byte    %18.0g     q138a_05   At which administrative level is the firm registered
+q138b_05        int     %9.0g      q138b_05   Number of days it took to get the application form approved
+q138c_05        float   %9.0g      q138c_05   Formal fee for getting the appication approved
+q139a_05        byte    %9.0g      q139a_05   Number of registrations does the firm have
+q139b_05        byte    %9.0g                 Name the most important registration the firm has
+q139c_05        int     %9.0g                 The longest number of day that it took to obtain the registration
+q139d_05        int     %9.0g                 The shortest number of day that it took to obtain the registration
+q141a_05        byte    %10.0g     q141a_05   Receive assistance from which government authority
+q141b_05        byte    %28.0g     q141b_05   How did you get in contact with the authorities
+q141c_05        byte    %9.0g      q141c_05   Did you paid bribes to obtain assistance
+q142_05         byte    %9.0g                 Number of times the firm was inspected by government officials in 2004
+q143a_05        byte    %9.0g                 The most important reason how authorities can help: removing bureucratic require
+q143b_05        byte    %9.0g                 The most important reason how authorities can help: assistance with premises/lan
+q143c_05        byte    %9.0g                 The most important reason how authorities can help: assistance with infrastructu
+q143d_05        byte    %9.0g                 The most important reason how authorities can help: providing easier access to c
+q143e_05        byte    %9.0g                 The most important reason how authorities can help: restricting competition from
+q143f_05        byte    %9.0g                 The most important reason how authorities can help: through more liberal import
+q143g_05        byte    %9.0g                 The most important reason how authorities can help: assistance with raw material
+q143h_05        byte    %9.0g                 The most important reason how authorities can help: through assistance with tech
+q143i_05        byte    %9.0g                 The most important reason how authorities can help: improving training facilitie
+q143j_05        byte    %9.0g                 The most important reason how authorities can help: through assistance with mark
+q143k_05        byte    %9.0g                 The most important reason how authorities can help: by clarifying long term gove
+q143l_05        byte    %9.0g                 The most important reason how authorities can help: through improved macro-econo
+q143m_05        byte    %9.0g                 The most important reason how authorities can help: through better private secto
+q143n_05        byte    %9.0g                 The most important reason how authorities can help: other specify
+q143o_05        byte    %9.0g                 The most important reason how authorities can help: none
+q144a_05        byte    %9.0g      q144a_05   Received assistance: trade agency program
+q144b_05        byte    %9.0g      q144b_05   Received assistance: SME promotion agency
+q144c_05        byte    %9.0g      q144c_05   Received assistance: industrial extension agency
+q144d_05        byte    %11.0g     q144d_05   How do you assess the usefulness of this assistance
+q145a_05        byte    %12.0g     q145a_05   Characterize your knowledge about: enterprise law
+q145b_05        byte    %12.0g     q145b_05   Characterize your knowledge about: cooperative law
+q145c_05        byte    %12.0g     q145c_05   Characterize your knowledge about: labour code
+q145d_05        byte    %12.0g     q145d_05   Characterize your knowledge about: customs law
+q145e_05        byte    %12.0g     q145e_05   Characterize your knowledge about: insurance law
+q145f_05        byte    %12.0g     q145f_05   Characterize your knowledge about: tax law
+q145g_05        byte    %12.0g     q145g_05   Characterize your knowledge about: enviromental law
+q145h_05        byte    %12.0g     q145h_05   Characterize your knowledge about: land law
+q145i_05        byte    %12.0g     q145i_05   Characterize your knowledge about: investment law
+q146a_05        byte    %9.0g      q146a_05   Aware of the new law changes
+q146ba_05       byte    %9.0g      q146ba_05
+                                              Changes in: enterprise law
+q146bb_05       byte    %9.0g      q146bb_05
+                                              Changes in: enterprise cooperative law
+q146bc_05       byte    %9.0g      q146bc_05
+                                              Changes in: labour law
+q146bd_05       byte    %9.0g      q146bd_05
+                                              Changes in: customs law
+q146be_05       byte    %9.0g      q146be_05
+                                              Changes in: insurance law
+q146bf_05       byte    %9.0g      q146bf_05
+                                              Changes in: tax law
+q146bg_05       byte    %9.0g      q146bg_05
+                                              Changes in: enviromental law
+q146bh_05       byte    %9.0g      q146bh_05
+                                              Changes in: land law
+q146bi_05       byte    %9.0g      q146bi_05
+                                              Changes in: investment law
+q146bj_05       byte    %9.0g      q146bj_05
+                                              Changes in: gender law
+q146bk_05       byte    %9.0g      q146bk_05
+                                              Changes in: Other type of law
+q147_05         byte    %11.0g     q147_05    Impact of the 2000 enterprise law on the business
+q148_05         byte    %11.0g     q148_05    How oppening to international trade affect the firm
+q149a_05        byte    %9.0g      q149a_05   The firm is facing international competition
+q149ba_05       byte    %21.0g     q149ba_05
+                                              which measure: reducing production costs
+q149bb_05       byte    %21.0g     q149bb_05
+                                              which measure: introducing new technology
+q149bc_05       byte    %21.0g     q149bc_05
+                                              which measure: upgrading capacity of labour force
+q149bd_05       byte    %21.0g     q149bd_05
+                                              which measure: identifying new market outlets
+q149be_05       byte    %21.0g     q149be_05
+                                              which measure: other
+q150_05         byte    %42.0g     q150_05    Opinion about WTO accession
